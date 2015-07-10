@@ -1,0 +1,44 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: c:nil creator:nil d:(not "LOGBOOK") date:t e:t email:nil
+#+OPTIONS: f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Understanding Galileo
+#+SUBTITLE: RLG231, Summer 2015
+#+DATE: <2015-07-08 Wed>
+#+AUTHOR: Matt Price
+#+EMAIL: matt@osskil
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.3beta)
+#+OPTIONS: author:nil date:nil
+
+*Due Date:* July 20 @ 8:00PM
+
+*Length:* ~800 words
+
+This assignment asks you to select and carefully examine a single passage in Galileo's /Letter to the Grand Duchess Christina/.  You have several options with regard to the /form/ your assignment takes, but all versions of the assignment share the following goals and expectations:
+** Goals
+- engage in a close reading of an important primary text
+- learn in detail about the social and intellectual contexts of Galileo's trial
+- develop a succinct and compelling argument that makes sense of the conflict between Galileo's position and that of the Inquisition
+** Expectations
+- your paper should be approximately 800 words in length (a little shorter than your last paper)
+- your thesis and the structure of your argument should be apparent
+- you should demonstrate familiarity with the basic issues surrounding Galileo's trial, and the various interpretations thereof presented in the readings and lectures
+- your arguments should be self-consistent and convincing (but see below for some further guidance and clarification)
+- your paper should be largely free of typographical and grammatical errors; all sources should be cited appropriately
+** Assignment A
+Identify a relatively short passage in the /Letter/ which, in hindsight, highlights one or more ways in which Galileo's position diverges from official Church doctrine (e.g., epistemological, mathematical, methodological, or theological differences; or there may be differences in regard to the nature of /authority/; or other matters).  
+
+In a short, lucid essay, carefully explain both Galileo's position and that of his later Inquisitors, and explain how the issues raised in the passage played out in his later trial.
+
+** Assignment B
+As above, identify a relatively short passage in the /Letter/ which, in hindsight, highlights one or more ways in which Galileo's position diverges from official Church doctrine (e.g., epistemological, mathematical, methodological, or theological differences; or there may be differences in regard to the nature of /authority/; or other matters).
+
+Take the role of sympathetic but stern Church cleric.  Write a letter to Galileo explaining the nature of his errors, and suggest one or more corrections he might make in order to avoid further censure.
+
+** Assignment C
+Once again, identify a relatively short passage in the /Letter/ which, in hindsight, highlights one or more ways in which Galileo's position diverges from official Church doctrine (e.g., epistemological, mathematical, methodological, or theological differences; or there may be differences in regard to the nature of /authority/; or other matters).
+
+Take the role of an enthusiastic supporter and fellow natural philosopher from a Protestant country (e.g., the Netherlands, England, etc.).  Explain to Galileo the tyranny of the Church's official position, and recommend changes which would assert the proper authority of the natural philosopher.  

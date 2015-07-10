@@ -1,0 +1,59 @@
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
+#+OPTIONS: c:nil creator:nil d:(not "LOGBOOK") date:nil e:t email:nil
+#+OPTIONS: f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Ancient Astronomy and Cosmology
+#+AUTHOR: Matt Price
+#+EMAIL: matt@osskil
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.3beta)
+#+REVEAL_TITLE_SLIDE_TEMPLATE: <h1>%t</h1><h2>Religion 231</h2><h2>%a</h2>
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_mathjax:nil
+#+OPTIONS: reveal_overview:t reveal_progress:t
+#+OPTIONS: reveal_rolling_links:nil reveal_slide_number:t
+#+OPTIONS: reveal_title_slide:t reveal_width:800 reveal_height:600
+#+REVEAL_MARGIN: 0.4
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+# #+REVEAL_ROOT: http://sandbox.hackinghistory.ca/Tools/reveal.js
+#+REVEAL_ROOT: /home/matt/src/reveal.js
+#+REVEAL_TRANS: default
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: black
+#+REVEAL_EXTRA_CSS:
+#+REVEAL_EXTRA_JS:
+#+REVEAL_HLEVEL: 1
+#+REVEAL_TITLE_SLIDE_BACKGROUND:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION:
+#+REVEAL_MATHJAX_URL: http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_PREAMBLE:
+#+REVEAL_HEAD_PREAMBLE:
+#+REVEAL_POSTAMBLE:
+#+REVEAL_MULTIPLEX_ID:
+#+REVEAL_MULTIPLEX_SECRET:
+#+REVEAL_MULTIPLEX_URL:
+#+REVEAL_MULTIPLEX_SOCKETIO_URL:
+#+REVEAL_SLIDE_HEADER:
+#+REVEAL_SLIDE_FOOTER:
+#+REVEAL_PLUGINS: (notes multiplex)
+#+REVEAL_DEFAULT_FRAG_STYLE:
+
+
+* 
+https://upload.wikimedia.org/wikipedia/commons/5/51/Night-sky-milky-way-galaxy-astrophotography_-_West_Virginia_-_ForestWander.jpg
+#+BEGIN_NOTES
+- Ancient Egyptians, Nut, the sky goddess, wrapped the earth-god Geb in an embrace; out of this embrace were born Isis, Osiris, Set and Nepthys, among the most important gods in the pantheon.
+  - intimacy of this image speaks to the direct experience of the sky: as remote and magestic, but also immediate, surrounding, encompassing.  Terrifying at times, but also deeply familiar to most inhabitants of many cultures.
+- always visible, brighter-than-we-can-easily-imagine sky is a daily experience all around the world 
+#+END_NOTES
+
+* Characteristics of the night sky
+groupings of visible stars
+regular daily motion of stars
+#+ATTR_REVEAL: :frag (appear)
+https://upload.wikimedia.org/wikipedia/commons/3/31/Night_Photography.jpg

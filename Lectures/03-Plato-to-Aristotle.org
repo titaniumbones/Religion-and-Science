@@ -1,0 +1,145 @@
+# Local Variables:
+# org-time-stamp-custom-formats: ("<%b %d, %y>" . "<%m/%d %H:%M>")
+# End:
+#+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:t
+#+OPTIONS: c:nil creator:nil d:(not "LOGBOOK") date:t e:t email:nil
+#+OPTIONS: f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
+#+OPTIONS: tasks:t tex:t timestamp:t title:t toc:nil todo:t |:t
+#+TITLE: Plato, Aristotle, and the Heavens
+#+AUTHOR: Matt Price
+#+EMAIL: matt@osskil
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.3beta)
+#+REVEAL_TITLE_SLIDE_TEMPLATE: <h1>%t</h1><h2>Religion 231</h2><h2>%a</h2>
+#+OPTIONS: reveal_center:t reveal_control:t reveal_height:-1
+#+OPTIONS: reveal_history:nil reveal_keyboard:t reveal_mathjax:nil
+#+OPTIONS: reveal_overview:t reveal_progress:t
+#+OPTIONS: reveal_rolling_links:nil reveal_slide_number:t
+#+OPTIONS: reveal_title_slide:t reveal_width:800 reveal_height:600
+#+REVEAL_MARGIN: 0.4
+#+REVEAL_MIN_SCALE: -1
+#+REVEAL_MAX_SCALE: -1
+#+REVEAL_TRANS: default
+#+REVEAL_SPEED: default
+#+REVEAL_THEME: matt
+#+REVEAL_EXTRA_CSS:
+#+REVEAL_EXTRA_JS:
+#+REVEAL_HLEVEL: 1
+#+REVEAL_TITLE_SLIDE_BACKGROUND:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_SIZE:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_REPEAT:
+#+REVEAL_TITLE_SLIDE_BACKGROUND_TRANSITION:
+#+REVEAL_MATHJAX_URL: http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+#+REVEAL_PREAMBLE:
+#+REVEAL_HEAD_PREAMBLE:
+#+REVEAL_POSTAMBLE:
+#+REVEAL_MULTIPLEX_ID:
+#+REVEAL_MULTIPLEX_SECRET:
+#+REVEAL_MULTIPLEX_URL:
+#+REVEAL_MULTIPLEX_SOCKETIO_URL:
+#+REVEAL_SLIDE_HEADER:
+#+REVEAL_SLIDE_FOOTER:
+#+REVEAL_PLUGINS: (notes multiplex)
+#+REVEAL_DEFAULT_FRAG_STYLE:
+#+REVEAL_ROOT: ./
+
+* Recap
+#+ATTR_REVEAL: :frag (appear appear appear)
+- ubiquity of stellar observation
+- diversity of interpretation
+- what kinds of knowledge can we have? 
+** Plan
+- Plato and the Pre-Socratics
+- Aristotle
+- Ptolemy
+* What's at Stake in the Heavens
+
+[[https://upload.wikimedia.org/wikipedia/commons/3/3a/Ptolemaicsystem-small.png]]
+
+#+BEGIN_NOTES
+- crystal spheres
+- heavenly music
+- what's at stake
+
+#+END_NOTES
+
+** Nature of Knowledge
+#+ATTR_REVEAL: :frag (appear appear appear)
+- how to determine what to believe
+  - textual sources, reason, observation
+- all forms of argument from /authority/, not fully independent
+- "ladenness" of observation: no /seeing/ without /understanding/
+
+** Nature of Divinity
+- Greek 
+* Before Plato
+- fragmentary evidence, much of which comes from Aristotle
+- Interest in origins of matter/universe
+- clear evidence of /four elements/
+  - is one *prior*?
+- interest in shape/components of cosmos
+  - geocentric spherical universe
+- central question of *being* vs *becoming*
+
+** Being and Becoming
+- How real is change?
+- What are the mechanisms of change?
+- if there is change, how does it relate to unchanging truths?
+
+* Plato's epistemology
+- Truth ascertained through reason alone
+- pertains to an unchanging *world of forms*
+- struggle to know is a process of moving past flickering illusions of our world
+
+** Allegory of the Cave
+http://ethicsjusticeandsociety.voices.wooster.edu/files/2011/01/cave_small.jpg
+** Allegory of the Cave
+#+BEGIN_QUOTE
+Compare the region which the eye reveals to the cave. Compare the light of the fire to the light of the sun. Compare the upward ascent to the contemplation of the upper world. Now you understand the mounting of the soul to the intellectual region. In the world of knowledge the Form of God is the limit for our inquiries and can barely be perceived. But, when perceived, we cannot but conclude that it is the source of all that is good and beautiful. 
+#+END_QUOTE
+** Status of the Natural World
+- changeable and unfixed
+- imperfect and flickering
+- therefore, *not a source /or object/* of perfect knowledge
+** Sources of reliable knowledge
+- mathematics
+- aesthetic judgment
+- principles of logic & dialogic argument
+* Plato's cosmology
+Circular motions, Crystal Spheres, and a divine Demiurge!
+** Purpose of Astronomy
+#+BEGIN_QUOTE
+These sparks that paint the sky, since they are decorations on a visible surface, we must regard... as the fairest and most exact of material things, but we must recognize that they fall far short of the truth, the movements, namely, of real speed and real slowness in true number and in all true figures...  These [true things] can be apprehended only by reason and thought, but not by sight, or do you think otherwise?  -- Socrates, in /Republic/ VII 529:d
+#+END_QUOTE
+#+ATTR_REVEAL: :frag (appear appear)
+- practical purposes (navigation, warfare, claendrics) significant but
+- real function of astronomy is /cultivation of the soul/ (like geometry & harmonics)
+** The Cosmos was Created
+#+BEGIN_QUOTE
+Now everything that becomes or is created must of necessity be created by some cause, for without a cause nothing can be created. The work of the creator, whenever he looks to the unchangeable and fashions the form and nature of his work after an unchangeable pattern, must necessarily be made fair and perfect, but when he looks to the created only and uses a created pattern, it is not fair of perfect. 
+-- Timaeaus 28:b
+#+END_QUOTE
+** The Cosmos is a Copy
+#+BEGIN_QUOTE
+The world has been framed *in the likeness* of that which is apprehended by reason and mind as unchageable. (Timaeus 29:a)
+#+END_QUOTE
+#+ATTR_REVEAL: :frag appear
+But it is an /imperfect/ copy thereof
+** The Cosmos, though imperfect, is divine
+#+BEGIN_QUOTE
+...he made the world in the form of a globe, round as from a lathe, having its extremes in every direction equidistant from the center, the most perfect and the most like itself of all figures... (33:b)
+#+END_QUOTE
+** more divinity
+#+BEGIN_QUOTE
+Now when the creator had framed the soul [of the universe] according to his will, he formed within her the corporeal universe, and brought the two together and united them center to center.  The soul, interfused everywhere from the center to the circumference of heaven, of which also she is the external envelopment, herself turning in herself, began a divine beginning of never-ceasing and rational life enduring throughout all time.
+#+END_QUOTE
+In addition, @@html:<span class="fragment" syle="color:red">@@heavenly bodies are themselves ensouled@@html:</span>@@.
+** Structure of the Cosmos
+- circular
+- composed of bodies moving uniformly
+- with unspecified complex structures for irregularities
+* Plato Summary
+- deductive and teleological approach to Truth
+- 

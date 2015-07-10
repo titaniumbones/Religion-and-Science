@@ -1,0 +1,186 @@
+#+POSTID: 4
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:comment d:(not "LOGBOOK") date:t
+#+OPTIONS: e:t email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t toc:2 todo:t |:t
+#+SETUPFILE: /home/matt/src/org-html-themes/setup/theme-readtheorg.setup
+#+STARTUP: customtime entitiespretty
+# Local Variables:
+# org-time-stamp-custom-formats: ("<%m/%d>" . "<%m/%d %H:%M>")
+# End:
+
+#+TITLE: RLG231: Religion and Science
+#+DATE: <2015-04-29 Wed>
+#+AUTHOR: Matt Price
+#+EMAIL: matt.price@utoronto.ca
+#+DESCRIPTION:
+#+KEYWORDS:
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 24.4.1 (Org mode 8.3beta)
+#+OPTIONS: html-link-use-abs-url:nil html-postamble:auto
+#+OPTIONS: html-preamble:t html-scripts:t html-style:t
+#+OPTIONS: html5-fancy:nil tex:t
+#+HTML_DOCTYPE: xhtml-strict
+#+HTML_CONTAINER: div
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+HTML_HEAD:
+#+HTML_HEAD_EXTRA:
+#+HTML_MATHJAX:
+#+INFOJS_OPT:
+#+LATEX_HEADER:
+* Logistics
+#+ATTR_HTML: :class org-upload
+
+
+| *Instructor:*   | Matt Price             |
+| *Email:*        | matt.price@utoronto.ca |
+| *Office Hrs:*   | SS 3077 R 1-3          |
+| *Meeting Times* | M W 10-12              |
+* Introduction
+What is the relationship between science and religion? Are they complementary ways of understanding the universe? Are they opposed, competing accounts of its workings? Are they implacable foes? Wary colleagues? BFF's?  
+
+This class investigates the complicated relationship between science and religion from a number of perspectives. It is not easy to answer and of these questions, and part of our task will be to examine and critique any ready-made answers we bring to the conversation; but another part will be to ask whether we might not be /asking the wrong questions altogether/.  Perhaps we should not ask, "Is there a war between science and religion?", but rather, "How did we arrive at a situation where 'science' and 'religion' can confront each other as separate forces? How have other times and cultures understood the relationship between the divine and the mundane, the spirit and the world?"
+
+In this course, we look for answers to these and other questions in three ways: 
+- *first*, by briefly examining and calling into question what we mean by "science" and "religion" (the /philosophical/ questions);
+- *second*, by studying some of the diverse ways in which knowledge of the natural and supernatural have been related (the /historical/ questions); 
+- and *third*, by investigating contemporary controversies over the roles of religion and science in education, political policy, and the practice of daily life (the /anthropological/ questions).  
+* Course Requirements
+Grading in this course is done using a /modified point system/. The system may seem odd at first, but it has definite advantages for both students and teachers, so don't be intimidated. Instead of receiving a number or letter grade for each assignment, and then getting a weighted sum of those grades as your final mark, you will /choose what final mark to try for/ and then /complete the assignments required for that mark/.  A certain set of assignments is required for a D; for a C, you must complete all of the "D" assignments plus another set; for a B, all of the C assignments plus some more; and the same goes for an A. 
+
+Here are some more details:
+- All Assignments Are Graded Pass/Fail :: Each assignment you get will include a careful explanation of my expectations. If your work meets those expectations, you get full credit; if not you get /no credit/. 
+- A 'Passing' Mark on Assignments is a B+ :: In order to get credit for an assignment, you will have to demonstrate a high level of mastery -- about the level normally required for a B+.
+- Each Higher Grade Represents a quantum level of additional achievement :: As you move up the ladder, assignments test more advanced and difficult concepts from the course.
+- If you fail, you can try again :: You start the semester with 5 'retry' chits, which you can use to resubmit assignments that have not succeeded. If necessary, you can use all of those chits on a single assignment!
+- A late assignment costs one 'retry' chit :: There is no percentage penalty for late work; instead, a late paper will cost you one of your retry opportunities.
+- Second and third tries get fewer comments :: I will give substantial comments on first tries; additional tries will get less and less fulsome commentary.
+- Pluses and Minuses are determined by participation :: The only part of your grade which is not determined on a pass/fail basis is the "+" or "-" part, which is assigned based on your on and offline participation.  See the participation grade sheet for more details. 
+
+I know there will be questions!  Please don't hesitate to ask them.  And here, finally, is the list of assignments. Detailed assignments will be handed out with adequate time to permit completion.
+| <25>                      | <7>     | <35>                                | <37>                                  | <36>                                 | <36>                                 |
+| Assignment                | Due Date | D                                   | C                                     | B                                    | A                                    |
+|---------------------------+---------+-------------------------------------+---------------------------------------+--------------------------------------+--------------------------------------|
+| Definitions Paper (3-5pp) | <2015-07-08 Wed> | \checkmark                          | \checkmark                            | \checkmark                           | \checkmark                           |
+| Galileo Assignment (      | <2015-07-20 Mon> | \checkmark                          | \checkmark                            | \checkmark                           | \checkmark                           |
+| Evolution Assignment      | <2015-07-29 Wed> |                                     | \checkmark                            | \checkmark                           | \checkmark                           |
+| Class Presentation        | Ongoing |                                     |                                       | \checkmark                           | \checkmark                           |
+| Final Paper (7-9 pp)      | <2015-08-10 Mon> |                                     |                                       |                                      | \checkmark                           |
+| Competencies Demonstrated |         | Basic understanding of the division between "Religion" and "Science" | Basic understanding of pivotal events that have shaped the modern relationship between religion and science | Substantial engagement with the philosophical difficulties in contemporary ocnversations about religion and science | Creative exploration of an important question in this domain |
+
+* Course Texts
+The following books are available on reserve at Robarts and at the bookstore.  We make heavy use of them and I strongly urge you to buy them.  
+
+- Dixon, Thomas. Science and Religion: A Very Short Introduction. New York: Oxford University Press, 2008.
+- Ferngren, Gary B., ed. Science and Religion: A Historical Introduction. Johns Hopkins University Press, 2013.
+- Barbour, Ian G. Religion and Science : Historical and Contemporary Issues. {San Francisco}: HarperSanFrancisco, 1997.
+
+These volumes, on reserve at Robarts, provide additional valuable information
+- Brooke, John Hedley, and Ronald L. Numbers, eds. Science and Religion around the World. New York: Oxford University Press, 2011.
+Shorter readings are either provided on Blackboard or linked in the syllabus below. 
+
+* Course Outline
+*This is a /provisional/ course schedule for our relatively small class.* Most of our sessions raise enough questions to occupy us for the entire semester (!), and we'll spend as much time on each topic as we need to explore it as the class wishes.  The readings will likely be adjusted as we proceed.  
+
+** Introduction: What is Science? What is Religion? (<2015-06-29 Mon>)
+We all come to this course with ideas about what the words "science" and "religion" mean. In this first session, we examine those preconceptions and begin to interrogate the long history of these words and their relationship to each other.  
+***  Readings 
+In Class:
+- Gould, Stephen Jay. “Nonoverlapping Magisteria.” Natural History, March 1997. http://search.proquest.com.myaccess.library.utoronto.ca/docview/210645944?OpenUrlRefId=info:xri/sid:summon&accountid=14771.
+
+Background (Read for next time!!):
+- Dixon, ch 1., "What are science-religion debates really about?"
+
+Further Reading (for your enjoyment!):
+- Barbour, ch. 4 & 6, "Ways of Relating Science & Religion" and "Similarities and Differences"
+- Russell, "The Conflict of Science & Religion" in Ferngren.
+
+** Creation, the Cosmos, and Knowledge in the Ancient World (<2015-07-06 Mon>)
+Observation of the skies played an important part in the lives of many ancient peoples; we briefly delve into the diverse and complex relationships between the heavens and the terrestrial sphere in various ancient societies. This is one of the most overloaded sessions of the semester, so be prepared to jump in with both feet (as I also will!). 
+*** Readings
+- "Hopi Calendar and Worldview", "Chinese Astronomy", and "Babylonian Astronomy and Astrology" in Clive Ruggles, /Ancient Astronomy/ (http://search.library.utoronto.ca/details?8154986, click on the link to get connected)
+- "Chinese Cosmology" and "Mesopotamian Cosmology" in Hetherington/ /Cosmology: Historical, Literary, Philosophical, Religious and Scientific Perspectives/
+
+Further Reading:
+- Ho Peng Yoke, /Chinese mathematical astrology : reaching out to the stars/ (2003)
+- Hetherington/ /Cosmology: Historical, Literary, Philosophical, Religious and Scientific Perspectives/ 
+- Aveni, /Stairways to the Stars/ 
+- Barton, /Ancient Astrology/ 
+- Rothberg, /The Heavenly Writing/ and /In the Path of the Moon/ (hard!)
+
+** Aristotle, Plato, and the Nature of Creation (<2015-07-08 Wed>)
+The Greek philosopher Aristotle had a profound influence on cosmology in both Christianity and Islam; his cosmology strongly opposed that of his teacher Plato. His works also had a more general influence, serving as a model for the philosophical investigation of natural phenomena. 
+*** Readings
+- Grant, "Aristotle & Aristotelianism" in Ferngren
+- Aristotle, /Physics/ (selections)
+- Plato, /Timeaus/ (selections)
+
+** Natural Philosophy in Early Islam (<2015-07-13 Mon>)
+The Aristotelian tradition, upon which much of Catholic doctrine was later founded, and which served as the basis for much of medieval and Renaissance natural knowledge in Europe, was preserved largely in the Islamic tradition. Here we briefly discuss Aristotle's system and its place in Islamic philosophy.
+*** Readings
+- Dallal, "Early Islam" in Brooke & Numbers, /Science and Religion Around the World/
+- Ragep, "Islamic Culture and the Natural Sciences", /Cambridge History of Science. Volume 2: Medieaval Science/ (http://universitypublishingonline.org.myaccess.library.utoronto.ca/cambridge/histories/chapter.jsf?bid=CHO9780511974007&cid=CHO9780511974007A010)
+- Averroes, "The Decisive Treatise" (selections)
+
+** Galileo, God's Two Books, and "the War between Science and Religion" (<2015-07-15 Wed>)
+Galileo's world was one of complex political intrigues and deep theological debates. No event has become more symbolic of an "eternal conflict" between science and religion than his trial in 1632. We look back to that time, and to the way it has been interpreted over the last 150 years.  
+*** Readings
+- Dixon, Ch.2, "Galileo and the Philodophy of Science"
+- Barbour, Ch. 1, "Physics & Metaphysics in the Seventeenth Century"
+- Galileo Galilei, /Letter to the Grand Duchess Christina/, lines 1-542. 
+Further Reading:
+- Rivka Feldhay, /Galileo and the Church: Political Inquisition or Critical Dialogue?/
+-Finocchiaro, Maurice A., ed. The Galileo Affair : A Documentary History. Berkeley: University of California, 1989.
+
+** Miracles and Mechanism (<2015-07-20 Mon>)
+The Eighteenth Century saw a dramatic decrease in the occurrence of /miracles/.  This was no trivial trend, but marked instead a profound shift in Christian understandings of God's inclination and capacity to intervene in terrestrial affairs. Miracles remain one of the most important terrains on which the contest between scientific and religious explanation is played out.  When Napoleon asked Pierre-Simon Laplace why his book on the origin of the solar system did not mention God, Laplace reportedly replied, "I had no need of that hypothesis." We investigate the rise, in the Eighteenth Century, of a /radical mechanism/, and some of the reactions that it engendered (including strict Deism, Romanticism, Panentheism, etc.)
+*** Readings
+- Henry, "Causation" in Ferngren
+- Barbour, Ch. 2, "Nature and God in the Eighteenth Century"
+- Dixon, Ch. 3, "Does God Act in Nature?"
+- Voltaire, "Miracles" in /Philosophical Dictionary/ p 272-284 (1764:1901)
+Further Readings
+- Dear, Peter. “Miracles, Experiments, and the Ordinary Course of Nature.” Isis 81, no. 4 (December 1, 1990): 663–83. http://www.jstor.org.myaccess.library.utoronto.ca/stable/233810.
+- Harrison, Peter. “Miracles, Early Modern Science, and Rational Religion.” Church History 75, no. 3 (September 1, 2006): 493–510. http://resolver.scholarsportal.info/resolve/00096407/v75i0003/493_memsarr.xml.
+- Park & Daston, /Wonders and the Order of Nature/
+- Brooke, Ch. 4, "Divine Activity in a Mechanical Universe"
+
+** Darwin, Evolution, and God (<2015-07-22 Wed>)
+The theory of evolution by Natural Selection, put forth by Charles Darwin in 1859, had profound consequences in science and in theology. Our very brief treatment of this incredibly complex development will be the merest glimpse of the philosophical and theological richness of this discussion.  
+*** Readings 
+- Dixon, ch. 4, "Darwin & Evolution"
+- Jim Moore, "Charles Darwin" in Ferngren
+- William Paley, /Natural THeology/ Ch. 1 & 2.
+- T. H. Huxley, "Agnosticism" (skim)
+- Darwin, /On the origin of species/ (Final paragraph only)
+
+** Creation and Design (<2015-07-27 Mon>)
+Creationism and Intelligent Design are interlinked social and intellectual movements that resist evolutionary accounts of human origins.  Again, we scratch the surface of this fascinating terrain.
+*** Readings
+- Numbers, "Creationism since 1859", in Ferngren
+- Larson, "The Scopes Trial", in Ferngren
+- Dembski, "The Design Argument" in Ferngren
+
+** Dice, God, and the Universe  (<2015-07-29 Wed>)
+The "new" physics of the Twentieth Century (now over a hundred years old) broke apart the old mechanical worldview. What consequences does this have for belief and religious practice? We look at various responses.  
+*** Readings
+- Barbour, "Physics and Metaphysics" and "Astronomy and Creation" in /Religion and Science: Historical and Contemporary Issues/. 
+- "Steven Weinberg" in Nancy Frankenberry, /The Faith of Scientists/ (2008), p. 317-339.  
+
+** Faith in Nature (<2015-08-03 Mon>)
+One remarkable development of the last 40 years has been the emergence of an environmentalism that is simultaneously social movement, field of scientific inquiry, and, in places, a form of spiritualism or religiosity. We look at how these strands interweave in contemporary life. *Late-breaking Addendum:* /The Vatican has just released what is probably the most significant statement yet by a major religious authority on the subject of climate change. I hope we will find a way to incorporate some study of/ [[http://w2.vatican.va/content/francesco/en/encyclicals/documents/papa-francesco_20150524_enciclica-laudato-si.html][Laudato Si]] /into our discussions./
+*** Readings
+- Lovelock, J.E., and L. Margulis. “Atmospheric Homeostasis by and for the Biosphere:The Gaia Hypothesis.”
+- /Faith in Nature: Environmentalism as Religious Quest/ (selections)
+- Livingstone, "Ecology and the Environment", in Ferngren
+
+** Science and Religion as Popular Culture
+The issues we've been examining play our over and over again in film and popular culture.  Let's take the last class to explore, critique, and enjoy some of these expressions (if we get this far!). 
+- /Religions of Star Trek/, selections.
+- Zelazny, /Lord of Light/, selections
+- Film Clips to be chosen by the class
+  
+

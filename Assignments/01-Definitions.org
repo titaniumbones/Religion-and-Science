@@ -1,0 +1,38 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+TITLE: Defining Religion and Science
+#+DATE: <2015-06-29 Mon>
+#+AUTHOR: Matt Price
+#+EMAIL: matt@osskil
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.3beta)
+
+* Assignment
+In a paper of approximately 1000 words (3-5 pp), /briefly/ and /succinctly/ define "science" and "religion" and lay out a /preliminary/ model of how these domains /do/ and/or /should/ interact.  
+
+* Expectations
+/Stylistically/, this paper should be free of any major spelling or grammatical errors (an occasional typo is OK), and written in a suitably academic tone.  I don't mean you need to be boring or humorless!  But this is not a Facebook post, so you should use precise language that conveys your argument clearly and convincingly.
+
+/Substantively/, your paper should present a /clear thesis/ with /interesting arguments/ presented using /compelling evidence/.  The Writing Centre offers [[http://www.writing.utoronto.ca/advice][general advice]] that may be of great assistance. 
+
+More specifically, 
+- you should present clear and coherent views of both science and religion; 
+- your paper should make clear that you recognize that there is a diversity of opinion about how to define these domains, and explain on what basis you choose the definitions you do
+- your words and arguments should be your own (obviously!), and you should use citations judiciously and appropriately; again, the [[Y][Writing Centre]] can be very helpful here.
+- you should engage the appropriate texts from the course, particularly the readings listed on the syllabus under the first class;
+- if you use outside texts (which you're welcome to do!), make sure that your use of them follows scholarly standards (e.g., please do not simply cite Scripture as a final authority, but instead, if you are strongly guided by scriptural sources, provide a philosophical, historical, or sociological interpretation of the text and explain how it relates to the arguments we've covered in class).
+
+Like all assignments in class, this paper is marked pass/fail. To receive credit for this assignment, you will need to meet all of these expectations.  
+
+* Goals
+The purpose of this assignment is to allow you to:
+
+- think hard about the subject of our course
+- engage seriously with our initial readings
+- lay a groundwork for our further study
+- create a benchmark to which you can return at the end of the course, to see whether your thoughts have evolved.  

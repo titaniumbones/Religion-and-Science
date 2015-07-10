@@ -1,0 +1,50 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+TITLE: Presentation
+#+DATE: <2015-06-30 Tue>
+#+AUTHOR: Matt Price
+#+EMAIL: matt@osskil
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.3beta)
+#+SETUPFILE: /home/matt/src/org-html-themes/setup/theme-readtheorg.setup
+
+Class presentations are an opportunity to extend the conversation in the class and deepen your classmates' understanding of the topic at hand. They allow you to explore a topic in substantial depth, hone your arguments, and explicate difficult philosophical or technical material.  
+
+* What you get out of it
+- a chance to do learn more about a topic
+- an opportunity to frame convincing arguments
+- an incentive to acquire a deeper understanding
+- a chance to practice presenting your ideas in public (but to a friendly audience)
+- the opportunity to collaborate with your classmates
+- if you want, a chance to experiment creatively
+
+* What your classmates get out of it
+- unexpected knowledge about a specific topic
+- an opportunity to help you think harder
+- a break from your droning professor
+
+* Format
+We have such limited time this summer!  So it's very important to be /concise/.  Do your research; figure out what you want to say; then pare it down to /only the most important bits./  You will be presenting in groups; the group can work very closely together, or relatively independently, but in every case you should work in a /co-ordinated/ fashion.  
+- 10 mins/person max (in a group of 3, try to be even shorter!)
+- if individual presentations, /flow/ between presenters; you should be able to articulate a link between the presentations.
+- remain up front and help lead discussion/respond to questions.  
+
+* Expectations
+You should do the readings for the class session in advance, and then meet together with me at least 2 days before class.  Then decide on a specific topic and mode of presentation, and do additional research as necessary.  If you will be researching and presenting separately, make sure you meet at least once to coordinate your topics & styles. If you have decided on a group presentation -- one that takes the form, say, of a debate or a skit -- then be sure you pull your own weight in the preparations.  
+
+A successful presentation has the following characteristics:
+
+- Clarity :: It should be clear to your peers *what the specific topic of your presentation is*, *what important issues you have identified therein*, and *what arguments you are making about them*.  Ask yourself: if I were listening to this, would I understand what the presenter finds exciting about this material?  If so, you have probably met this criterion.
+- Depth :: Your presentation should bring *additional depth* to the conversation by bringing into focus something that was not obvious from the required readings. In general, if you  do some outside reading, you will be able to ddo this with relative ease.  
+- Interest :: The topic you choose should hold some real intellectual interest.  Does it shed light on the relationship between science and religion? Does it raise substantive historical or philosophical questions? If you can answer "yes" to any of these questions, then you have probably met this criterion.  
+- Concision :: If this class is going to work, you *must* be concise.  Keep to the time limits, even though it's hard!
+
+If you can achieve these standards, you will get credit for this assignment.  
+
+It's also great if you can be creative, perhaps playful, and if you're able to project in a strong voice in a way that's easy for your classmates to hear.  But I won't grade you on the basis of these things! If you're a great public speaker or a stand-up comic -- great, show us what you've got. If, on the other hand, you're shy and have a tendency to mumble: do your best, certainly, but rest assured that I'm not marking you on your acting skills.  
+

@@ -1,0 +1,170 @@
+#+POSTID: 24
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t c:nil creator:nil d:(not "LOGBOOK") date:t e:t
+#+OPTIONS: email:nil f:t inline:t num:nil p:nil pri:nil prop:nil
+#+OPTIONS: stat:t tags:t tasks:t tex:t timestamp:t title:t toc:nil
+#+OPTIONS: todo:t |:t
+#+TITLE: What Are Science and Religion?
+#+DATE: <2015-06-29 Mon>
+#+AUTHOR: Matt Price
+#+EMAIL: matt.price@utoronto.ca
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 25.0.50.1 (Org mode 8.3beta)
+#+DESCRIPTION:
+#+KEYWORDS:
+#+HTML_LINK_HOME:
+#+HTML_LINK_UP:
+#+DECK_POSTAMBLE: <h1>%a - %t</h1>
+#+DECK_PREAMBLE:
+#+HTML_INCLUDE_DEFAULT_STYLE:
+#+HTML_INCLUDE_SCRIPTS:
+# #+DECK_BASE_URL: /home/matt/src/deck.js
+# #+DECK_BASE_URL: /Tools/deck.js
+#+DECK_THEME: swiss.css
+#+DECK_TRANSITION: fade.css
+#+DECK_INCLUDE_EXTENSIONS:
+#+DECK_EXCLUDE_EXTENSIONS:
+#+CATEGORY: deck,
+ 
+* Consider the Moon
+[[http://upload.wikimedia.org/wikipedia/commons/9/9a/Howling_at_the_Moon_in_Mississauga.jpg]]
+ 
+
+
+* Consider the Moon
+:PROPERTIES: 
+:STEP: 1
+:END:
+- what do we know about it?
+- how do we know it?
+- on what basis do we trust our knowledge?
+* Consider the Moon
+#+BEGIN_VERSE
+Lord, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
+Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
+*When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;*
+*What is man, that thou art mindful of him? and the son of man, that thou visitest him?*
+For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
+Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
+All sheep and oxen, yea, and the beasts of the field;
+The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
+O Lord our Lord, how excellent is thy name in all the earth!
+
+#+END_VERSE
+
+* Consider the Moon
+- how do we interpret this verse?
+- on what basis?
+- what sort of authority does it have?
+
+* On Complexity
+** None of these conclusions  is obvious
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+
+- in both cases ("scientific" and "religious") we draw on *sophisticated and highly mediated experience* to answer questions
+
+** "Science" and "Religion" are themselves complex, difficult entities
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+
+- we do not always mean the same thing when we talk about them
+* What is Science?
+** Science as *method*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+
+- earliest philosophers of science distinguished it from other forms of knowledge b/c of its use of *inductive method*
+- model: "experimental philosophy of, e.g., Robert Boyle (Boyle's Law)
+- *BUT:* so many problems with induction! So, is science true?  
+** Science as *Historical Development*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+
+- "Scientific revolution" around c. 17
+- "Break" from "superstition"? 
+- *BUT:* division of *natural philosophy* from other branches of knowledge gradual
+- growth of specialization, begins in c. 16 and accelerates rapidly in c. 18 and c. 19.
+-  Term "scientist" coined in early 19th Century (latin /scientia/ had a broader application, "knowledge")
+** Science as *knowledge*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+- C.20 Philosophy of Science focussed on science as *set of propositions*
+- *BUT:* not how scientists themselves talk about their work!
+* What is Science?
+** Science as *social practice*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+- Contemporary sociologists/historians/anthropologists view science *as a practice*
+- embedded in, not distinct from, everyday life
+* What is Religion?
+** Religion as *experience*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+#+BEGIN_VERSE
+ “the manifestation of the Divinity already in man”
+-- Vivekananda, 1893
+#+END_VERSE
+#+BEGIN_VERSE
+"the feelings, acts, and experiences of individual men in their solitude, so far as they apprehend themselves to stand in relation to whatever they may consider the divine”
+-- William James, 1902
+#+END_VERSE
+** Religion as *revelation*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+
+#+BEGIN_VERSE
+" . . . is the state of being grasped by an ultimate concern, a concern which qualifies all other concerns as preliminary and which itself contains the answer to the question of the meaning of our life. Therefore this concern is unconditionally serious and shows a willingness to sacrifice any finite concern which is in conflict with it. The predominant religious name for the content of such a concern is God -- a god or gods.”
+-- Paul Tillich, 1963
+#+END_VERSE
+* What is Religion?
+** Religion as *social institution*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+#+BEGIN_VERSE
+" . . . is a system of symbols which acts to establish powerful, pervasive, and long-lasting moods and motivations in men by formulating conceptions of a general order of existence and clothing these conceptions with such an aura of factuality that the moods and motivations seem uniquely realistic."
+-- Clifford Geertz, 1966
+#+END_VERSE
+** Religion as *social construct*
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+#+BEGIN_VERSE
+“...while there is a staggering amount of data, phenomena, of human experiences and expressions that might be characterized in one culture or another, by one criterion or another, as religion - there is no data for religion. Religion is solely the creation of the scholar's study. It is created for the scholar's analytic purposes by his imaginative acts of comparison and generalization. Religion has no existence apart from the academy.”
+#+END_VERSE
+* Conflict Thesis
+- Appears most vividly in c. 19, e.g.
+#+BEGIN_VERSE
+Extinguished theologians lie about the cradle of every science as the strangled snakes beside that of Hercules; and history records that whenever science and orthodoxy have been fairly opposed, the latter has been forced to retire from the lists, bleeding and crushed if not annihilated; scotched, if not slain."
+-- T. H. Huxley, 1859
+#+END_VERSE
+** But what kind of conflict?
+:PROPERTIES: 
+:STEP: t
+:HTML_CONTAINER_CLASS: slide
+:END:
+- conflict of *knowledge and belief?*
+- conflict of *political authority?*
+- conflict of *practices*?
+The very question of *conflict or harmony* presupposes *two coherent or singular entities that can confront each other*. But this may not be the case.  

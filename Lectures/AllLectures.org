@@ -1,3 +1,5 @@
+Each leacture is stored as a level-one header, then exported to an HTML slideshow using the Reveal.js exportengine of Emacs org-mode. These are best viewed /as presentations/; cf. [[http://sandbox.hackinghistory.ca/RLG231/Lectures/Slides/]] for a few examples. 
+
 * 01 What Are Science and Religion
 :PROPERTIES:
 :EXPORT_FILE_NAME: 01-what-are-sci-and-rel
@@ -750,6 +752,10 @@ There can be no “first” motion!
 -  a *heritage* to the monotheistic religions, and a set of *challenges*
 
 * 04 Islam
+:PROPERTIES:
+:EXPORT_FILE_NAME: 04-islam
+:END:
+
 ** Recap
 - Ptolemaic Astronomy & Cosmology
 - Platonic and Aristotelian conceptions of "God"
@@ -936,6 +942,10 @@ Philosophical divide.  Shi'a/Sunni division.  Shi'a, proposed succession of Ali;
 - al-ghazali quote: about mathematical truth.  "what kids of truths are they?
 [[file:01-what-are-sci-and-rel.html]]
 * 05 Galileo
+:PROPERTIES:
+:EXPORT_FILE_NAME: 05-galileo
+:END:
+
 ** Whoa!
 - What a crazy system!
 - resubmission: email or blackboard, both OK.
@@ -1704,6 +1714,8 @@ sonal man, the universal spirit, in my own individual being.
 #+END_QUOTE
 
 * 10: Science, Nature, and Religion
+:PROPERTIES:
+:END:
 :PROPERTIES:
 :EXPORT_FILE_NAME: 10-science-nature-relig
 ion

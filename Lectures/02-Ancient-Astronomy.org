@@ -1,3 +1,4 @@
+
 #+OPTIONS: ':t *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline author:nil
 #+OPTIONS: c:nil creator:nil d:(not "LOGBOOK") date:nil e:t email:nil
 #+OPTIONS: f:t inline:t num:nil p:nil pri:nil prop:nil stat:t tags:t
@@ -18,8 +19,6 @@
 #+REVEAL_MARGIN: 0.4
 #+REVEAL_MIN_SCALE: -1
 #+REVEAL_MAX_SCALE: -1
-# #+REVEAL_ROOT: http://sandbox.hackinghistory.ca/Tools/reveal.js
-#+REVEAL_ROOT: /home/matt/src/reveal.js
 #+REVEAL_TRANS: default
 #+REVEAL_SPEED: default
 #+REVEAL_THEME: black
@@ -57,3 +56,148 @@ groupings of visible stars
 regular daily motion of stars
 #+ATTR_REVEAL: :frag (appear)
 https://upload.wikimedia.org/wikipedia/commons/3/31/Night_Photography.jpg
+* 
+https://upload.wikimedia.org/wikipedia/commons/5/51/Night-sky-milky-way-galaxy-astrophotography_-_West_Virginia_-_ForestWander.jpg
+#+BEGIN_NOTES
+- Ancient Egyptians, Nut, the sky goddess, wrapped the earth-god Geb in an embrace; out of this embrace were born Isis, Osiris, Set and Nepthys, among the most important gods in the pantheon.
+  - intimacy of this image speaks to the direct experience of the sky: as remote and magestic, but also immediate, surrounding, encompassing.  Terrifying at times, but also deeply familiar to most inhabitants of many cultures.
+- always visible, brighter-than-we-can-easily-imagine sky is a daily experience all around the world 
+#+END_NOTES
+
+* Characteristics of the night sky
+1. groupings of visible stars
+2. regular daily motion of stars
+#+ATTR_REVEAL: :frag (appear)
+https://upload.wikimedia.org/wikipedia/commons/3/31/Night_Photography.jpg
+
+** Stars
+#+ATTR_HTML: :style float:left; max-height:400px;
+https://upload.wikimedia.org/wikipedia/commons/6/61/AxialTiltObliquity.png
+#+ATTR_HTML: :style float:left; max-height:400px;
+http://www.skyandtelescope.com/wp-content/uploads/precession_static_m.gif
+
+** Moon
+- monthly phases of the moon
+#+ATTR_REVEAL: :frag (appear)
+http://www.astropixels.com/blog/wp-content/uploads/2012/12/Phases10-9x-3w.jpg
+#+ATTR_REVEAL: :frag (appear)
+- "sidereal" movements of the moon (against the stars)
+#+ATTR_REVEAL: :frag (appear)
+http://2.bp.blogspot.com/-6Nt4mYW_Ilc/TiPBSEb39NI/AAAAAAAABbI/IFrMo7Nooww/s1600/x1.gif
+
+** Ecliptic and Planets
+#+ATTR_REVEAL: :frag (appear appear)
+- path of the sun and moon (approx)
+- also "wandering" stars
+  - like moon, move along the ecliptic
+  - But have more complex motions, including loops
+#+ATTR_REVEAL: :frag (appear)
+http://ircamera.as.arizona.edu/NatSci102/NatSci102/movies/retromars.gif
+
+** Irregular phenomena
+- Comets, shooting stars
+- pass through ecliptic in unpredictable ways.
+
+* Ubiquity of Astronomical Observation
+#+ATTR_REVEAL: :frag (appear)
+https://upload.wikimedia.org/wikipedia/commons/3/3c/Stonehenge2007_07_30.jpg
+#+BEGIN_NOTES
+All over the world, there's evidence of intensive study of the night sky.
+#+END_NOTES
+** Ubiquity of Astronomical Observation
+https://www.z2systems.com/neon/resource/cosm/images/stonehenge.jpg
+#+BEGIN_NOTES
+All over the world, there's evidence of intensive study of the night sky.
+#+END_NOTES
+
+** Mayan temples
+http://apod.nasa.gov/apod/image/1212/SGU-Castillo-Orion-IMG4323-1200x800.jpg
+** Polynesian Navigation Stones
+#+ATTR_HTML: :style float:left; max-height:400px;
+http://www.janeresture.com/arorae/navigator2.jpg
+#+ATTR_HTML: :style float:left; max-height:400px;
+http://www.janeresture.com/arorae/navigator1.jpg
+* Why?
+#+ATTR_REVEAL: :frag (appear)
+many reasons to observe night sky. 
+#+ATTR_REVEAL: :frag (appear appear appear appear appear)
+- regularities in seasons (calendars
+- navigation
+- clues to behaviour of supernatural beings
+- fundamental nature and behaviour of the natural world 
+- *Differs with time and place!*
+* Ancient Babylon
+- Powerful city-state/civilization in Mesopotamia, with a history of some 2500-3000 years (depending on how it's counted.
+- Earliest known written records of astronomical observation, beginning ~2000 BCE.  
+- Astonishingly precise, to the point of being able to predict certain lunar eclipses. ("Saros Cycle" of 18 yrs + 11.3 days)
+
+** Cosmology
+#+ATTR_REVEAL: :frag (appear appear appear)
+- complex multi-generational pantheon, probbably indicating some history of conquest and reconquest
+- Sky is the carcass of Tiamat, mother of the gods
+- heavens ruled by diverse other gods, ancestors of Babylonian "national" god Marduk
+#+ATTR_REVEAL: :frag appear
+https://upload.wikimedia.org/wikipedia/commons/b/b0/Marduk_and_the_Dragon.jpg
+
+** Divination
+#+ATTR_REVEAL: :frag (appear appear appear appear)
+- symmetry and /complementarity/ between Heaven and Earth
+- astronomical events as a kind of *cosmic writing* from the Gods to mortal observers
+- hints as to /destiny/, or /hidden order/; but not themselves /causal agents/ of events (contrast to Greece!)
+- Therefore, important members of the court
+  - How to ward off effects of predicted disasters? 
+#+BEGIN_QUOTE
+The signs in the sky, just like those on earth, give us signals
+- Ancient textbook, cited in F. Rochberg, "Mesopotamian Cosmology", p. 47
+#+END_QUOTE
+
+** Astronomy in service of Astrology
+#+ATTR_REVEAL: :frag (appear appear appear)
+- increasing perfection of astronomy --> better timing e.g. of public ritual
+- More and more phenomena described as *regular*
+  - fewer and fewer are therefore /portents/, or sky writing
+- Transition by 5th Century BCE to /birth charts/ and away from royal divination
+  - correspondence between *meaning-laden positions of planets & other celestial phenomena* and *personal destiny*
+  - this *horoscopic* technique survives into Greece & Rome & is revived in medieval Europe
+
+** Babylon: Summary
+- Long history of precise empirical astronomical observation
+- observation has very little impact on /model/ of the heavens, suggesting very different epistemological framework
+- Insetead, astronomy primarily serves astrology
+
+* Chinese Astronomy
+- earliest records appear much later, about 300 BCE
+- several competing cosmological models
+- relation between /astronomy/ and /astrology/ similar, but with important differences
+
+** Models of the Earth
+- /gai tian/ dome model
+https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image013.png
+- /hun tian/ egg model
+https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image015.png
+- /shuen ye/ infinite model
+https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image017.png
+
+** Purpose of Observation
+- all astronomical observation concerned with /relation between the heavens and human activity./
+- mostly /portent/ astrology
+- division between /li/ (calendars) and /tian wen/ (sky patterns)
+  - regular and atypical events
+- gradual absorptuion of certain /tian wen/ by /li/
+
+** Possibilty of novelty
+- in contrast to Greek thought (see next week!), heavens /not/ an unchanging separate sphere
+- instead, universe a single /organism/ in which health or illness manifests in /both/ terrestrial & celestial realms
+- portents not /messages/ but /causes or results/ of terrestrial actions
+- therefore: particular attention to /new phenomena/.
+  - e.g., Novae
+
+** Chinese Astronomy: Summary
+- Impossibility to separate "scientific" from "unscientific" elements of astronomical observation
+- sophisticated written records, with substantial predictive power & meticulous recording of anomolies
+- descriptions of the /nature of the heavens/ seems secondary.
+
+* New World Astronomy                                              :noexport:
+- great diversity
+- "4 directions" as a common theme
+- Hopi identificaiton of 

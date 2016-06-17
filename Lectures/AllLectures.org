@@ -93,11 +93,11 @@ O Lord our Lord, how excellent is thy name in all the earth!
 :HTML_CONTAINER_CLASS: slide
 :END:
 #+BEGIN_VERSE
- “the manifestation of the Divinity already in man”
+ "the manifestation of the Divinity already in man"
 -- Vivekananda, 1893
 #+END_VERSE
 #+BEGIN_VERSE
-"the feelings, acts, and experiences of individual men in their solitude, so far as they apprehend themselves to stand in relation to whatever they may consider the divine”
+"the feelings, acts, and experiences of individual men in their solitude, so far as they apprehend themselves to stand in relation to whatever they may consider the divine"
 -- William James, 1902
 #+END_VERSE
 *** Religion as *revelation*
@@ -143,6 +143,7 @@ Extinguished theologians lie about the cradle of every science as the strangled 
 - conflict of *political authority?*
 - conflict of *practices*?
 The very question of *conflict or harmony* presupposes *two coherent or singular entities that can confront each other*. But this may not be the case.  
+** 
 * 02 Ancient Astronomy
 :PROPERTIES:
 :EXPORT_FILE_NAME: 02-ancient-astronomy
@@ -1076,7 +1077,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait
   - questions are /leading/
   - conflict as /personal/ and a /pure powerful structure/
   - 
-* 06 Miracles
+* 06 Miracles: Maybe Remove in favour of something more fun
 ** Recap
 - Galileo's physics as a blow to the entire Aristotelian system
   - new laws of motion
@@ -1384,10 +1385,10 @@ here was an explanation of evolution far more powerful than Lamarck’s
 - and their seemingly perfect *adaptation* to their environment,
 - into the full spectacle of *diversity* we see today.
 *** Summarized again
-|            | Fixity        | Lamarck                                       | Natural Selection                                  |
+|            | Fixity        | Lamarck                                   | Natural Selection                                  |
 | Diversity  | Sep. Creation | Use, Disuse \rarr digressions on upwarrd path | Selection acts differently in diverse environments |
-| Adaptation | God's Design  | ANimal adapts self                            | Ruthless slection adapts organism to environment   |
-| Time Scale | short or long | long, but change /fast/                       | /immensely/ long and /slow/                        |
+| Adaptation | God's Design  | ANimal adapts self                        | Ruthless slection adapts organism to environment   |
+| Time Scale | short or long | long, but change /fast/                   | /immensely/ long and /slow/                        |
 
 ** Theological Implications
 - God kicked out of Design! (or is he?)
@@ -1814,8 +1815,17 @@ What did Christianity tell people about their relations with the environment?
 ** Summing up
 - no grand testaments!
 - enduring complexity, both /logically/ and /causally/
-- urgency of an ethical orientation; powerlessness of science to provide it; ultimately; a 
-* 
+- urgency of an ethical orientation; powerlessness of science to provide it; ultimately; a
+
+* Buddhism & Science
+- Epistemology, nature of reality, etc
+- Science of the Mind
+- Buddhism as a "scientific" religion
+- Buddhism &^ psychodelic culture
+- LSDNA, physics, etc  & 
+
+* Religion of Star Trek or whatever 
+* Leftovers                                                        :noexport:
 - enviornmental movement
 - trnascendentalists
 - ambivalent relationship to science

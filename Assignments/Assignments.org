@@ -1,0 +1,297 @@
+#+POSTID: 171
+#+DATE: [2015-07-02 Thu 11:37]
+#+OPTIONS: toc:nil num:nil todo:nil pri:nil tags:nil ^:nil date:nil author:nil
+#+CATEGORY:
+#+STARTUP: content
+#+TAGS:
+#+DESCRIPTION:
+#+TITLE: Assignments
+* General Guidelines for Assignments
+:PROPERTIES:
+:EXPORT_FILE_NAME: 00-general-guidelines
+:END:
+
+My grading work will be greatly eased if you abide by the following conventions when you hand in your work:
+- Please hand your work in electronically, *both* on Blackboard (for a permanent, no-screwups record), *and* by following the Dropbox Invitation that I will send out shortly before each assignment is due.  
+- Please use an editable file format with an available comment function, such as .doc, .docx, or .odt.  (These formats are lousy for most other purposes, but they're good for the purposes of comment and review). *If you hand in a PDF, I will not be able to give detailed comments.*
+-  No matter what, *make sure your file includes some indication of your name*, as I will be marking it on my computer away from any other indicator of your identity.
+
+Thanks for your help! It should make grading much quicker and easier for me, to the benefit of all of us.  
+* Feedback Guidelines
+I often use a small subset of copyediting symbols in my comments; here are the most common ones:
+| Symbol | Meaning                                                                                                   |
+|--------+-----------------------------------------------------------------------------------------------------------|
+| \para      | Paragraph, or "you need a new paragraph"                                                                  |
+| WW     | Wrong word -- the word you have chosen doesn't fit here, or maybe it isn't a word at all                  |
+| awk    | Awkward -- this sentence or section is hard to understand, mostly because of your phrasing                |
+| run-on | This sentence doesn't stop when it should instead it keeps on going without a conjunction or punctuation. |
+| frag   | Sentence fragment -- this is not a full sentence                                                          |
+
+
+
+
+
+* Participation
+:PROPERTIES:
+:EXPORT_FILE_NAME: 00-Participation
+:END:
+As described in the syllabus, I use your participation mark to determine the "-/null/+" part of your grade.  Let me explain a little more explicitly how this works.  
+
+** The System
+
+It's simple.  Suppose you successfully complete the Definitions Paper, the Galileo Assignment, the Evolution Assignment, and the class presentation. Congratulations! You have qualified for a B. But what kind of a B?
+
+| If your class particpation was: | You get a: | Which ROSI will show as: |
+|---------------------------------+------------+--------------------------|
+| Poor                            | B-         |                       72 |
+| Satisfactory                    | B          |                       75 |
+| Excellent                       | B+         |                       78 |
+
+Similarly, perhaps you were only able to complete the definitions paper & the Galileo assignment. Oops! You're going to get a D.  Like your somewhat happier classmate, your final grade will be assigned thus:
+
+| If your class particpation was: | You get a: | Which ROSI will show as: |
+|---------------------------------+------------+--------------------------|
+| Poor                            | D-         |                       52 |
+| Satisfactory                    | D          |                       55 |
+| Excellent                       | D+         |                       58 |
+
+*But Note!*
+
+A+ is a special grade.  Suppose you complete all the assignments satisfactorily.  Wow! You get an A, great.  But...  do you get an A+?
+
+| If your class particpation was: | You get an: | Which ROSI will show as: |
+|---------------------------------+-------------+--------------------------|
+| Poor                            | A-          |                       83 |
+| Satisfactory                    | A           |                       88 |
+| Excellent                       | DEPENDS     |                  DEPENDS |
+
+Even if your participation was excellent, you will only receive an A+ if your work was consistently excellent and occasionally brilliant.  So, if you successfully complete all the assignments (great!), and also are a great class participant (thanks!), then I'll look over all your work and make a value judgment about whether you deserve this rare and precious grade.
+
+** The Criteria
+
+But what makes for good class participation?  You might want to start by reading [[http://wcm1.web.rice.edu/howtodiscuss.html][How to discuss a book for history]], which has lots of helpful suggestions. Really, please read it -- it's illuminating. But, meanwhile, here are some hints:
+
+- Show up for class :: It's hard to discuss when you're not here.
+- Do the Readings :: It's hard to discuss what you haven't read.  I will try hard not to assign too much reading; in return, please try to read it.
+- Be Courteous :: Treat your classmates with respect, even when your opinions differ fiercely.  Refrain from interrupting others, notice when others have been waiting & let them speak first, and so on. Don't shut other people down, and frame your comments in a way that invites further discussion.
+- Listen :: Pay careful attention when your classmates are speaking; if their ideas seem a little unclear, try to fill in the gaps, either by thinking silently, or by asking friendly, clarifying questions.  Try to think about how their positions relate to yours, and, especially, whether you should perhaps change your mind a little based on what they have to say.
+- Be Clear :: think about the readings before you come to class, so that your opinions are well-formed.
+- Be Brave :: It can be intimidating to speak in class, especially if you have found the readings or the lecture confusing. But /you will almost never be alone./ If one person is confused, others likely are too.  Have the courage to speak up -- everyone in the room is likely to thank you.  If you are extremely shy in person, then come speak to me and we can try to work out a solution for you.
+- Participate in Group work :: Occasionally we will break up into small groups.  The same principles apply to group work -- I'll be paying attention.  
+
+If you can do all of these things consistently, you're likely to earn a "+".  If you're not sure how you're doing, come ask me in a couple of weeks and I'll give you some feedback.
+
+* Defining Religion and Science
+:PROPERTIES:
+:EXPORT_FILE_NAME: 01-defining-religion-and-science
+:END:
+*Due Date:* July 7 @ 8:00PM
+
+*Length:* ~800 words
+
+** Assignment
+In a paper of approximately 1000 words (3-5 pp), /briefly/ and /succinctly/ define "science" and "religion" and lay out a /preliminary/ model of how these domains /do/ and/or /should/ interact.  
+
+** Expectations
+/Stylistically/, this paper should be free of any major spelling or grammatical errors (an occasional typo is OK), and written in a suitably academic tone.  I don't mean you need to be boring or humourless!  But this is not a Facebook post, so you should use precise language that conveys your argument clearly and convincingly.
+
+/Substantively/, your paper should present a /clear thesis/ with /interesting arguments/ presented using /compelling evidence/.  The Writing Centre offers [[http://www.writing.utoronto.ca/advice][general advice]] that may be of great assistance. 
+
+More specifically, 
+- you should present clear and coherent views of both science and religion; 
+- your paper should make clear that you recognize that there is a diversity of opinion about how to define these domains, and explain on what basis you choose the definitions you do
+- your words and arguments should be your own (obviously!), and you should use citations judiciously and appropriately; again, the [[http://www.writing.utoronto.ca/writing-centres][Writing Centres]] can be very helpful here.
+- you should engage the appropriate texts from the course, particularly the readings listed on the syllabus under the first class;
+- if you use outside texts (which you're welcome to do!), make sure that your use of them follows scholarly standards (e.g., please do not simply cite Scripture as a final authority, but instead, if you are strongly guided by scriptural sources, provide a philosophical, historical, or sociological interpretation of the text and explain how it relates to the arguments we've covered in class).
+
+Like all assignments in class, this paper is marked pass/fail. To receive credit for this assignment, you will need to meet all of these expectations.  
+
+** Goals
+The purpose of this assignment is to allow you to:
+
+- think hard about the subject of our course
+- engage seriously with our initial readings
+- lay a groundwork for our further study
+- create a benchmark to which you can return at the end of the course, to see whether your thoughts have evolved.  
+** Submitting Your Work!
+Please submit all work *both* on Blackboard, *and* by responding to the Dropbox Invitation you will receive shortly before the due date.  Remember:
+- use an editable format, such as .doc, .docx, or .odt. Despite their many limitations, these formats are excellent for review and commenting.
+- Include your name somewhere in the file. I need to be able to keep track of which paper is whose!
+
+* Understanding Galileo
+:PROPERTIES:
+:EXPORT_FILE_NAME: 02-galileo
+:END:
+*Due Date:* July 19 @ 8:00PM
+
+*Length:* ~800 words
+
+This assignment asks you to select and carefully examine a single passage in Galileo's /Letter to the Grand Duchess Christina/.  You have several options with regard to the /form/ your assignment takes, but all versions of the assignment share the following goals and expectations:
+** Goals
+- engage in a close reading of an important primary text
+- learn in detail about the social and intellectual contexts of Galileo's trial
+- develop a succinct and compelling argument that makes sense of the conflict between Galileo's position and that of the Inquisition
+** Expectations
+- your paper should be approximately 800 words in length (a little shorter than your last paper)
+- your thesis and the structure of your argument should be apparent
+- you should demonstrate familiarity with the basic issues surrounding Galileo's trial, and the various interpretations thereof presented in the readings and lectures
+- your arguments should be self-consistent and convincing (but see below for some further guidance and clarification)
+- your paper should be largely free of typographical and grammatical errors; all sources should be cited appropriately
+** Assignment A
+Identify a relatively short passage in the /Letter/ which, in hindsight, highlights one or more ways in which Galileo's position diverges from official Church doctrine (e.g., epistemological, mathematical, methodological, or theological differences; or there may be differences in regard to the nature of /authority/; or other matters).  
+
+In a short, lucid essay, carefully explain both Galileo's position and that of his later Inquisitors, and explain how the issues raised in the passage played out in his later trial.
+
+** Assignment B
+As above, identify a relatively short passage in the /Letter/ which, in hindsight, highlights one or more ways in which Galileo's position diverges from official Church doctrine (e.g., epistemological, mathematical, methodological, or theological differences; or there may be differences in regard to the nature of /authority/; or other matters).
+
+Take the role of sympathetic but stern Church cleric.  Write a letter to Galileo explaining the nature of his errors, and suggest one or more corrections he might make in order to avoid further censure.
+
+** Assignment C
+Once again, identify a relatively short passage in the /Letter/ which, in hindsight, highlights one or more ways in which Galileo's position diverges from official Church doctrine (e.g., epistemological, mathematical, methodological, or theological differences; or there may be differences in regard to the nature of /authority/; or other matters).
+
+Take the role of an enthusiastic supporter and fellow natural philosopher from a Protestant country (e.g., the Netherlands, England, etc.).  Explain to Galileo the tyranny of the Church's official position, and recommend changes which would assert the proper authority of the natural philosopher.  
+** Submitting Your Work!
+Please submit all work *both* on Blackboard, *and* by responding to the Dropbox Invitation you will receive shortly before the due date.  Remember:
+- use an editable format, such as .doc, .docx, or .odt. Despite their many limitations, these formats are excellent for review and commenting.
+- Include your name somewhere in the file. I need to be able to keep track of which paper is whose!
+
+* Design, Adaptation, and the Creator
+:PROPERTIES:
+:EXPORT_FILE_NAME: 03-darwin
+:EXPORT_TITLE: Design, Adaptation, and the Creator
+:EXPORT_SUBTITLE: RLG231, Summer 2015
+:END:
+*Due Date:* July 28, 8:00PM
+
+*Length:*  ~800 words
+** On Design
+Consider these two quotations:
+
+#+BEGIN_QUOTE
+The conclusion which the first examination of the watch, of its works, construction, and movement, suggested, was, that it must have had, for the cause and author of that construction, an artificer, who understood its mechanism, and designed its use. This conclusion is invincible. A second examination presents us with a new discovery. The watch is found, in the course of its movement, to produce another watch, similar to itself; and not only so, but we perceive in it a system or organization, separately calculated for that purpose. What effect would this discovery have, or ought it to have, upon our former inference? What, as hath already been said, but to increase, beyond measure, our admiration of the skill, which had been employed in the formation of such a machine? Or shall it, instead of this, all at once turn us round to an opposite conclusion, viz. that no art or skill whatever has been concerned in the business, although all other evidences of art and skill remain as they were, and this last and supreme piece of art be now added to the rest? Can this be maintained without absurdity? Yet this is atheism. 
+
+This is atheism: for every indication of contrivance, every manifestation of design,which existed in the watch, exists in the works of nature; with the difference, on the side of nature, of being greater and more, and that in a degree which exceeds all computation. I mean that the contrivances of nature surpass the contrivances of art, in the complexity, subtility, and curiosity of the mechanism; and still more, if possible, do they go beyond them in number and variety; yet, in a multitude of cases, are not less evidently mechanical, not less evidently contrivances, not less evidently accommodated to their end, or suited to their office, than are the most perfect productions of human ingenuity.  (Paley, /Natural Theology/, Ch.2-3)
+#+END_QUOTE
+
+#+BEGIN_QUOTE
+ Natural selection will never produce in a being any structure more injurious than beneficial to that being, for natural selection acts solely by and for the good of each. No organ will be formed, as Paley has remarked, for the purpose of causing pain or for doing an injury to its possessor. If a fair balance be struck between the good and evil caused by each part, each will be found on the whole advantageous. After the lapse of time, under changing conditions of life, if any part comes to be injurious, it will be modified; or if it be not so, the being will become extinct, as myriads have become extinct. (Darwin, /Origin of Species/, ch. 6, p. 201 First Edition)
+#+END_QUOTE
+
+With these two quotations in mind, answer /one/ of the following two questions in a short essay of approximately 800 words (~3-4 pages).
+** A
+What important elements does the Darwinian theory of evolution by natural selection /preserve/ from Paley's argument from design?  To what extent might Darwin be thought of as /continuing/ Paley's principal arguments? Does this continuity have broader consequences for us in thinking about the relationship between science and religion?
+** B
+Explain how Darwin's argument /threatens/ religious orthodoxy because of the way it /undermines/ Paley's argument for God's providence. Reflect (briefly) on broader consequences for the development of the science/religion relationship in the Nineteenth Century.
+** Goals
+- engage in a close reading of 2 important primary texts
+- consider carefully the historical relationship between Paley and Darwin
+- craft a convincing argument about change and/or continuity in the relationship between natural history and theology in the Nineteenth Century
+
+** Expectations
+- your paper should be approximately 800 words in length (about as long as the last paper)
+- your thesis and the structure of your argument should be apparent
+- you should demonstrate familiarity with the basic arguments of both /Natural Theology/ and /The Origin of Species/, and the various interpretations thereof presented in the readings and lectures
+- your arguments should be self-consistent and convincing 
+- your paper should be largely free of typographical and grammatical errors; all sources should be cited appropriately (as always)
+
+** Submitting Your Work!
+Please submit all work *both* on Blackboard, *and* by responding to the Dropbox Invitation you will receive shortly before the due date.  Remember:
+- use an editable format, such as .doc, .docx, or .odt. Despite their many limitations, these formats are excellent for review and commenting.
+- name your file as follows: [FIRSTNAME]-[LASTNAME]-design-adaptation.doc (or .whatever). I need to be able to keep track of which paper is whose!
+* Presentation
+:PROPERTIES:
+:EXPORT_FILE_NAME: 04-presentation
+:END:
+Class presentations are an opportunity to extend the conversation in the class and deepen your classmates' understanding of the topic at hand. They allow you to explore a topic in substantial depth, hone your arguments, and explicate difficult philosophical or technical material.  
+
+** What you get out of it
+- a chance to do learn more about a topic
+- an opportunity to frame convincing arguments
+- an incentive to acquire a deeper understanding
+- a chance to practice presenting your ideas in public (but to a friendly audience)
+- the opportunity to collaborate with your classmates
+- if you want, a chance to experiment creatively
+
+** What your classmates get out of it
+- unexpected knowledge about a specific topic
+- an opportunity to help you think harder
+- a break from your droning professor
+
+** Format
+We have such limited time this summer!  So it's very important to be /concise/.  Do your research; figure out what you want to say; then pare it down to /only the most important bits./  You will be presenting in groups; the group can work very closely together, or relatively independently, but in every case you should work in a /co-ordinated/ fashion.  
+- 10 mins/person max (in a group of 3, try to be even shorter!)
+- if your group is doing individual presentations, /flow/ between presenters; you should be able to articulate a link between the presentations.
+- remain up front and help lead discussion/respond to questions.  
+
+** Expectations
+You should do the readings for the class session in advance, and then meet together with me at least 2 days before class.  Then decide on a specific topic and mode of presentation, and do additional research as necessary.  If you will be researching and presenting separately, make sure you meet at least once to coordinate your topics & styles. If you have decided on a group presentation -- one that takes the form, say, of a debate or a skit -- then be sure you pull your own weight in the preparations.  
+
+A successful presentation has the following characteristics:
+
+- Clarity :: It should be clear to your peers *what the specific topic of your presentation is*, *what important issues you have identified therein*, and *what arguments you are making about them*.  Ask yourself: if I were listening to this, would I understand what the presenter finds exciting about this material?  If so, you have probably met this criterion.
+- Depth :: Your presentation should bring *additional depth* to the conversation by bringing into focus something that was not obvious from the required readings. In general, if you  do some outside reading, you will be able to ddo this with relative ease.  
+- Interest :: The topic you choose should hold some real intellectual interest.  Does it shed light on the relationship between science and religion? Does it raise substantive historical or philosophical questions? If you can answer "yes" to any of these questions, then you have probably met this criterion.  
+- Concision :: If this class is going to work, you *must* be concise.  Keep to the time limits, even though it's hard!
+
+If you can achieve these standards, you will get credit for this assignment.  
+
+It's also great if you can be creative, perhaps playful, and if you're able to project in a strong voice in a way that's easy for your classmates to hear.  But I won't grade you on the basis of these things! If you're a great public speaker or a stand-up comic -- great, show us what you've got. If, on the other hand, you're shy and have a tendency to mumble: do your best, certainly, but rest assured that I'm not marking you on your acting skills.  
+* Final "Exam"
+:PROPERTIES:
+:EXPORT_FILE_NAME: rlg231-final-exam
+:END:
+** Due Date: Monday, August 10!
+Please hand this "exam" in no more than 24 hours after you check it out from .  As usual, hand in both via Blackboard and via Dropbox Request; title your paper as follows: YOURNAME-FINAL-EXAM.[whatever].  The Dropbox link is here: 
+
+https://www.dropbox.com/request/1u6mqBW4DOgGgzwJPEWD
+
+Please treat this as an open book EXAM, not a paper: do not discuss with your friends and classmates, and do not seek out writing assistance, but feel free to consult all the course readings.  
+** Instructions
+
+Part 1: "Easy" exam
+
+BRIEFLY answer 3 of the following questions in a short essay-like response, approximately 350-500  words in length. You should have space for a brief exposition of textual evidence and a very short additional reflection.  No external research should be required to complete this assignment.  
+
+1. In Chapter 2 of /The Decisive Treatise/ ("Philosophy contains Nothing Opposed to Islam"), Averroes lays out an argument about the relationship between Scripture and natural philosophical knowledge. Briefly summarize that view, and relate it to later views in the Western tradition.
+2. Briefly describe the difference between Intelligent Design theory and Creationist Science, and outline at least one scientific criticism of Intelligent Design.
+3. Some thinkers believe that quantum indeterminacy challenges both rationality and the Deistic conception of God as a lawgiver. Describe this view, and indicate whether you agree.  You may discuss other concepts from quantum mechanics if you wish. 
+4. What are the best arguments for the view that Buddhism is a "scientific religion"? do you agree with them? 
+
+Part 2: "Hard" exam -- *only for those who have not given presentations and hope to achieve a "B" or higher* in the course.
+
+Answer (1) of the following questions in a substantial essay of at least 900 words, supporting your arguments with evidence from the course readings.  A high level of rigour is expected in the argument; while part
+
+1. What is the appropriate place of "God-talk" within environmental discourse? That is, to what extent ought environmental policy to be driven by the data of scientific investigation, and to what extent is discussion of a /spiritual responsibility/ an appropriate part of that conversation?
+2. What are the major scientific and philosophical challenges to research about the mental and spiritual effects of meditation? Can they be resolved?
+3. Can science replace religion as a foundation of ethical behaviour? (please note that this is a highly speculative question that demands a philosophically rigourous answer -- that is, it's pretty hard! Only go for it if you feel pretty confident)
+
+
+
+ 
+** Expectations
+As with your other assignments, writing should be clear and concise, with minimal grammatical and typographical errors.  You should cite sources, but need not always provide a page reference or a precise bibliography; in that respect, the writing style expected is closer to that of an exam than an ordinary essay.  Provide evidence for your position from the course readings.  When called upon to express your own opinion, support your position with reasoned arguments.  Good luck!
+
+* Final Paper
+:PROPERTIES:
+:EXPORT_FILE_NAME: 05-final-paper
+:END:
+** Due Date: Monday, August 10!
+
+Dropbox link to hand in assignment: https://www.dropbox.com/request/miIRLmyIhicSkxkaHuuh
+This is a substantial assignment of 7-9 pages (2000 words) on a topic of your choice related to the science/religion relationship.  
+
+You should choose a well-defined topic or issue that arises out of the course materials, but your investigations will involve substantial work beyond those readings (at least 5 extra sources). Your paper can take many forms, of which the two main ones are:
+- *Historical:* if you wish, you can research an episode from the history of science/religion. This might mean focussing on the work of a particular philosopher or theologian, or it might mean discussing a /kind/ of phenomenon at a certain time (like miracles, or prophetic dreams).
+- *Philosophical:* Many of our conversations have touched on fundamentally philosophical questions, especially epistemological and metaphysical questions. You may choose to investigate these themes /directly/, rather than looking at them in a historical context.
+
+This is a tough assignment, and I *strongly* urge you to discuss your plans with me before too long. I will do my best to point you on the right path and towards helpful secondary sources, and primary sources as well, if that seems appropriate.  
+** Goals
+- Thoroughly explore a specific topic in detail
+- Carry out /secondary/ research on your topic using the ordinary academic tools (Library catalog, OneSearch journal interface, etc.)
+- Formulate a thoughtful & sophisticated argument that reflects your learning in the course
+
+** Expectations
+As always, your writing should be clear and concise, with minimal grammatical and typographical errors. Please be sure to use a consistent style of citation (I don't particularly care which one), and to acknowledge all of your sources. You should demonstrate a substantial understanding of your topic, grounded in your research, and make a well-supported, coherent argument. If I disagree with you at the end of the paper, that's fine; but there should be no serious lapses of logic or evidence.  
+
+You should only undertake this assignment if you are genuinely interested in exploring a topic in a thorough and substantive manner! There will not be much time for regrading, so you may only get one shot at this. And it's a lot of work so, again, it is only worthwhile if you also have an abiding interest the exploration of which will serve you well, either as you progress in your academic career, or in terms of a more numinous development.

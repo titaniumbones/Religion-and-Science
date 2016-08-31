@@ -1,32 +1,70 @@
-Each leacture is stored as a level-one header, then exported to an HTML slideshow using the Reveal.js exportengine of Emacs org-mode. These are best viewed /as presentations/; cf. [[http://sandbox.hackinghistory.ca/RLG231/Lectures/Slides/]] for a few examples. 
+#+OPTIONS: reveal_single_file:nil
+Each lecture is stored as a level-one header, then exported to an HTML slideshow using the Reveal.js export engine of Emacs org-mode. These are best viewed /as presentations/; cf. [[http://sandbox.hackinghistory.ca/RLG231/Lectures/Slides/]] for a few examples.
 
 * 01 What Are Science and Religion
 :PROPERTIES:
 :EXPORT_FILE_NAME: 01-what-are-sci-and-rel
 :END:
+** RLG231: Religion and Science
 
+| *Instructor:*   | Matt Price                    |
+| *Email:*        | matt.price@utoronto.ca        |
+| *Office Hrs:*   | SS 3077 (or outside) T R 12-1 |
+| *Meeting Times* | T R 10-12, SS 1084            |
+
+Please Pick Up Syllabus, as well as a copy of "Non-Overlapping Magisteria" to share with a neighbour. There is one copy for ~2 students.
+** Intro!
+- 5+ Minutes
+- Groups of 4 (ish)
+- Learn Names, Majors, Interest in Class, *1* fact that will help you (and me) remember them
+- Answer the question "What *should* this class be about?"
+- I will come around to every group -- as soon as I'm done with you, find another group and introduce each other.
+** Syllabus Go-round
+- Themes
+- Weird Grading
+- Schedule
+** Read NOMA
+- In pairs, read GOld's "Non-Overlapping Magisteria"
+- What is the basic Argment?
+- Do you agree, disagree, find it vapid/brilliant?
+- What specific arguments are most/least convincing? Use of evidence?
 ** Consider the Moon
 [[http://upload.wikimedia.org/wikipedia/commons/9/9a/Howling_at_the_Moon_in_Mississauga.jpg]]
 
 ** Consider the Moon
-:PROPERTIES: 
-:STEP: 1
+:PROPERTIES:
+:STEP:     1
 :END:
 - what do we know about it?
 - how do we know it?
 - on what basis do we trust our knowledge?
+
+** Consider the Moon
+https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Moon_diagram.svg/646px-Moon_diagram.svg.png
+
+** Consider the Moon
+#+ATTR_HTML: :class paired
+#+BEGIN_QUOTE
+The Moon is a differentiated body: it has a geochemically distinct crust, mantle, and core. The Moon has a solid iron-rich inner core with a radius of 240 km (150 mi) and a fluid outer core primarily made of liquid iron with a radius of roughly 300 km (190 mi). Around the core is a partially molten boundary layer with a radius of about 500 km (310 mi).[41] This structure is thought to have developed through the fractional crystallization of a global magma ocean shortly after the Moon's formation 4.5 billion years ago.[42] Crystallization of this magma ocean would have created a mafic mantle from the precipitation and sinking of the minerals olivine, clinopyroxene, and orthopyroxene; after about three-quarters of the magma ocean had crystallised, lower-density plagioclase minerals could form and float into a crust on top.[43]
+#+END_QUOTE
+
+** Consider the Moon
+- how do we interpret this passage?
+- on what basis?
+- what sort of authority does it have?
 ** Consider the Moon
 #+BEGIN_VERSE
-Lord, our Lord, how excellent is thy name in all the earth! who hast set thy glory above the heavens.
-Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies, that thou mightest still the enemy and the avenger.
-*When I consider thy heavens, the work of thy fingers, the moon and the stars, which thou hast ordained;*
-*What is man, that thou art mindful of him? and the son of man, that thou visitest him?*
-For thou hast made him a little lower than the angels, and hast crowned him with glory and honour.
-Thou madest him to have dominion over the works of thy hands; thou hast put all things under his feet:
-All sheep and oxen, yea, and the beasts of the field;
-The fowl of the air, and the fish of the sea, and whatsoever passeth through the paths of the seas.
-O Lord our Lord, how excellent is thy name in all the earth!
-
+Lord, our Lord, how excellent is thy name in all the earth!
+who hast *set thy glory above the heavens.*
+Out of the mouth of babes and sucklings hast thou ordained strength because of thine enemies,
+that thou mightest still the enemy and the avenger.
+*When I consider thy heavens, the work of thy fingers, the moon and the stars,
+which thou hast ordained;*
+*What is man, that thou art mindful of him?
+and the son of man, that thou visitest him?*
+For thou hast made him a little lower than the angels,
+and hast crowned him with glory and honour.
+Thou madest him to have dominion over the works of thy hands;
 #+END_VERSE
 
 ** Consider the Moon
@@ -34,62 +72,61 @@ O Lord our Lord, how excellent is thy name in all the earth!
 - on what basis?
 - what sort of authority does it have?
 
-** On Complexity
-*** None of these conclusions  is obvious
-:PROPERTIES: 
-:STEP: t
+
+** None of these conclusions  is obvious
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 
 - in both cases ("scientific" and "religious") we draw on *sophisticated and highly mediated experience* to answer questions
 
-*** "Science" and "Religion" are themselves complex, difficult entities
-:PROPERTIES: 
-:STEP: t
+** "Science" and "Religion" are themselves complex, difficult entities
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 
 - we do not always mean the same thing when we talk about them
 ** What is Science?
 *** Science as *method*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 
 - earliest philosophers of science distinguished it from other forms of knowledge b/c of its use of *inductive method*
-- model: "experimental philosophy of, e.g., Robert Boyle (Boyle's Law)
-- *BUT:* so many problems with induction! So, is science true?  
+- model: "experimental philosophy" of, e.g., Robert Boyle (Boyle's Law)
+- *BUT:* so many problems with induction! So, is science true?
 *** Science as *Historical Development*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 
 - "Scientific revolution" around c. 17
-- "Break" from "superstition"? 
+- "Break" from "superstition"?
 - *BUT:* division of *natural philosophy* from other branches of knowledge gradual
 - growth of specialization, begins in c. 16 and accelerates rapidly in c. 18 and c. 19.
--  Term "scientist" coined in early 19th Century (latin /scientia/ had a broader application, "knowledge")
+-  Term "scientist" coined in early 19th Century (Latin /scientia/ had a broader application, "knowledge")
 *** Science as *knowledge*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 - C.20 Philosophy of Science focussed on science as *set of propositions*
 - *BUT:* not how scientists themselves talk about their work!
-** What is Science?
 *** Science as *social practice*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 - Contemporary sociologists/historians/anthropologists view science *as a practice*
 - embedded in, not distinct from, everyday life
 ** What is Religion?
 *** Religion as *experience*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 #+BEGIN_VERSE
@@ -101,19 +138,18 @@ O Lord our Lord, how excellent is thy name in all the earth!
 -- William James, 1902
 #+END_VERSE
 *** Religion as *revelation*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 
 #+BEGIN_VERSE
-" . . . is the state of being grasped by an ultimate concern, a concern which qualifies all other concerns as preliminary and which itself contains the answer to the question of the meaning of our life. Therefore this concern is unconditionally serious and shows a willingness to sacrifice any finite concern which is in conflict with it. The predominant religious name for the content of such a concern is God -- a god or gods.”
+" . . . is the state of being grasped by an ultimate concern, a concern which qualifies all other concerns as preliminary and which itself contains the answer to the question of the meaning of our life. Therefore this concern is unconditionally serious and shows a willingness to sacrifice any finite concern which is in conflict with it. The predominant religious name for the content of such a concern is God -- a god or gods."
 -- Paul Tillich, 1963
 #+END_VERSE
-** What is Religion?
 *** Religion as *social institution*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 #+BEGIN_VERSE
@@ -121,12 +157,12 @@ O Lord our Lord, how excellent is thy name in all the earth!
 -- Clifford Geertz, 1966
 #+END_VERSE
 *** Religion as *social construct*
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 #+BEGIN_VERSE
-“...while there is a staggering amount of data, phenomena, of human experiences and expressions that might be characterized in one culture or another, by one criterion or another, as religion - there is no data for religion. Religion is solely the creation of the scholar's study. It is created for the scholar's analytic purposes by his imaginative acts of comparison and generalization. Religion has no existence apart from the academy.”
+"...while there is a staggering amount of data, phenomena, of human experiences and expressions that might be characterized in one culture or another, by one criterion or another, as religion - there is no data for religion. Religion is solely the creation of the scholar's study. It is created for the scholar's analytic purposes by his [sic] imaginative acts of comparison and generalization. Religion has no existence apart from the academy."
 #+END_VERSE
 ** Conflict Thesis
 - Appears most vividly in c. 19, e.g.
@@ -135,27 +171,63 @@ Extinguished theologians lie about the cradle of every science as the strangled 
 -- T. H. Huxley, 1859
 #+END_VERSE
 *** But what kind of conflict?
-:PROPERTIES: 
-:STEP: t
+:PROPERTIES:
+:STEP:     t
 :HTML_CONTAINER_CLASS: slide
 :END:
 - conflict of *knowledge and belief?*
 - conflict of *political authority?*
 - conflict of *practices*?
-The very question of *conflict or harmony* presupposes *two coherent or singular entities that can confront each other*. But this may not be the case.  
-** 
-* 02 Ancient Astronomy
+The very question of *conflict or harmony* presupposes *two coherent or singular entities that can confront each other*. But this may not be the case.
+*** Methods
+- Proceed with /openness/ regarding the /ontological status/ of both "science" and "religion"
+- expect /differing results/ in divergent historical periods & areas of knowledge
+** Hot Spots
+Bearing in mind all of the above, "conflict between science and religion" has historically been concentrated in a few areas:
+- cosmology
+- human consciousness and the soul
+- human origins
+We will therefore spend a lot of our time investigating these topics
+** Presentation Sign-Up
+- If you want to do a presentation, come sign up,
+- But first listen to my instructions!
+** Sources                                                         :noexport:
+- I use Gould's NOMA and Dixon's V. Short Intro for this lecture
+* 02 Ancient Astronomy 
 :PROPERTIES:
 :EXPORT_FILE_NAME: 02-ancient-astronomy
 :END:
-** 
+** Recap/catchup
+- Meanings of "Science" and "Religion" not fixed throughout time
+  - "Science" in particular a very /recent/ word
+  - Idea of "religion" separate from all other spheres of life/knowledge also recently constructed
+- NOMA: What is Gould's argument?
+** NOMA
+#+BEGIN_VERSE
+We may, I think, adopt this word and concept to express the central point of this essay and the principled resolution of supposed "conflict" or "warfare" between science and religion. No such conflict should exist because each subject has a legitimate magisterium, or domain of teaching authority -- and these magisteria do not overlap (the principle that I would like to designate as NOMA, or "nonoverlapping magisteria"). *The net of science covers the empirical universe: what is it made of (fact) and why does it work this way (theory). The net of religion extends over questions of moral meaning and value.* These two magisteria do not overlap, nor do they encompass all inquiry
+#+END_VERSE
+** Summary
+- The Night Sky
+- Ubiquity of Observation
+- Astronomy, Astrology, and Cosmology in at least 3 places
+  - Ancient Mesopotamia
+    - Handwaving Towards Ancient Greece/Rome
+  - Ancient/Medieval China
+  - New World (esp. Mesoamerica/"Southwest")
+** Nature, Night, and Stories
+#+BEGIN_NOTES
+- utter darkness
+- nearness/awesomeness of heavens
+- narratives of causal efficacy and meaning
+#+END_NOTES
+** Night
 https://upload.wikimedia.org/wikipedia/commons/5/51/Night-sky-milky-way-galaxy-astrophotography_-_West_Virginia_-_ForestWander.jpg
 #+BEGIN_NOTES
+
 - Ancient Egyptians, Nut, the sky goddess, wrapped the earth-god Geb in an embrace; out of this embrace were born Isis, Osiris, Set and Nepthys, among the most important gods in the pantheon.
   - intimacy of this image speaks to the direct experience of the sky: as remote and magestic, but also immediate, surrounding, encompassing.  Terrifying at times, but also deeply familiar to most inhabitants of many cultures.
-- always visible, brighter-than-we-can-easily-imagine sky is a daily experience all around the world 
+- always visible, brighter-than-we-can-easily-imagine sky is a daily experience all around the world
 #+END_NOTES
-
 ** Characteristics of the night sky
 1. groupings of visible stars
 2. regular daily motion of stars
@@ -200,27 +272,42 @@ All over the world, there's evidence of intensive study of the night sky.
 https://www.z2systems.com/neon/resource/cosm/images/stonehenge.jpg
 #+BEGIN_NOTES
 All over the world, there's evidence of intensive study of the night sky.
+
+5000 yrs ago, the extensive wooden temple laid here; then replaced by stones; certainly oriented towards the sun
 #+END_NOTES
 
 *** Mayan temples
 http://apod.nasa.gov/apod/image/1212/SGU-Castillo-Orion-IMG4323-1200x800.jpg
+#+BEGIN_NOTES
+rising high above the jungle to make extremely precise measurements of stellar & solar phenomena; cult of Venus; enormous precision despite stone age tech
+#+END_NOTES
 *** Polynesian Navigation Stones
 #+ATTR_HTML: :style float:left; max-height:400px;
 http://www.janeresture.com/arorae/navigator2.jpg
 #+ATTR_HTML: :style float:left; max-height:400px;
 http://www.janeresture.com/arorae/navigator1.jpg
+#+BEGIN_NOTES
+- after this slide, blank projector and show board. Tehre is an issue with the temperate diagram
+#+END_NOTES
+**** Temperate vs. Tropical navigation :noexport:
+#+ATTR_HTML: :class paired
+[[file:~/RLG231/Images/stellar-rising-temperate.png]]
+#+ATTR_HTML: :class paired
+[[file:~/RLG231/Images/stellar-rising-tropical.png]]
+**** Uselessness of traditions as you change latitudes
+file:~/RLG231/Images/stellar-rising-navigation.png
 ** Why?
 #+ATTR_REVEAL: :frag (appear)
-many reasons to observe night sky. 
+many reasons to observe night sky.
 #+ATTR_REVEAL: :frag (appear appear appear appear appear)
-- regularities in seasons (calendars
+- regularities in seasons (calendars)
 - navigation
 - clues to behaviour of supernatural beings
-- fundamental nature and behaviour of the natural world 
+- fundamental nature and behaviour of the natural world
 - *Differs with time and place!*
 ** Ancient Babylon
 - Powerful city-state/civilization in Mesopotamia, with a history of some 2500-3000 years (depending on how it's counted.
-- Earliest known written records of astronomical observation, beginning ~2000 BCE.  
+- Earliest known written records of astronomical observation, beginning ~2000 BCE.
 - Astonishingly precise, to the point of being able to predict certain lunar eclipses. ("Saros Cycle" of 18 yrs + 11.3 days)
 
 *** Cosmology
@@ -230,18 +317,40 @@ many reasons to observe night sky.
 - heavens ruled by diverse other gods, ancestors of Babylonian "national" god Marduk
 #+ATTR_REVEAL: :frag appear
 https://upload.wikimedia.org/wikipedia/commons/b/b0/Marduk_and_the_Dragon.jpg
-
+**** The Conquest of Tiamat
+#+BEGIN_VERSE
+[Marduk] let fly an arrow and pierced her belly,
+  He tore open her entrails and slit her inwards,
+He bound her and extingueshed her life,
+  He threw down her corpse and stood o nit.
+After he had killed Tiamat, the leader,
+  Her assembly dispersed, her host scattered...
+[He] placede his feet on the lower parts of Tiamat
+  And with his merciless club smashed her skull.
+He severed her arteries
+  And let the North Wind bear up (her blood) 
+...
+He split her into two like a dried fish:
+  One half of her he set up and stretched out as the heavens.
+He stretched the skin and appointed a watch
+  With the instruction not to let her waters escape.
+...
+He ashioned heaenly stations for the great gods,
+  And set up constellaitons, the patterns of the stars.
+He Appoined the year, marked off divisions,
+  And set up three stars each for the twelve months.
+#+END_VERSE
 *** Divination
+#+BEGIN_QUOTE
+The signs in the sky, just like those on earth, give us signals
+- Ancient textbook, cited in F. Rochberg, "Mesopotamian Cosmology", p. 47
+#+END_QUOTE
 #+ATTR_REVEAL: :frag (appear appear appear appear)
 - symmetry and /complementarity/ between Heaven and Earth
 - astronomical events as a kind of *cosmic writing* from the Gods to mortal observers
 - hints as to /destiny/, or /hidden order/; but not themselves /causal agents/ of events (contrast to Greece!)
 - Therefore, important members of the court
-  - How to ward off effects of predicted disasters? 
-#+BEGIN_QUOTE
-The signs in the sky, just like those on earth, give us signals
-- Ancient textbook, cited in F. Rochberg, "Mesopotamian Cosmology", p. 47
-#+END_QUOTE
+  - How to ward off effects of predicted disasters?
 
 *** Astronomy in service of Astrology
 #+ATTR_REVEAL: :frag (appear appear appear)
@@ -251,7 +360,13 @@ The signs in the sky, just like those on earth, give us signals
 - Transition by 5th Century BCE to /birth charts/ and away from royal divination
   - correspondence between *meaning-laden positions of planets & other celestial phenomena* and *personal destiny*
   - this *horoscopic* technique survives into Greece & Rome & is revived in medieval Europe
-
+#+BEGIN_NOTES
+- rise of horscopy
+  - ses the zodiac, et.
+  - prety different from the kind of horoscopy practiced in classical times.
+  - Notion of "Fate" doesn't appear to be present. 
+- difference between Geek and Mesopotamian
+#+END_NOTES
 *** Babylon: Summary
 - Long history of precise empirical astronomical observation
 - observation has very little impact on /model/ of the heavens, suggesting very different epistemological framework
@@ -263,19 +378,24 @@ The signs in the sky, just like those on earth, give us signals
 - relation between /astronomy/ and /astrology/ similar, but with important differences
 
 *** Models of the Earth
-- /gai tian/ dome model
+#+ATTR_HTML: :class paired
 https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image013.png
-- /hun tian/ egg model
+#+ATTR_HTML: :class paired
 https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image015.png
-- /shuen ye/ infinite model
+#+ATTR_HTML: :class paired
 https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image017.png
+#+ATTR_HTML: :class paired
+- /gai tian/ dome model
+- /hun tian/ egg model
+- /shuen ye/ infinite model
+
 
 *** Purpose of Observation
 - all astronomical observation concerned with /relation between the heavens and human activity./
 - mostly /portent/ astrology
 - division between /li/ (calendars) and /tian wen/ (sky patterns)
   - regular and atypical events
-- gradual absorptuion of certain /tian wen/ by /li/
+- gradual absorption of certain /tian wen/ by /li/
 
 *** Possibilty of novelty
 - in contrast to Greek thought (see next week!), heavens /not/ an unchanging separate sphere
@@ -289,29 +409,82 @@ https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image017.png
 - sophisticated written records, with substantial predictive power & meticulous recording of anomolies
 - descriptions of the /nature of the heavens/ seems secondary.
 
-** New World Astronomy                                            :noexport:
+** New World Astronomy                                            
 - great diversity
 - "4 directions" as a common theme
-- Hopi identificaiton of 
+*** Pawnee Star Chars
+http://www.messagetoeagle.com/wp-content/uploads/2015/09/pawneeskymap001.jpg
+*** Hopi
+- minimal European contact till 1870 (!)
+- Organization of year around Solar movements
+- Equinoctial and Solstitial festivals
+- Sacred dwellings of Gods at Solstice Locations ("Solar Standstill")
 
-* 03 Plato to Aristotle
- * Recap
+
+*** Maya
+- Grand Temples
+- Sophisticated predictions
+- Complex Calendars
+- Little apparent relation between Cosmology and Astronomical Predictions (e.g., no sphere Models
+** Sources                                                         :noexport:
+I can't remember!!
+* Presentations
+** Arisotle, Plato, etc
+??
+** Islm
+Fariha, Seug Wan
+** Galileo
+??
+** Darwin
+- Alejandra
+- Shadio
+** Creation/Design
+- Chin
+** Dice,God, Universe (Modern Physics)
+- Joel
+** Faith in Nature
+- J. Laurenda
+** Buddhism/Mind, etc
+- Nicholas
+** Colonialsim
+- Akiva
+- Preye
+- Sarah
+** Sci-Fi
+??
+* 03 the Greek cosmological System
+:PROPERTIES:
+:EXPORT_FILE_NAME: 03-greek-cosmology
+:EXPORT_TITLE: Lecture 03: Greek Cosmology
+:END:
+*
+** Recap
 #+ATTR_REVEAL: :frag (appear appear appear)
 - ubiquity of stellar observation
 - diversity of interpretation
-- what kinds of knowledge can we have? 
+- what kinds of knowledge can we have?
+#+BEGIN_NOTES
+- Stonehenge, Babylon, China; but also Maya, Hopi, Pawnee, Navajo. "meaning" or "significance" of heavens tied to precise observation; not coherent to speak of absolute division
+#+END_NOTES
 ** Plan
-- Plato and the Pre-Socratics
+- Plato and the Pre-Socratics 
 - Aristotle
 - Ptolemy
-** What's at Stake in the Heavens
+
+#+BEGIN_NOTES
+- long period (~500 years) which sees birth of numerous systems which reverberate through the ages down to the present
+  - but special impact on Christian and Islamic theology and natural philosophy
+  - key intellectual challenge in those traditions is integration of "pagan" philosophy with Scripture
+- 
+#+END_NOTES
+** ACTION What's at Stake in the Heavens
 
 [[https://upload.wikimedia.org/wikipedia/commons/3/3a/Ptolemaicsystem-small.png]]
 
 #+BEGIN_NOTES
 - crystal spheres
 - heavenly music
-- what's at stake
+- Why did people are so much about the details of a highly mathematical system (why do people care so much about the Big Bang?)
 
 #+END_NOTES
 
@@ -321,22 +494,83 @@ https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image017.png
   - textual sources, reason, observation
 - all forms of argument from /authority/, not fully independent
 - "ladenness" of observation: no /seeing/ without /understanding/
+- "realism" and "instrumentalism"
+#+BEGIN_NOTES
+I'm not sure what this slide is for. 
 
-*** Nature of Divinity
-- Greek 
+I suppose it's as a reminder that debates about the nature of the heavens are not just about "what the heavens are like"; but about how we come to know anything at all. So when we look at such debates, there are layers behind what we are seeing at first. 
+
+But emphasize especially:
+- "reason" and "observation" *not the same thing*
+- different *elements* of "scientificity", interpenetrating with cosmoloogy/religion
+
+Realism/instrumentalism: What exactly is the relationship between the /theory/, the /observations/, and the /reality/> WIll become important for Galileo!!
+#+END_NOTES
+*** Nature of Divinity                                           :noexport:
+- Pagan Pantheon
+  - Hesiod's /Theogony/?
+- Socrates' monotheism?
+  - The role of a demiurge
+#+BEGIN_NOTES
+Again, I have no idea what this is for. I'm not sure how this helps anything. 
+
+Pagan society has a plenitude of Gods, like most (but not all) of the Mediterranean cultures from this period.  Hediod's /Theogony/ is one account of the beginning of the world that Greek culture inherits from around the 8th Century BCE (800-700); but by the time of Plato serious philosophy is diverging from this orthodoxy.  
+
+The emerging notion of a single God becomes important as Platonism and pagan philosophy more generally becomes assimilated tothe Abrahamic religions (Islam, Xianity, Judaism)
+
+Also /created/ vs /uncreated/ world; and, are there /rules/ that god cannot break? Do those rules come from the nature of the Unvierse or from the nature of God? 
+
+#+END_NOTES
 ** Before Plato
 - fragmentary evidence, much of which comes from Aristotle
 - Interest in origins of matter/universe
-- clear evidence of /four elements/
+-  /four elements/
   - is one *prior*?
 - interest in shape/components of cosmos
   - geocentric spherical universe
 - central question of *being* vs *becoming*
+#+BEGIN_NOTES
+The history of Presocratic philosophy in Greece is actually quite long and interesting.  Important to remember who says what. Anaximander, Pythagoras, Zeno,etc. 
 
+Inheritance from Presocratics:
+- Ionian tradition: ~600-500 BCE thales ff: which "element" is prior? Thales thinks water, Anaximander thinks fire...
+- Pythagorean Tradition: number as that which is real, and which guides the universe, forming a kind of music.
+- (PParmenides, Democritus, atomism -- don't mention this for now!!)
+#+END_NOTES
 *** Being and Becoming
 - How real is change?
 - What are the mechanisms of change?
 - if there is change, how does it relate to unchanging truths?
+#+BEGIN_NOTES
+- Zeno's paradox
+- Heraclitus
+- who speaks for Being? 
+#+END_NOTES
+** Who was Plato again?
+#+ATTR_HTML: :class paired
+https://upload.wikimedia.org/wikipedia/commons/f/ff/Plato_and_Aristotle_in_The_School_of_Athens,_by_italian_Rafael.jpg
+
+-  ~429-327 BCE
+-  Student of Socrates
+-  Teacher of Aristotle
+-  During Athens' "Golden Age"
+
+
+#+BEGIN_NOTES
+https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Plato_Silanion_Musei_Capitolini_MC1377.jpg/800px-Plato_Silanion_Musei_Capitolini_MC1377.jpg
+
+#+END_NOTES
+*** His Importance
+
+#+BEGIN_QUOTE
+...he was so self-conscious about how philosophy should be conceived,
+and what its scope and ambitions properly are, and he so transformed
+the intellectual currents with which he grappled, that the subject of
+philosophy, as it is often conceived---a rigorous and systematic
+examination of ethical, political, metaphysical, and epistemological
+issues, armed with a distinctive method---can be called his invention.
+(Stanford Enc. of Philosophy)
+#+END_QUOTE
 
 ** Plato's epistemology
 - Truth ascertained through reason alone
@@ -347,229 +581,70 @@ https://www.ied.edu.hk/apfslt/v6_issue2/liusc/image017.png
 http://ethicsjusticeandsociety.voices.wooster.edu/files/2011/01/cave_small.jpg
 *** Allegory of the Cave
 #+BEGIN_QUOTE
-Compare the region which the eye reveals to the cave. Compare the light of the fire to the light of the sun. Compare the upward ascent to the contemplation of the upper world. Now you understand the mounting of the soul to the intellectual region. In the world of knowledge the Form of God is the limit for our inquiries and can barely be perceived. But, when perceived, we cannot but conclude that it is the source of all that is good and beautiful. 
+Compare the region which the eye reveals to the cave. Compare the light of the fire to the light of the sun. Compare the upward ascent to the contemplation of the upper world. Now you understand the mounting of the soul to the intellectual region. In the world of knowledge the Form of God is the limit for our inquiries and can barely be perceived. But, when perceived, we cannot but conclude that it is the source of all that is good and beautiful.
 #+END_QUOTE
 *** Status of the Natural World
 - changeable and unfixed
 - imperfect and flickering
-- therefore, *not a source /or object/* of perfect knowledge
+- therefore, *not a source or object* of perfect knowledge
 *** Sources of reliable knowledge
 - mathematics
 - aesthetic judgment
 - principles of logic & dialogic argument
 ** Plato's cosmology
+
 Circular motions, Crystal Spheres, and a divine Demiurge!
+*** Primacy of Being over Becoming
+#+BEGIN_QUOTE
+that which is apprehended by intelligence and reason is always in the same state; but that which is conceived by opinion with the help of sensation and without reason, is always in a process of becoming and perishing and never really is...
+
+The work of the creator, whenever he looks to the unchangeable and fashions the form and nature of his work after an unchangeable pattern, must necessarily be made fair and perfect; but when he looks to the created only, and uses a created pattern, it is not fair or perfect (Timaeus, 28)
+#+END_QUOTE
 *** Purpose of Astronomy
+
 #+BEGIN_QUOTE
-These sparks that paint the sky, since they are decorations on a visible surface, we must regard... as the fairest and most exact of material things, but we must recognize that they fall far short of the truth, the movements, namely, of real speed and real slowness in true number and in all true figures...  These [true things] can be apprehended only by reason and thought, but not by sight, or do you think otherwise?  -- Socrates, in /Republic/ VII 529:d
+These sparks that paint the sky, since they are decorations on a
+visible surface, we must regard... as the fairest and most exact of
+material things, but we must recognize that they fall far short of the
+truth, the movements, namely, of real speed and real slowness in true
+number and in all true figures... These [true things] can be
+apprehended only by reason and thought, but not by sight, or do you
+think otherwise? -- Socrates, in /Republic/ VII 529:d
 #+END_QUOTE
-#+ATTR_REVEAL: :frag (appear appear)
-- practical purposes (navigation, warfare, claendrics) significant but
-- real function of astronomy is /cultivation of the soul/ (like geometry & harmonics)
-*** The Cosmos was Created
+
+-  practical purposes (navigation, warfare, calendrics) significant but
+-  real function of astronomy is /cultivation of the soul/ (like
+  geometry & harmonics)
+
+*** The Cosmos Was Created
+
 #+BEGIN_QUOTE
-Now everything that becomes or is created must of necessity be created by some cause, for without a cause nothing can be created. The work of the creator, whenever he looks to the unchangeable and fashions the form and nature of his work after an unchangeable pattern, must necessarily be made fair and perfect, but when he looks to the created only and uses a created pattern, it is not fair of perfect. 
--- Timaeaus 28:b
+Now everything that becomes or is created must of necessity be created by some cause, for without a cause nothing can be created. The work of the creator, whenever he looks to the unchangeable and fashions the form and nature of his work after an unchangeable pattern, must
+necessarily be made fair and perfect, but when he looks to the created only and uses a created pattern, it is not fair of perfect. 
+(Timaeus 28:b)
 #+END_QUOTE
+
 *** The Cosmos is a Copy
+
 #+BEGIN_QUOTE
 The world has been framed *in the likeness* of that which is apprehended by reason and mind as unchageable. (Timaeus 29:a)
 #+END_QUOTE
-#+ATTR_REVEAL: :frag appear
-But it is an /imperfect/ copy thereof
-*** The Cosmos, though imperfect, is divine
-#+BEGIN_QUOTE
-...he made the world in the form of a globe, round as from a lathe, having its extremes in every direction equidistant from the center, the most perfect and the most like itself of all figures... (33:b)
-#+END_QUOTE
-*** more divinity
-#+BEGIN_QUOTE
-Now when the creator had framed the soul [of the universe] according to his will, he formed within her the corporeal universe, and brought the two together and united them center to center.  The soul, interfused everywhere from the center to the circumference of heaven, of which also she is the external envelopment, herself turning in herself, began a divine beginning of never-ceasing and rational life enduring throughout all time.
-#+END_QUOTE
-In addition, @@html:<span class="fragment" syle="color:red">@@heavenly bodies are themselves ensouled@@html:</span>@@.
-*** Structure of the Cosmos
-- circular
-- composed of bodies moving uniformly
-- with unspecified complex structures for irregularities
-** Plato Summary
-- deductive and teleological approach to Truth
-- 
-** Recap
-
--  ubiquity of stellar observation
--  diversity of interpretation
--  complexities of motions
-
-[[http://csep10.phys.utk.edu/astr161/lect/retrograde/epicycle-move.gif]]
-
-*** Plan
-
--  Plato and the Pre-Socratics
--  Aristotle
--  Ptolemy
-
-** What's at Stake in the Heavens
-
-
-[[https://upload.wikimedia.org/wikipedia/commons/3/3a/Ptolemaicsystem-small.png]]
-
-#+BEGIN_HTML
-  </div>
-#+END_HTML
-
--  crystal spheres
--  heavenly music
--  what's at stake
-
-*** Nature of Knowledge
-
--  how to determine what to believe
-
-   -  textual sources, reason, observation
-
--  all forms of argument from /authority/, not fully independent
--  “ladenness” of observation: no /seeing/ without /understanding/
-
-*** Nature of Divinity
-
--  Greek
-
-** Who was Plato again?
-
--  ~429-327 BCE
--  Student of Socrates
--  Teacher of Aristotle
--  During Athens' “Golden Age”
-
-
-[[https://upload.wikimedia.org/wikipedia/commons/f/ff/Plato_and_Aristotle_in_The_School_of_Athens,_by_italian_Rafael.jpg]]
-
-*** His Importance
-
-#+BEGIN_QUOTE
-  ...he was so self-conscious about how philosophy should be conceived,
-  and what its scope and ambitions properly are, and he so transformed
-  the intellectual currents with which he grappled, that the subject of
-  philosophy, as it is often conceived---a rigorous and systematic
-  examination of ethical, political, metaphysical, and epistemological
-  issues, armed with a distinctive method---can be called his invention.
-  (Stanford Enc. of Philosophy)
-#+END_QUOTE
-
-** Before Plato
-
--  fragmentary evidence, much of which comes from Aristotle
--  Interest in origins of matter/universe
--  clear evidence of /four elements/
-
-   -  is one *prior*?
-
--  interest in shape/components of cosmos
-
-   -  geocentric spherical universe
-
--  central question of *being* vs *becoming*
-
-*** Being and Becoming
-
--  How real is change?
--  What are the mechanisms of change?
--  if there is change, how does it relate to unchanging truths?
-
-** Plato's epistemology
-
--  Truth ascertained through reason alone
--  pertains to an unchanging *world of forms*
--  struggle to know is a process of moving past flickering illusions of
-   our world
-
-*** Allegory of the Cave
-
-
-[[http://ethicsjusticeandsociety.voices.wooster.edu/files/2011/01/cave_small.jpg]]
-
-*** Allegory of the Cave
-
-#+BEGIN_QUOTE
-  Compare the region which the eye reveals to the cave. Compare the
-  light of the fire to the light of the sun. Compare the upward ascent
-  to the contemplation of the upper world. Now you understand the
-  mounting of the soul to the intellectual region. In the world of
-  knowledge the Form of God is the limit for our inquiries and can
-  barely be perceived. But, when perceived, we cannot but conclude that
-  it is the source of all that is good and beautiful.
-#+END_QUOTE
-
-*** Status of the Natural World
-
--  changeable and unfixed
--  imperfect and flickering
--  therefore, *not a source /or object/* of perfect knowledge
-
-*** Sources of reliable knowledge
-
--  mathematics
--  aesthetic judgment
--  principles of logic & dialogic argument
-
-** Plato's cosmology
-
-Circular motions, Crystal Spheres, and a divine Demiurge!
-
-*** Purpose of Astronomy
-
-#+BEGIN_QUOTE
-  These sparks that paint the sky, since they are decorations on a
-  visible surface, we must regard... as the fairest and most exact of
-  material things, but we must recognize that they fall far short of the
-  truth, the movements, namely, of real speed and real slowness in true
-  number and in all true figures... These [true things] can be
-  apprehended only by reason and thought, but not by sight, or do you
-  think otherwise? -- Socrates, in /Republic/ VII 529:d
-#+END_QUOTE
-
--  practical purposes (navigation, warfare, claendrics) significant but
--  real function of astronomy is /cultivation of the soul/ (like
-   geometry & harmonics)
-
-*** The Cosmos was Created
-
-#+BEGIN_QUOTE
-  Now everything that becomes or is created must of necessity be created
-  by some cause, for without a cause nothing can be created. The work of
-  the creator, whenever he looks to the unchangeable and fashions the
-  form and nature of his work after an unchangeable pattern, must
-  necessarily be made fair and perfect, but when he looks to the created
-  only and uses a created pattern, it is not fair of perfect. --
-  Timaeaus 28:b
-#+END_QUOTE
-
-*** The Cosmos is a Copy
-
-#+BEGIN_QUOTE
-  The world has been framed *in the likeness* of that which is
-  apprehended by reason and mind as unchageable. (Timaeus 29:a)
-#+END_QUOTE
 
 But it is an /imperfect/ copy thereof
 
 *** The Cosmos, though imperfect, is divine
 
 #+BEGIN_QUOTE
-  ...he made the world in the form of a globe, round as from a lathe,
-  having its extremes in every direction equidistant from the center,
-  the most perfect and the most like itself of all figures... (33:b)
+...he made the world in the form of a globe, round as from a lathe,
+having its extremes in every direction equidistant from the center,
+the most perfect and the most like itself of all figures... (33:b)
 #+END_QUOTE
 
 *** more divinity
 
 #+BEGIN_QUOTE
-  Now when the creator had framed the soul [of the universe] according
-  to his will, he formed within her the corporeal universe, and brought
-  the two together and united them center to center. The soul,
-  interfused everywhere from the center to the circumference of heaven,
-  of which also she is the external envelopment, herself turning in
-  herself, began a divine beginning of never-ceasing and rational life
-  enduring throughout all time.
+Now when the creator had framed the soul [of the universe] according to his will, he formed within her the corporeal universe, and brought the two together and united them center to center. The soul, interfused everywhere from the center to the circumference of heaven,
+of which also she is the external envelopment, herself turning in herself, began a divine beginning of never-ceasing and rational life enduring throughout all time.
 #+END_QUOTE
 
 In addition, heavenly bodies are themselves ensouled.
@@ -584,128 +659,112 @@ In addition, heavenly bodies are themselves ensouled.
 
 -  deductive and teleological approach to Truth
 -  mathematics and a observation as /spiritual/ practices of
-   /self-development/
+  /self-development/
 -  denies *possibility* of truths about an imperfect natural world
 
 ** Remind me again about Aristotle?
-
+#+ATTR_HTML: :class paired
+[[https://upload.wikimedia.org/wikipedia/commons/f/ff/Plato_and_Aristotle_in_The_School_of_Athens,_by_italian_Rafael.jpg]]
+#+ATTR_HTML: :class paired
 -  384-322 BCE
 -  Plato's student
 -  Alexander's teacher
 
-[[https://upload.wikimedia.org/wikipedia/commons/f/ff/Plato_and_Aristotle_in_The_School_of_Athens,_by_italian_Rafael.jpg]]
-
 *** His Importance
 
--  in medieval writings often just called “The Philosopher”
+-  in medieval writings often just called "The Philosopher"
 -  laid out a system of knowledge that persisted for thousands of years
 -  helped lay foundations for theological & natural philosophic writings
-   in /at least/ christian, Islamic, and Jewish traditions
+  in /at least/ Christian, Islamic, and Jewish traditions
 -  combined an emphasis on /precise empirical observation/ with
-   /rigorous deduction/
+  /rigorous deduction/
 
 *** Aristotle's Style and System
 
 -  abandons dialogue
 -  Builds a (largely!) self-consistent system across many fields of
-   inquiry
+  inquiry
 
 ** Aristotle's Natural Philosophy
 
-four causes, Natures, and theory of motion at the heart of his physcial
+*Four Causes*, *Natures*, and *theory of motion* at the heart of his physcial
 theories
-
 -  all natural phenomena must be explained in terms of these principles
-
 *** Four Causes
-
 -  Material
 -  Formal
 -  Efficient
--  final
-
+-  Final
+#+BEGIN_NOTES
+- Material :: the stuff it's made out of
+- Formal :: the shape it takes
+- Efficient :: The force or power which brings it into being or into this state (what we usually think of as a "cause"
+- Final :: Its purpose
+so, more causes than we accept; and also more room to discuss "meaning" in a causal account.
+#+END_NOTES
 *** Natures and Motion
 
 -  /Nature/ of a being or substance explains its actions.
-
-   -  nature of earth is to be at rest
-   -  nature of fire is to move
-
--  When a body's's state of being not in accord with its *nature*, that
-   is because some /efficient/ cause is /acting on/ that body
-
+  -  nature of earth is to be at rest
+  -  nature of fire is to move
+-  When a body's state of being not in accord with its *nature*, that is because some /efficient/ cause is /acting on/ that body
+#+BEGIN_NOTES
+- It may seem strange but /the shape and system of the heavens is in many ways derived from the theory of motion/.
+- So, perhaps even more than with Plato, the Universe is seen as /the effect of physical laws playing themselves out inevitably/.
+#+END_NOTES
 ** The Heavens
-
--  Terrestrial bodies, with their tendency to rest or move
-   “rectilearly”, also initiate in each other processes of change
--  Celestial bodies are unchangeable, and embedded in a fifth element,
-   *Ether* or *Aether*
-
-   -  move in a /circular/ fashion
-
+- Terrestrial bodies, with their tendency to rest or move "rectilearly", also initiate in each other processes of change
+- Celestial bodies are unchangeable, and embedded in a fifth element, *Ether* or *Aether*
+  - move in a /circular/ fashion
 *** The Spheres
-
 Aristotle gets this from Eudoxus:
-
--  Concentric spheres of aether rotate around the earth (center of
-   Universe)
--  each has its own motion, but is also carried by the motion of the
-   outer sphere
-
+- Concentric spheres of aether rotate around the earth (center of
+  Universe)
+- each has its own motion, but is also carried by the motion of the
+  outer sphere
 [[https://facultystaff.richmond.edu/~ebunn/homocentric/retrograde3.gif]]
 
 *** But Where does this motion come from?
 
 #+BEGIN_QUOTE
-  [E]verything that is in motion is moved by something... the first
-  principle that directly causes things that are in motion to be moved
-  is that which moves itself, and the first principle of the whole
-  series is the unmoved....
+[E]verything that is in motion is moved by something... the first
+principle that directly causes things that are in motion to be moved
+is that which moves itself, and the first principle of the whole
+series is the unmoved....
 
-  So the necessity that there should be motion continuously requires
-  that there should be a first movement that is unmoved even
-  accidentally...
+So the necessity that there should be motion continuously requires
+that there should be a first movement that is unmoved even
+accidentally...
 #+END_QUOTE
-
-There must be an Unmoved Mover! As perhaps an efficient but *certainly*
-a final cause
-
--  there may even be *Many* unmoved movers
+There must be an Unmoved Mover! As perhaps an efficient but *certainly* a final cause
 
 *** And how did it start?
 
 #+BEGIN_QUOTE
-  So the necessity that there should be motion continuously requires
-  that there should be a first movement that is unmoved even
-  accidentally, if... thre is to be in the world of things an unceasing
-  and undying motion, and the world is to remain permanently
-  self-contained... for if the first principle is permanent, the
-  universe must also be permanent, if it is continuous with the first
-  principle.
+So the necessity that there should be motion continuously requires that there should be a first movement that is unmoved even accidentally, if... thre is to be in the world of things an unceasing and undying motion, and the world is to remain permanently self-contained... for if the first principle is permanent, the universe must also be permanent, if it is continuous with the first principle.
 #+END_QUOTE
-
-There can be no “first” motion!
+There can be no "first" motion!
 
 (Because every motion or change requires a previous state of change)
 
 ** The divine
 
--  The “Unmoved Mover”, as cause of everything that is, is divine
+-  The "Unmoved Mover", as cause of everything that is, is divine
 -  however, this entity is not *within* the universe
 
 #+BEGIN_QUOTE
-  It is clear then that there is neither place, nor void, nor time,
-  outside the heaven. Hence whatever is there, is of such a nature as
-  not to occupy any place, nor does time age it; nor is there any change
-  in any of the things which lie beyond the outermost motion; they
-  continue through their entire duration unalterable and unmodified,
-  living the best and most self sufficient of lives... From [the
-  fulfilment of the whole heaven] derive the being and life which other
-  things, some more or less articulately but other feebly, enjoy.
+It is clear then that there is neither place, nor void, nor time,
+outside the heaven. Hence whatever is there, is of such a nature as
+not to occupy any place, nor does time age it; nor is there any change
+in any of the things which lie beyond the outermost motion; they
+continue through their entire duration unalterable and unmodified,
+living the best and most self sufficient of lives... From [the
+fulfilment of the whole heaven] derive the being and life which other
+things, some more or less articulately but other feebly, enjoy.
 #+END_QUOTE
 
 -  in fact, in its perfection, the unmoved mover *has no awareness of
-   the world* but *solely contemplates itself*
+  the world* but *solely contemplates itself*
 
 ** Aristotle: Summary
 
@@ -717,32 +776,33 @@ There can be no “first” motion!
 ** The Ptolemaic system
 
 -  Ptolemy: CE 90-168; Greek-speaking Egyptian living in Alexandria
-   under Roman rule
--  inherited idea of celestial spheres from
-   Eudoxus/Aristotle/Hipparchus;
--  and stellar observation records potentially from ancient
-   Mesopotamians
+  under Roman rule
+-  inherited idea of celestial spheres from Eudoxus/Aristotle/Hipparchus;
+-  and stellar observation records potentially from ancient Mesopotamians
 
 *** The Physical Model
-
--  Homocentric spheres, severla for each planet, like those described by
-   Aristotle
+-  Homocentric spheres, several for each planet, like those described by
+  Aristotle
 -  Much more carefully specified!
 
+*** Retrograde Motion with Epicycle
+#+ATTR_HTML: :class paired
+http://www.lasalle.edu/~smithsc/Astronomy/images/marsmovie.gif
+#+ATTR_REVEAL: :frag t
+http://www.lasalle.edu/~smithsc/Astronomy/images/epicycle-move.gif
+
 *** The Mathematical Model
-
--  Uniform Circular motions, in “superposition”, to create complex
-   motions
--  Techniques: epicycles and equants
-
-   -  account for complexities of movements
+- Uniform Circular motions, in "superposition", to create complex
+  motions
+- Techniques: epicycles and equants
+  - account for complexities of movements
 
 *** Persistence and Problematics
 
 -  Incredibly resilient
 -  Corrections make it increasingly heavy with adjustments
 -  Copernicus will eventually find it simpler to move the sun to the
-   center of the system (to eliminate equants)
+  center of the system (to eliminate equants)
 
 ** Sum-up
 
@@ -754,6 +814,7 @@ There can be no “first” motion!
 
 * 04 Islam
 :PROPERTIES:
+:EXPORT_TITLE: Medieval Islamic Philosophy
 :EXPORT_FILE_NAME: 04-islam
 :END:
 
@@ -762,23 +823,33 @@ There can be no “first” motion!
 - Platonic and Aristotelian conceptions of "God"
   - as evidenced in the spheres
 - Empirical "vs" Deductive approaches to Natural Knowledge
-** Apologies!
-- I'm late!!!
-** Synopsis
+
+#+BEGIN_NOTES
+ferment of the Greek tradition
+#+END_NOTES
+
+*** 
+[[file:~/RLG231/Images/cosmas-indicopleustes-square-earth-universe.jpg]]
+#+BEGIN_NOTES
+not completely unchallenged! but, well, one is more persuasice than the other. 
+#+END_NOTES
+** Roadmap for Today
 Various Encounters with Ancient Philosophy:
 - Al-Farabi (~872-950, Baghdad): "The Second Teacher"
+- Fariha's presentation on medieval Islamic medicine
 - ibn Sina or Avicenna (~980-1037, Uzbekistan & Eastern Iran): a naturalistic theology & epistemology
-- al Ghazali (1058-1111, Tus & Baghdad): /The Incoherence of the Philosopohers/
-- ibn Rushd or Averroes (1126-1198,Córdoba and Marrakesh): monopsychism and rationalism
+- al Ghazali (1058-1111, Tus & Baghdad): /The Incoherence of the Philosophers/
+- ibn Rushd or Averroes (1126-1198,Cordoba and Marrakesh): monopsychism and rationalism
 ** Islam
 - 7th Century revelation
 - Rapid spread from Mecca
-- Absorption and replacement of other monotheisms & anymist/polytheistic religions
+- Absorption and replacement of other monotheisms & animist/polytheistic religions
   - despite tolerant regimes in many areas
 
 *** Medieval spread of Islam
-#+ATTR_HTML: :style float:left; max-width:49%
+
 http://www.teacheranthoney.com/uploads/1/1/5/7/11570225/2906271_orig.gif
+***                                                              :noexport:
 #+ATTR_HTML: :style float:left; max-width:49%
 http://media-1.web.britannica.com/eb-media/89/4789-004-2F86E60E.jpg
 
@@ -786,10 +857,11 @@ http://media-1.web.britannica.com/eb-media/89/4789-004-2F86E60E.jpg
 - immense philosophical & theological diversity over ~500 years
 - enormous empire of many languages and ethnicities
 - openness to local intellectual resources
+- no "Pope", or single final religious authority! Political and religious strife that mirror each other to some extent, and final authority resing with the consensus position of "the learned". This despite the existenceo fhte /minha/, something like a religious inquisition.  
 - absurd to speak of "the Islamic" /anything/, esp., say, "the Islamic view of science"
 ** Islam and Greek Philosophy
 - Resuscitation of Ancient Traditions
-- Massive Greek \rarr Arabic Translation Effort, esp. in 'Abbasid Calophate (750-1258)
+- Massive Greek \rarr Arabic Translation Effort, esp. in 'Abbasid Caliphate (750-1258)
 *** Making Translation Possible
 - Even the Romans had translated only small parts of Greek classical corpus
 - Why now?
@@ -797,14 +869,40 @@ http://media-1.web.britannica.com/eb-media/89/4789-004-2F86E60E.jpg
   - Tolerance towards non-Muslim scholars
   - Patronage system
   - Emphasis w/in Islam on scholarly investigation
+#+BEGIN_NOTES
+so, Islam as /particularly/ suited to study (this is not the common perception in the contemporary west)
+#+END_NOTES
 *** Reason, Faith, and Aristotle
 #+BEGIN_QUOTE
-According to various sources, the caliph was visited one night by Aristotle,
-who granted him a series of questions. The caliph began with the
-all-important one, “What is good?” to which the immediate answer was
-“That which is good in the mind.” “And what then?” The answer: “That
-which is good in law.”
+According to various sources, the caliph was visited one night by Aristotle, who granted him a series of questions. The caliph began with the
+all-important one, "What is good?" to which the immediate answer was "That which is good in the mind." "And what then?" The answer: "That
+which is good in law."
 #+END_QUOTE
+#+BEGIN_NOTES
+al-Ma'mum (786-833), 'Abbasid caliph whose life would take a whole lecture to describe (succession struggle, war with brother, sieges, the works). 
+
+This quotation shows that /rationality takes precedence over religious texts/
+
+- not actually the "cause" of the translation movement, which was already underway; but a myth that tells us about values in the Abbasid dynasty.
+- translation efforts "one of the most important intellectual events in human history", b/c it preserved and engaged with a tradition that otherwise would havebene lost (the Greek) while intermingling it with other traditions (esp Persian and Indian), and led esp. to mathematical developments which it then spread across eurasia.  
+- depended on skills/languages of non-Muslims, so relied on the astonishingly tolerant multiculturalism of the Abbasid period, and baghdad in particular. 
+
+
+How did the early adherents to Islam,
+mainly cut off from the great intellectual traditions of antiquity, evolve in a
+few generations into a cultural polity that would give rise to an intensive and
+relatively organized translation movement that would make this possible? 17
+Part of the answer lies in the rapid development of the Islamic community
+into a sophisticated, multicultural empire under the early Abbsid caliphs,
+at which time (the late eighth century) the translation movement began.
+These caliphs, in addition to being defenders of the Islamic faith, often saw
+themselves as successors to the great pre-Islamic Persian kings and encouraged
+the translation into Arabic of not only Hellenistic science and philosophy but
+also a substantial amount of pre-Islamic Persian and Indian material (both
+scientific and literary). Islamic intellectuals thus gained an extraordinary
+degree of access to these ancient traditions  rivaling, and in some cases
+surpassing, our modern knowledge of them.
+#+END_NOTES
 *** Pre-Eminence of Aristotle
 Two Traditions
 - "Aristotelians": Aristotle as "The First Teacher", creator of a complete system
@@ -819,6 +917,16 @@ Two Traditions
 [[file:~/RLG231/Images/Ptolemaicsystem-emanations.png]]
 - Aristotle's God was /distant/
 - Islam's God was /active/
+#+BEGIN_NOTES
+God's intellect infuses all other intellects, and directly causes everything in the Universe. 
+
+"Neoplatonists advocated an emanation
+of being from the highest celestial region through a hierarchy of spheres (the
+Aristotelian/Ptolemaic celestial orbs) down to the sphere of the Moon, which
+is closest to the Earth. This lowest level was associated both with Aristotles
+agent intellect and Platos world of ideas that were accessible to those peo-
+ple who purified their souls through the intense study of philosophy." (Ragep)
+#+END_NOTES
 *** And Other Questions
 - Prophecy
   - Aristotle was /critical/ of notion of prophecy
@@ -828,17 +936,31 @@ Two Traditions
   - Islam proclaimed the /immortality/ of the soul
 - the World
   - Aristotle thought events had /natural causes/;
-  - Islam saw God acting /directly in the world/ through /miracles/ 
+  - Islam saw God acting /directly in the world/ through /miracles/
 ** /Kalam/ and /falsafa/
 Early division of "Transmitted" and "rationalized" knowledge
 - with, for many, /reason/ at the root of both
 - /kalam/ and /falsafa/
+
+#+BEGIN_NOTES
+- kalam is theology, one of a number of "religious sciences" which included e.g. grammar
+- falsafa is the study of the ancients, Aristotle and the Neoplatonist intperpretations thereof esp. 
+
+#+END_NOTES
+** Al-Kindi: "the first Muslim philosopher"                        :noexport:
+- "advocated the doctrine of creation ex nihilo" (ragep)
+- explained prophecy in terms of Aristotelian psychology -- like Avicenna later on.
+- defender of astrology
+- helped to provide a role for mathematics in investigations of physical world. 
 ** Al-Farabi: The Second Teacher
-- cosmopolitan 9th Century Baghdad
+- cosmopolitan 9th/10th Century Baghdad
 - Hellenized christian philosophy
 - canonical version of /emanation/ theory
 - a /rationalist/ metaphysics that nonetheless exalted God as the cause of all things
   - God's knowledge as "cause and source of the existence of everything."
+#+BEGIN_NOTES
+- also seems to have abandoned attempts to reconcile ancient sicnece w/ Islamic theology, b/c he held philosophy to be /above/ theology or religion. 
+#+END_NOTES
 *** Cosmology
 - Everything needs a cause
 - Aristotelian "Prime Mover" an expression of God's /intellect/
@@ -851,35 +973,40 @@ Early division of "Transmitted" and "rationalized" knowledge
 *** Psychology
 - "First Intellect" \rarr God
 - "Second Intellect" \rarr Incorruptible heavenly bodies
-- "Active Intellect" \rarr unites God 7 human consciousness, but acts in the corruptible world
+- "Active Intellect" \rarr unites God & human consciousness, but acts in the corruptible world
 ** Avicenna
 - child prodigy ("By the age of 18, there was nothing I did not know")
 - highly successful practicing physician
 - great systematizer of philosophy
 *** Avicenna and Aristotle
-- Aristotle is great, bu:
+- Aristotle is great, but:
 - Knowledge is /progressive/ and can be improved upon
 - system and empiricism work together
 *** Naturalism
-- lving things
+- living things
 - the Cosmos
 - mind
 - revelation
 *** Logic at the root
 - Syllogism: A \rarr B \rarr C
 - how do we apprehend the "middle term"?
+#+BEGIN_NOTES
+It would be great if I had some notes here. 
+- How do we perceive the necessity of this relationship, and what guarantees it?
+- as emanationism tells us: only God! 
+#+END_NOTES
 *** Human Intellect
 - "congeneric" substance w/ divine intellect
   but resident in corruptible terrestrial sphere
 - hence /mutable/ and potential
-- intellection a process of /self-development/ that /stretches/ towards the incorruptible intellects above.  
+- intellection a process of /self-development/ that /stretches/ towards the incorruptible intellects above.
 *** The Soul
 - all "intelligibles" /object's of god's thoughts/
   - Divine Intellect overses things through their causes, but we only see /effects/
 - logical syllogism a /process of contact/ between human and divine intellects
 - ... as is prophecy
   - prophecy rendered *naturalistic*
-*** The work of Reason
+*** The Work of Reason
 - Reason as /habit which permits this (limited) divine contact/
 - "Intimacy" of acquaintance with reason and object facilitates this apprehension
 - *truths* and *divine intellect* eternal; *terrestrial knowledge* is progressive
@@ -892,44 +1019,82 @@ Early division of "Transmitted" and "rationalized" knowledge
 *** An ethical Obligation
 - duty to realize our intellects in their full potential
 - an imperative to /refine/ and /perfect/ knowledge
-** Al Ghazali
+*** Small Group
+Discuss: What is the basis of our belief in logic? WHat strengths/weaknesses do you see in Avicenna's/ Ibn Sina's account of the "middle term"?
+** Al Ghazali (1056-1111)
 - Mystic and theologian
 - /Incoherence of the Philosophers/
 - mixed legacy
+#+BEGIN_NOTES
+In contrast to what is often claimed, Al-ghazali's work *advanced* the broader acceptance of Avicenna's work into mainstream Muslim theology (/falsafa/ accepted into /kalam/)
+
+But, offered profound epistemological critique of /falsafa/, suggesting that they hadn't demonstrated all they claimed to have.
+
+This is sometimes seen as a anti-scientific, and as "the end" of Muslim friendliness to science. 
+#+END_NOTES
 ** Averroes
-- "Pure" Aristotelianism 
-*** Al- Andalus: crossroad of Cultures
-https://en.wikipedia.org/wiki/Al-Andalus#/media/File:Al_Andalus_%26_Christian_Kingdoms.png
-*** Doctirines
-- Abandonment of Ptelemy's epicycles & equants
+- "Pure" Aristotelianism
+- Defence of Avicennism/Aristoteleanism against anti-rationalist critics
+- Essential figure in the multi-cultural intellectual world of al-Andalus
+*** Al-Andalus: crossroad of Cultures
+https://upload.wikimedia.org/wikipedia/commons/5/5b/Al_Andalus_%26_Christian_Kingdoms.png
+*** Doctrines
+- Abandonment of Ptolemy's epicycles & equants
 - Defense of Philosophy against al Ghazali
-- monopsychism 
+- monopsychism
+#+BEGIN_NOTES
+"monopsychism" -- the idea that the intellect is always one thing; differences in individual apprehensions are due to some other difference, not within the intellect itself. (in someo ther traditions we might say "one soul")
+#+END_NOTES
 ** What I've ignored Today
 So much!
 - Islamic medicine!
 - Islamic mathematics!
-  - India!
+  - India! Persia!
+- Role of Jewish philosophers!
+#+BEGIN_NOTES
+just a quick note that 
+
+- Jewish neoplatonist /Philo Judaeus/ (c~20BCE to ~50CE)important in solidifying the Neoplatonist Aristotelian synthesis
+- Jewish philosophers translate Al-Ghazali & Avicenna's works into Hebrew before they're available in Latin; Averroes' work linked to Maimonides, who we can't talk abot in the class (too bad!) but was another central figure in the transmission of classical philosophy to Europen audience.  
+#+END_NOTES
 ** A Plea for Nuance
 Steven Weinberg:
 #+BEGIN_QUOTE
-Alas, Islam turned against science in the twelfth century. The most influential figure was the philosopher Abu Hamid al-Ghazzali…. After al-Ghazzali, there was no more science worth mentioning in Islamic countries. (Weinberg, TLS, 2007)
+Alas, Islam turned against science in the twelfth century. The most influential figure was the philosopher Abu Hamid al-Ghazzali. After al-Ghazzali, there was no more science worth mentioning in Islamic countries. (Weinberg, TLS, 2007)
 #+END_QUOTE
 - Islam is multiple
 - Islam has had /enormous/ effects on science and mathematics
 - *Absurd* to reduce Islam to radical strands currently destroying the Middle East
-** Bibliography                                                   :noexport:
+** ACTION Bibliography                                            :noexport:
 - Ragep, "Islamic Culture and Natural Sicence", /Cambridge History of Science v. 2/ online
 - Dhanani
 - Dalal
-- 
-*** 
+-
+***
 ** Presentations                                                  :noexport:
+*** Fariha: Islamic Medicine
+- start 10:48
+- Astronomy, Astrology
+- Humorlaism 
+  - Yellow Bile, Fire
+  - Blood, Air
+  - Black Bile, Earth
+  - Phlegm, Water
+  - al-Zahrwawi, 20 vol encyclopedia of surgery/medicine, Kitab-al-tasrif
+  - dissection of the eye?
+  - Avicenna -- "Canon of Medicine"
+    - "alan" -- that which is seen; and "sir" -- that which is hidden (examples?)
+      - Mind as a "sir" -- mental powers, 3 kinds of mind, plant, animal, mind
+      - sensory perception: "the picture of all things perceived by the senses are conveyed to the organ of perception and are impressed upon them, and are then perceived by the sensory faculty"
+    - "Hadith "there is no disease that Allah has created, except that he has always give nits treatment"
+- Questions from Nicholas, Preye, Jacqeline
+  - problem of evil: 
 *** Marie
 Philosophical divide.  Shi'a/Sunni division.  Shi'a, proposed succession of Ali; Sunni, election of a leader.
 - Political effects of philosophical divide
   - allegorical interpeations of Qur'an more congenial to Neoplatonism, pursue Ancient Greek phil as a religious endeavour
   - deliberate efforts to patronize the sciences, e.g. house of wisdom in baghdad, house of knowledge in Cairo
-  - "Conquest leads to integration; 
+  - "Conquest leads to integration;
   - al-Andalus; big difference between Umayyad Spain vs. Umayyad proper
 - Development of observatory as a hub for learning/worship
   - Maragha, Samarqand;
@@ -937,37 +1102,40 @@ Philosophical divide.  Shi'a/Sunni division.  Shi'a, proposed succession of Ali;
 - astronomical measurements w/ local coord system to get timing right for prayer
 - EXCELLENT.  very nice work.
   - Al
-
 *** Connor
 - optics, image of the object in the eye, what is sensed.
 - al-ghazali quote: about mathematical truth.  "what kids of truths are they?
 [[file:01-what-are-sci-and-rel.html]]
+** Attendance                                                     :noexport:
+- Akiva, Jacqueline, Chin, Joel, Shadio, Rodney, New Kid,  unknown asian woman at back, Edita, Dawood, Faz..., Ezra, Marie, Anna, >>>, Seung Wan, Preye, Nicholas
 * 05 Galileo
 :PROPERTIES:
 :EXPORT_FILE_NAME: 05-galileo
+:EXPORT_TITLE: Galileo, the Church, and the Order of Nature
 :END:
-
-** Whoa!
+** Whoa!                          
 - What a crazy system!
-- resubmission: email or blackboard, both OK.
-- No PDF's please!
-- Naming convention: NAME-ASSIGNMENT-TITLE.[doc(x)|odt]
+- resubmission: via Blackboard and dropbox, indicate "#2" or similar
 - Peer Review!
+- \para, "Wrong Word", Fragment, Run-on, "Grammar", "Awkward"
 
 ** Recap
 #+ATTR_REVEAL: :frag (appear appear appear appear)
 - Islamic continuation of Ptolemaic system
-- Preservation and transmission of Antique philosophy
+- Preservation and transmission of Ancient philosophy
 - sophisticated theological reconciliation with nat phil
   - e.g., Avicenna's psychology
 - impact on Christian thought, esp. through Aquinas, Aristotelian tradition
 
-*** Roadmap
+** Roadmap
 - What's at stake
 - Copernican System
 - Brahe & Kepler
+- Presentations!
 - Galileo's Contexts
 - The Trial(s)
+- Small Groups!
+- Aftermath
 
 ** What's at Stake in /L'Affaire Galileo/
 #+ATTR_REVEAL: :frag (appear appear appear)
@@ -975,13 +1143,13 @@ Philosophical divide.  Shi'a/Sunni division.  Shi'a, proposed succession of Ali;
 - *clear* example of a struggle btwn religious authority and a natural "scientist"
 - host of metaphorical associations
   - "overdetermination" of meanings
-
 ** The Copernican System
 *** Nicolaus Copernicus, 1473-1543
-#+ATTR_HTML :style max-height 80%;
+
+#+ATTR_HTML: :style max-width 75%;
 https://upload.wikimedia.org/wikipedia/commons/2/28/Copernicus.jpg
 
-*** /De Revolutionibus orbium coelestium/, 1542
+*** /De Revolutionibus orbium coelestium/, 1543
 - primarily /aesthetic/ objections
   - Naturalistic explanation e.g. for retrograde motion
   - *NOT* on the basis of new evidence
@@ -989,25 +1157,47 @@ https://upload.wikimedia.org/wikipedia/commons/2/28/Copernicus.jpg
 - status of mathematical truth
 #+REVEAL: split
 - Equants
-http://www.astronomy.ohio-state.edu/~pogge/Ast161/Unit3/Images/equant.gif 
+http://www.astronomy.ohio-state.edu/~pogge/Ast161/Unit3/Images/equant.gif
 #+REVEAL: split
 - The introduction
   #+BEGIN_QUOTE
-  Osiander: "It is the duty of an astronomer to make careful observations, and then to make hypotheses... But these hypotheses need not be true nor even probably.  Perhaps a philosopher will seek after truth, but an astronomer wil ltake whatever is simplest, but neither will learn anything certain unless it has been divinely revealed to him"
+  Osiander: "It is the duty of an astronomer to make careful observations, and then to make hypotheses... But these hypotheses need not be true nor even probably.  Perhaps a philosopher will seek after truth, but an astronomer will take whatever is simplest, but neither will learn anything certain unless it has been divinely revealed to him"
   #+END_QUOTE
 - Reception: muted!
-- Types of objections
+- Several types of objections
+#+BEGIN_NOTES
+Want to point out that the intro was a place where Ossiander wrote /for/ copernicus that what we had here was a "hypothesis," and a mathematical abstraction.
 
-*** Scriptural: Joshua 10:3
+"Types of objections" -- thiis actually  introduces the next few slides. 
+#+END_NOTES
+*** Scriptural
 #+BEGIN_QUOTE
-And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies... So the sun stood still in the midst of heaven, and hasted not to go down about a whole day.
+And the sun stood still, and the moon stayed, until the people had avenged themselves upon their enemies... So the sun stood still in the midst of heaven, and hasted not to go down about a whole day. (Joshua 10:3)
+
+[God] laid the foundations of the earth, that it should not be removed for ever. (Psalm 104:5)
 #+END_QUOTE
 *** Methodological
 - How can we know the heavens?
 - WHat can epicycles be /in physical reality?/
+#+BEGIN_NOTES
+set of arguments made by various actors; Urban will later say that of course we can't /really/ know; this is an /anti-realist/ position, and very powerfl.  Many thoght the intricate details of Ptolemy's system were /merely a mathematical model/ that helped us interpret the heavens rather than a /precise physical account/ of the heavens
+#+END_NOTES
 ** Tycho Brahe, 1546-1601
 - incredible observations
 - "Tychonic" system https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Tychonian_system.svg/375px-Tychonian_system.svg.png
+- observations used by Johannes Kepler to give mathematical law of motions for planets around the sun
+#+BEGIN_NOTES
+"Tychonic System" is a heliogeocentric model where the planets orbit the sun, but the sun orbits the earth. 
+#+END_NOTES
+
+** Revolution in Physics: Kepler
+#+ATTR_HTML: :style max-width:49%; float:left;
+http://www.astronomy.ohio-state.edu/~pogge/Ast161/Unit3/Images/firstlaw.gif
+#+ATTR_HTML: :style max-width:49%; float:left;
+http://www.astronomy.ohio-state.edu/~pogge/Ast161/Unit3/Images/secondlaw.gif
+- radical simplicity
+- underlying geometrical vision
+
 ** Galileo
 https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait_of_Galileo_Galilei,_1636.jpg
 *** The Philosophical Context
@@ -1015,7 +1205,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait
 - "secular" universities
 - an encrusted Aristotelianism (K: "official science of the Church")
 - motion of terrestrial bodies (gravitation)
-  - Tower of Pisa; *non-uniform* motion (acceleration, D\propto t^2 ), \neg v \propto M
+  - Tower of Pisa; *non-uniform* motion acceleration,$$ D\propto t^2 $$ not  $$ v \propto M $$
 - telescope
   - sunspots; moons of Jupiter; phases of Venus
 - /The Starry Messenger/ (1610): first public espousal of Copernicanism
@@ -1030,21 +1220,37 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait
 - Gradual expansion of authority of previous Church father positions
   - Cardinal Bellarmine
   - (contrast w/ Islamic culture ~1000)
+#+BEGIN_NOTES
+- Reformation starts 1517 w/ Luther's 95 theses & condemnation of Chrch corrption
+- Turns into broader revolt against Chrch authority, and in particular, into an /epistemological/ dispte over authority to interpret Scripture, that is, Revealed Knowledge
+- Timing is important -- not only for Galileo, but for Copernicus, whose work gets wrapped up in it
+#+END_NOTES
 *** /Letter to the Grand Duchess/
 - /theological/ arguments for /a separate authority for observation
-  - Two books (... and what does it mean that the world is a "book"?)
-  - impossibility of conflict
-  - nature and limitations of God's revelation
-- Why is the church so upset
-  #+REVEAL: split
-  - Bellarmine: not so miuch disagreement!
-  - Except: the duty of faith!!
-  - How to manage conflicts in the case of hypotheses /not yet proven/?
-    - Bible and tradition must remain paramount, /b/c the /order/ of Biblical Truth is higher
+#+BEGIN_QUOTE
+With regard to this argument, I think in the first place that it is
+very pious to say and prudent to affirm that the holy Bible can
+never speak untruth-whenever its true meaning is understood. But
+I believe nobody will deny that it is often very abstruse, and may
+say things which are quite different from what its bare words
+signify. He nce in expounding the B ible if one were always to
+confine one self to the unadorned grammatical meaning , one m ight;
+fall into error. (/Letter/, 216-223)
+#+END_QUOTE
+#+REVEAL: split
+- Two books (... and what does it mean that the world is a "book"?)
+- impossibility of conflict
+- nature and limitations of God's revelation
+- Why is the church so upset?
+#+REVEAL: split
+- Bellarmine: not so much disagreement!
+- Except: the duty of faith!!
+- How to manage conflicts in the case of hypotheses /not yet proven/?
+    - Bible and tradition must remain paramount, b/c the /order/ of Biblical Truth is higher
 *** Condemnation, 1616
 - Copernicanism ruled "false and completely contrary to the Divine Scriptures"
   - Corrected/de-Indexed version of /De Revolutionibus/ 1620
-- Galileo's case /not publicly announced/; but the /may/ have been given an injunction to abandon Copernicanism
+- Galileo's case /not publicly announced/; but he /may/ have been given an injunction to abandon Copernicanism
 *** Galileo's missteps, 1623-33
 - election of Barberini \rarr Pope Urban VIII
 - Galileo gains permission to discuss Copernicanism /as a hypothesis/
@@ -1052,32 +1258,1037 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait
 - /Dialogue Concerning the Two Chief World Systems/ 1632
   - Pope as *Simplicio*??
 - Verdict: "Vehemently *suspected* of heresy"
-- Self-Denuncition
+- Self-Denunciation
 ** The Long Shadow
-*** A Conflict?
-- response to Kravice: what you mean by "religion" maps poorly onto the same term in 17^th Century.  
+
 *** For Galileo
 - the end of new investigations
 - house arrest
 - /Discourse on Two New Sciences/
+#+BEGIN_NOTES
+the "Discourse" announces law of uniform accelaration (Gravity) and law of motion of pendulum ( lengh of time for any swing proportional to length of pendlum, regardless of how wide the swing is)
+#+END_NOTES
 *** For Catholicism
 - serious overreach
 - premature condemnation that clearly violated Bellarmine's own, sophisticated, epistemology
 *** For Scientists, and for Us
 - the beginning of a much more expansive revolution, represented by Kepler's contemporaneous law of planetary motions (ellipses)
 - a story about /illegitimate authority/ with far-reaching consequences
-- a mythology that limits our capacity for understanding? 
+- a mythology that limits our capacity for understanding?
 ** Presentation                                                   :noexport:
-- G "did not question the religion itself" -- but what does "religion" mean here? Maybe there's a historical confusion/conflation here.
-- conflict w/ Aristotelianism as /systemic/
-- what does "Official science of the church" mean?
-- Reformation is *1517*
-  - *1532* English Reformation
-  - This context important, but is ongoing already by the time Galileo born! what makes 1633 so special?
-  - questions are /leading/
-  - conflict as /personal/ and a /pure powerful structure/
+
+  -
+* 06 Darwin
+:PROPERTIES:
+:EXPORT_FILE_NAME: 06-darwin
+:END:
+** Recap
+- Galileo's physics as a blow to the entire Aristotelian system
+  - new laws of motion
+  - unity btwn celestial and terrestrial spheres
+  - abandonment of final causes w/in naturalistic explanation
+- Moment of severe rigidity w/in Catholic hierarchy
+
+*** Roadmap
+- Rise of "Natural Law" 
+- Situating Darwin
+- The /Beagle/
+- The Theory
+- God After Darwin
+*** Synopsis
+- Epochal Event in the History of Science
+- But also in the history of culture
+- Launches numerous social movements, withep resonances
+- Can =only scratch the surface
+** Between Galileo and Darwin: the lawlike Universe
+*** The Medieval Christian Worldview (Caricature)
+- God *governs* the world
+- God is /primary cause/ of everything:
+  #+ATTR_REVEAL: :frag (appear)
+  #+BEGIN_QUOTE
+  Who has laid out a channel for the downpour and for the thunderstorm a path
+  To bring rain to no man's land, the unpeopled wilderness;
+  To enrich the waste and desolate ground till the desert blooms with verdure? (/Job/ 38:25)
+  #+END_QUOTE
+  (cf. the Qu'ran:)
+  #+BEGIN_QUOTE
+  Allah is He Who raised up the heavens without any pillars that you can see. Then He settled Himself on the Throne, and constrained the sun and the moon to serve you; each planet pursues its course during an appointed term. He regulates it all and expounds the Signs, that you may have firm belief in the meeting with your Lord. (13:2)
+  #+END_QUOTE
+  #+REVEAL_SPLIT
+  but:
+  - acts through a hierarchy of /secondary causes/
+    - /Laws/ that govern the ordinary actions of the world, in which God's action is immanent
+    - /Angels/ intervening to send signs and aid
+    - /Miracles/ in which God acts directly to override natural law
+      #+BEGIN_NOTES
+      - level of god's supervision of and involvement in the secondary causes: god's omnipotence best revealed in /this action/ or /this delegation/ (Henry, Causation, p. 131)
+      #+END_NOTES
+**** Legal Flexibility                                          :noexport:
+#+BEGIN_QUOTE
+The more private and common Laws of Motion [only hold until superseded by] some more catholick and indispensable Laws ... as the Statutes and Customs of private Corporations take place, till their power be suspended by some more catholick and inforcing Law of State. (Spencer, /Discourse Concerning Prodigies/, 1665 p.5, in Daston, "Miraculous Facts")
+#+END_QUOTE
+*** Occasionalism                                                :noexport:
+- How does the world move from one state to another?
+- No /logical necessity/ between subsequent states
+- In every moment of causal efficacy, God /acts/ or at least /concurs/
+
+  #+BEGIN_NOTES
+  - Al-Ghazzali: /logical necessity/ is coherent, but /causal necessity/ absurd, since it assumes correlation is causation
+  - Mutakallims (theologians): atomism; indivisibles of time; recreation of Universe from instant to instant.
+  - Christian occasionalism: God's providence guarantees lawlike regularity; but therefore God can suspend the action of natural Law
+  - Descartes: God as "preserver of motion"
+    - \rarr God's activity so obscure, easily removed...
+  #+END_NOTES
+- God: active force \rarr initial impetus
+*** Newton
+- 3 laws of motion: inertia; F=MA; Action-Reaction
+- gravitation:
+
+  $F={\frac{GmM}{r^2}}$
+- single law to govern terrestrial and celestial motion
+- world as "matter in motion"
+- Room for God?
+  #+BEGIN_NOTES
+  - Newton believed God acted from time to time to revive decaying Cosmos; e.g., comets
+  - but still, if natural world is /solely matter in motion/, then little room remains for God
+  #+END_NOTES
+*** Deism
+- many theological responses to these developments
+  - e.g., Spinoza's "Panentheism": "Individual things are nothing but modifications of the attributes of God, or modes by which the attributes of God are expressed in a fixed and definite manner." (/Ethics/ 1:25S)
+- Most prominent & novel: /Deism/
+  - God as remote /clockmaker/ and /lawgiver/
+  - Greatly diminished sphere of divine activity
+
+** Design and Adaptation Before Darwin
+- Natural Theology: understanding of God attained by studying his works
+- Contemplation of Divine Order as clue to God's nature and intent
+#+BEGIN_NOTES
+- Jacob sutrmius, perfection of the eye, 8th century ("no better cure for atheism")
+- Boyle's contemplation of anatomy, and its complexity; Newton on the eye (like Paley)
+- eclipse of cosmology. Paley "/not/ the best medium through which to prove the agency of an intelligent Creator." Cosmology cuts off arguments from "relation, aptitude, and correspondence of /parts/"
+#+END_NOTES
+*** William Paley, 1743-1805
+#+ATTR_HTML: :class paired
+#+ATTR_HTML: :style  max-width: 45%; float: left;
+- Cambridge divine and moral philosopher
+- Abolitionist & supporter of American colonies
+- His moral philosophy required for Cambridge undergrads
+- But best known today for /Natural Theology/
+#+ATTR_HTML: :style  max-height:600px; max-width:45%; float:left;
+[[file:~/RLG231/Images/William_Paley_by_George_Romney.jpg]]
+*** The Argument of /Natural Theology/
+#+ATTR_HTML: :class paired
+#+ATTR_HTML: :style  max-width: 45%; float: left;
+- Watch analogy
+  - Watch \rarr watchmaker
+  - adaptation to purpose \rarr design
+  - /mechanical/ analogies
+#+ATTR_HTML: :style  max-height:500px; float:left; max-width:45%; :class paired
+http://www.digitalfreethought.com/blog/wp-content/uploads/2015/05/2244093_orig.jpg
+#+BEGIN_NOTES
+- analogy as method
+- organism as mechanism
+- I see a watch; I see a hydraulic mechanism (for drawing water); and I know instantly it is /designed/ because of the /adaptation/ of the device to its purpose.
+- And if it's designed, there must be a designer.
+#+END_NOTES
+
+*** The Eye as Mechanism
+#+BEGIN_QUOTE
+I know no better method of introducing so large a subject, than that of comparing a single thing with a single thing; an eye, for example, with a telescope. As far as the examination of the instrument goes, there is precisely the same proof that the eye was made for vision, as there is that the telescope was made for assisting it. They are made upon the same principles; both being adjusted to the laws by which the transmission and refraction of rays of light are regulated. I speak not of the origin of the laws themselves; but such laws being fixed, the construction, in both cases, is adapted to them.
+#+END_QUOTE
+*** The Eye
+[[file:~/RLG231/Images/the-eye-diagram.jpg]]
+
+*** Adaptation
+- the eye is /perfectly adapted/ to its task
+- the /purpose/ of the eye /explains/ its construction
+  - adaptation of the one to the other /evidences/ the Creator
+    #+BEGIN_NOTES
+    Sturmius, Jacob Sturm, 8th c. monk
+    - impossibility of /chance/ producing /adaptation/
+    #+END_NOTES
+
+*** Adaptation pt. 2, normally just a split,omiting from shortened presentation. :noexport:
+    #+ATTR_REVEAL: :frag (appear)
+    #+BEGIN_QUOTE
+    Sturmius held, that the examination of the eye was a cure for atheism. Beside that conformity to optical principles which its internal constitution displays, and which alone amounts to a manifestation of intelligence having been exerted in the structure... there is to be seen, in every thing belonging to it and about it, an extraordinary degree of care...
+
+    What does chance ever do for us? In the human body, for instance, chance, i. e.the operation of causes without design, may produce a wen, a wart, a mole, a pimple, but never an eye. Amongst inanimate substances, a clod, a pebble, a liquid drop might be; but never was a watch, a telescope, an organized body of any kind, answering a valuable purpose by a complicated mechanism, the effect of chance. In no assignable instance hath such a thing existed without intention somewhere.
+    #+END_QUOTE
+
+*** In the Human Body
+#+BEGIN_QUOTE
+Another mechanical contrivance, not unlike the last in its object, but different and original in its means, is seen in what anatomists call the fore-arm; that is, in the arm between the elbow and the wrist. Here, for the perfect use of the limb, two motions are wanted; a motion at the elbow backward and forward, which is called a reciprocal motion; and a rotatory motion, by which the palm of the hand, as occasion requires, may be turned upward. How is this managed? The forearm, it is well known, consists of two bones....
+
+A single bone in the fore-arm, with a ball and socket joint at the elbow, which admits of motion in all directions, might, in some degree, have answered the purpose of both moving the arm and turning the hand. But how much better it is accomplished by the present mechanism...
+#+END_QUOTE
+#+BEGIN_NOTES
+- Raises ADAPTATION to the star argument in the Nat. THeo. canon of arguments.
+- with impressive erudition, assembles detailed evidence from ocmparative anatomy to show the impressive array of adaptatins in nature.
+#+END_NOTES
+*** In Sum
+- Perfect adaptation
+- Perfect Harmony
+- A Mechanical, but Divine, Universe
+- A Fixed & established Order (e.g., species)
+  #+BEGIN_QUOTE
+  And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind (Genesis 1:25)
+  #+END_QUOTE
+** Challenges: A Progressive Universe
+- Thermodynamics: the Second Law
+  - Fossils: Extinct Species
+  #+BEGIN_NOTES
+  (in theology, "progressive universe" is a narrative of /fall/ leading to /final running down of things/)
+- thermodynamics/detnropy suggests that much in the world changes irrevocably and continuously
+- 
+  #+END_NOTES
+** Transformism before Darwin
+- Darwin /not/ the first evolutionist
+- Erasmus Darwin (1731-1802)
+- Jean-Baptiste Lamarck (1744-1829)
+  #+BEGIN_NOTES
+  Erasmus: free thinker, abolitionist, philanderer, black sheep; /Romantic/ Evolutinist;
+
+  Would it be too bold to imagine, that in the great length of time, since the earth began to exist, perhaps millions of ages before the commencement of the history of mankind, would it be too bold to imagine, that all warm-blooded animals have arisen from one living filament, which THE GREAT FIRST CAUSE endued with animality, with the power of acquiring new parts, attended with new propensities, directed by irritations, sensations, volitions, and associations; and thus possessing the faculty of continuing to improve by its own inherent activity, and of delivering down those improvements by generation to its posterity, world without end!
+  #+END_NOTES
+
+*** Lamarckian Transformism
+/Zoologie Philosophique/ (1809)
+- /No Such Thing/ as "Species"
+- Species slowly transformed over time.
+- drive towards increasing complexity and perfection ("life force")
+- constant rather than singular Creation ("spontaneous generation")
+- Law of Use and Disuse ("inheritance of acquired characteristics") (the Giraffe’s neck)
+
+*** Lamarck's Ladder
+#+ATTR_HTML: :style max-height: 650px;
+[[file:~/Dropbox/Work/Religion/RLG231/Images/lamarcks_ladder.jpg]]
+#+BEGIN_NOTES
+Take a moment here to draw my graph of increasing complexity over time, and take a temporal snapshot by drawing a vertical line somewhere on the graph
+#+END_NOTES
+*** Transformism in Britain
+- Revolution! Republic! Rabble! Ruin!
+- /Vestiges of the Natural History of Creation/ (1844)
+#+BEGIN_NOTES
+- "gutter press" (pornography! Revolution! Heresy! Dissent!)
+-   Vestiges: /everything/ is transmuting (e.g., solar system (nebular hyp.), species, etc.)
+#+END_NOTES
+** Young Darwin
+#+ATTR_HTML: :class paired
+- Prosperous, Proper, Respectable Family (except Erasmus!)
+- a medical & religious education
+- a love of beetles
+- Cambridge: Paley, Malthus
+#+ATTR_HTML: :class paired
+http://static.guim.co.uk/sys-images/Guardian/About/General/2010/12/31/1293818297081/A-chalk-and-watercolour-d-007.jpg
+#+BEGIN_NOTES
+Edinburgh: exposure to transformism; /progressive/ view of the world at its peak there;
+I always think of him as Jonathan Strange from /Jonathan Strange & Mr. Norrell/!
+- "The Charles Problem"
+- encounters bt rejects Lamarckism b/c no /mechanism/
+- Imbibes Paley's argument of adaptation, so spends lots of time conplating the suitedness of biological structures to their purposes
+- Malthus: /Essay on Population; poverty inevitable, b/c  populations increased at a geometric rate, while production of food always increased at an arithmetical rate.
+  - divine insitution (prevents laziness)
+#+END_NOTES
+** Voyage on the Beagle (1831-36)
+http://www.oum.ox.ac.uk/learning/htmls/images/map.gif
+*** Darwin's role
+- hired as "gentleman's companion", but also naturalist
+- incredible opportunities to collect, observe
+- lots of time to read!
+  - A. v. Humboldt, /Kosmos/
+  - C. Lyell, /Principles of Geology/
+*** Deep Time
+- "Uniformitarianism"
+- accretion of tiny changese
+- Galapagos: terrestrial change at work
+https://palacetours.files.wordpress.com/2015/08/beautiful-beaches.jpg
+#+BEGIN_NOTES
+old one was better!
+http://upmagazine-tap.com/wp-content/uploads/2011/12/Gal%C3%A1pagos-lava-1-sullivan-bay-700x525.jpg
+#+END_NOTES
+*** Variation
+https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg
+#+BEGIN_NOTES
+- didn't really notice this on the boat, but collected specimens and sent back to London; going over that collection he noted variation from island to island.
+
+(note to self: sulloway debunks this, all modern biographies give better account, just not time to tell that sotry now & I don'tremember it)
+#+END_NOTES
+*** Thin Line between human and ape
+- Fuegian Missionaries!
+** Back home -- the puzzle, and a solution
+- /Voyage of the Beagle/ (1839) -- Rise to fame.
+- returns to this substantial collection
+- But serious puzzles:
+  - God's /profligacy/ of creation?
+  - /divergence/ from common ancestor
+  - /scary/: Secret notebooks, critical colleagues, no mechanism
+    #+BEGIN_NOTES
+    takes 8 yrs to develop it: 1844 notebooks: natural selection
+    #+END_NOTES
+*** Superfecundity
+- 1838: rereading Malthus
+- overproduction; competition; struggle for existence
+- how much greater in Nature!
+  #+BEGIN_NOTES
+  A single pair of frogs might produce thousands of offspring every year!  Why was the world not overrun with frogs? (Browne, 387-8).  To overcome this superfecundity, there must be a kind of "war" within the species, a competition for survival, a struggle for existence, that allowed only the strongest to survive.
+  #+END_NOTES
+*** Descent with Modification
+- human breeders (framers, also hobbyists)
+- /divergence/ of child from parent
+- /forces/ in environment selecting
+- /death/ as creative force
+  #+BEGIN_NOTES
+  Was it possible that nature selected survivors as carefully as people selected breeders?  A natural selection analogous to artificial selection, that could account for both divergence of species and their adaptation to their environments?   Suppose 6 puppies born, he scribbled in his secret notebook:  some have longer legs than others.  in struggle for existence, maybe only two survive.  If some force in the environment favours long-legged dogs – whether natural or artificial – then in 10,000 years the long-legged breed would win out.
+  #+END_NOTES
+*** Natural Selection and Adaptation
+- /nature itself/ selecting descendants
+- impersonal force explains adaptation
+- no need for "intelligent designer"
+#+BEGIN_NOTES
+here was an explanation of evolution far more powerful than Lamarck’s
+– an explanation which relied on no metaphysical life force, an explanation which demanded no increasing perfection.  Species changed in the direction demanded by the environment; but that didn’t mean they got more perfect, just better-adapted.  All the theory needed was time – vast, unimaginable stretches of it.  And Lyell had already given Darwin as much time as he needed, and more.
+#+END_NOTES
+*** The Theory, Summarized
+- *Superfecundity*    (from Malthus) combined with
+- *Descent with Modification* (from breeders) leads to a
+- *Struggle for Existence* (Malthus again) where survival rates are dictated by
+- *Natural Selection*, by analogy to Artificial Selection (from breeders)
+- Over *vast periods of time* (from Lyell),
+- resulting in
+- the *divergence of species* (from Galápagos bird species)
+- and their seemingly perfect *adaptation* to their environment,
+- into the full spectacle of *diversity* we see today.
+*** Summarized again
+|            | Fixity        | Lamarck                                   | Natural Selection                                  |
+| Diversity  | Sep. Creation | Use, Disuse \rarr digressions on upwarrd path | Selection acts differently in diverse environments |
+| Adaptation | God's Design  | ANimal adapts self                        | Ruthless slection adapts organism to environment   |
+| Time Scale | short or long | long, but change /fast/                   | /immensely/ long and /slow/                        |
+*** Selection as Law
+#+BEGIN_QUOTE
+It is interesting to contemplate a tangled bank, clothed 
+with many plants of many kinds, with birds singing on the 
+bushes, with various insects flitting about, and with worms 
+crawling through the damp earth, and to reflect that these 
+elaborately constructed forms, so different from each other, 
+and dependent upon each other in so complex a manner, have 
+all been produced by laws acting around us.  (Ch. 14, pp. 489-90 in First Edition)
+#+END_QUOTE
+** Theological Implications
+- God kicked out of Design! (or is he?)
+- Humans just animals (or are they?)
+- /Permanent/ force in Politics
+  - Herbert Spencer
+  - Francis Galton
+  - Ernst Haeckel
+  - H.G. Wells, Keynes, the Fabians
+  - Eugenics, Progressivism, Birth control, degeneration...
+- Agnosticism!
+** Presentations :noexport:
+*** 2016 Faiyez the Huxley/Wilberforce debate
+- would be nice if presentation had 
+*** 2016 Alejandra Darwin's Religion
+
+
+*** 2016 Shadio
+- too much written text;
+- ethics: 
+  - soul, morality
+  - free will -- why incompatible?
   - 
-* 06 Miracles: Maybe Remove in favour of something more fun
+*** 2015
+- Alexei: Geology
+  - James Ussher: 18581-1656 (Earth created Oct. 22, 4004 BC, 6:00pm
+  - James Hutton: Univermitarianism "father of modern geology.  "natural processes or the same in the past, present, and future"
+  - Darwin: intro to Neptunism & catastrophism at Edinburgh; Christ's College: Adam Sedgwick, field trips in Wales;
+    - purpose of Beagle: to map coast of South America; and find evidence of the Great Flood
+- Tatjana
+  - Darwin on God, during the period 1836-1859
+  - Church on Darwin: Church of England actually made accommodations  with this ideas
+  - Darwin on religion:
+    - compulsion to believe in a man-like creative force; sense of "sublime beauty" wanes;
+    - QUESTION: death of Darwin's daughter
+  - Fuegians: no God; but also, no clothe
+* 07 Creation and Design
+:PROPERTIES:
+:EXPORT_FILE_NAME: 07-creation-design
+:END:
+** Recap
+- Darwin's transformation of /adaptation/ argument from Nat. Theo.
+- "2^nd Act" of de-centring the Universe
+- apparent removal of God from direct acts of creation
+- Tends to make Nat. Theo. quite a bit more difficult
+- "But this is atheism" says Paley, and others agree
+** Synopsis
+- Brief discussion of Theological Implications of Darwinism 
+- Modern Creationism: Its roots and dynamics
+- The Rise of Intelligent Design
+- Exporting american creation stories
+** Theological Implications of Darwinism
+- God kicked out of Design! (or is he?)
+- Humans just animals (or are they?)
+- /Permanent/ force in Politics
+  - Herbert Spencer
+  - Francis Galton
+  - Ernst Haeckel
+  - H.G. Wells, Keynes, the Fabians
+  - Eugenics, Progressivism, Birth control, degeneration...
+- Agnosticism!
+
+** Defining our Terms
+- Strict Creationism: 6 literal days of Creation ~4000 BCE
+- Progressive Creationism: 6 "epochs" of creation
+- Theistic Evolution: An Evolution guided by God (esp Human Evolution)
+
+** The Triumph of Evolution, and its Open Questions
+- 1880: sweep of academic institutions
+- can /natural selection/ account for all changes
+- 1920's-40's: "Darwinian Synthesis"
+  - Mendelian genetics
+  - Lab studies of selective pressure (Morgan, /Drosophila/)
+  - Mathematical models of mutation and "trait fixing" (Fisher, Haldane, Wright)
+- supplemented with /additional mechanisms/: drift, sexual selection, gene jumping, etc.
+#+BEGIN_NOTES
+  - careful to avoid fallacy of "disproof"
+hmm, I wonder what "disproof" means? Maybe take that out
+#+END_NOTES
+
+** Early Reception
+- Universal Acceptance of both deep time and Darwinian Evlution
+- many Darwinians extremely devout; no apparent contradiction
+#+BEGIN_NOTES
+The science was in a moment of tremendous, rapid trnasformation; theology also dynamic; a sensse that an accord could eventually be reached.
+#+END_NOTES
+** The American Context: Fundamentalism
+- American "Evangelical" Revivalism
+  - Its Emipirical, Baconian Bent
+- Rebirth as "Fundamentalism" after WWI
+  - "militantly anti-modernist Protestant evangelicalism" (Marsden)
+#+BEGIN_NOTES
+"Reactionary Modernism"
+
+evangelical: family of Protestant traditions desended from English Reformaiton, basic set of religious convictions: "
+ - conversionism, belief that lives need to be changed;
+ - activism, expression of gospel in effort;  
+ - biblicism, particular regard for the bible;
+ - curicentrism, stress on the sacrifice of Christ" 
+
+Part of broader /pietism/ which survives in the US but is much less successful in Europe in the c. 20.
+#+END_NOTES
+** Bryan and The Scopes Trial
+- William Jennings Bryan (1860-1925)
+  - Progressive, Populist Democrat; enemy of Gold Standard; Prohibitionist; anti-militarist
+- Bryan's "evolution": from "silly idea" \rarr dangerous enemy
+  - Why? WWI
+- Darrow: Trial Lawyer, atheist or agnostic, rationalist, militant defender of labor rights
+- Confrontation of two strands that might both be called "Progressive"
+*** Butler Act
+#+BEGIN_QUOTE
+That it shall be unlawful for any teacher in any of the Universities, Normals and all other public schools of the State which are supported in whole or in part by the public school funds of the State, to teach any theory that denies the Story of the Divine Creation of man as taught in the Bible, and to teach instead that man has descended from a lower order of animals
+#+END_QUOTE
+*** Trial as Theatre
+- Scopes's role
+- Inevitability of Outcome
+- Inconclusiveness of Appeal
+- Polarizing Effects
+
+*** Anti-Evolution arguments
+- Darwinism /not scientific/
+  #+BEGIN_QUOTE
+  The evolutionist guesses that there was a time when eyes were unknown -- that is a necessary part of the hypothesis... a piece of pigment.... appeared upon the skin of an animal that had no eyes.  [It] converged the rays of the sun upon that spot and when the animal felt the heat... it turned the spot to the sun to get more heat.... [This] irritated the skin... and a nerve came there and out of the nerve came the eye!
+  #+END_QUOTE
+- Evolution /dangerously immoral/
+#+BEGIN_NOTES
+Arguments against Evolution as "unscientific" are particularly /Baconian/: they see science as pure observation, stripped of theoretical apparatus.
+
+Also, beginnings of a prejudice agianst complexity.
+
+Bryan's Admission: "no objection to evolution before man but for the fact that a concession as to the truth of evolution up to man furnishes our opponents with an argument which they are quick to use"
+#+END_NOTES
+
+*** Outcomes
+- inconclusive \rarr textbook purging,
+** The Rise of "Creation Science"
+- /Deluge Geology/ 1935-1945
+- Characterized by lack of scholarly apparatus, denial of fundamental tenets of contemporary geology
+- /Genesis Flood/ 1961, at least had footnotes
+- New wave of Creationist Science
+  - moderated by evangelical scientists more committed to institutional framework of Creationism
+** The "Teach the Controversy" Approach
+- /use/ American "establishment" clause to own advantage
+- just as /atheists/ not required to pray,
+- /Fundamentalists/ permitted to "express their own views" at school
+** Intelligent Design
+- "Irreducible Complexity"
+- the bacterial flagellum
+http://darwin200.christs.cam.ac.uk/imgs/content/casestudies_flagella.jpg
+*** Philosophical Problems
+- defining criteria for "intelligence"
+- defining boundaries of "science"
+- promoting /only/ difficulties, never discussing those cases that evolution explains better than creation
+** Exporting Creationism
+- Translation into many languages
+- Resurfacing of arguments e.g. in Fundamentalist Islam (evolution banned in the Islamic Caliphate)
+- Petri dish of apple-pie American conditions transcending itself:
+  - Sep. of church and state
+  - home-grown fundamentalisms
+  - scepticism about centralized authorities (school borads, ministry of education)
+- combination of /high technical prowess/ with /limited scientific education/
+** What's at stake?
+- *Human* evolution
+- rise of secular humanism
+** Presentations :noexport:
+** Jessica, Scopes Trial 
+- creationism
+  - life on earth created in its current form; humans created in the image of God
+- Why is there so much focus on /classrooms/ in /Scopes trial? What's at stake there?
+- what rights trump others in the classroom?
+- 
+  - 
+** Ammar, Design Argument
+** 2015
+
+- Vivian: Scopes: straw man; Brian & Darrow
+  - Bryan: "Great Commoner"; Prohibition; against evolutin
+  - Darrow: agnostic; rationalist; leading membero f ACLU
+  - Bryan:
+    - "Honest Christian folk who wanted to shield their children from anti-religios ideas"
+    - Darwinism as /cause/ and /symptom/ of degeneration of human civilization
+      - W W I *important*
+      - jazz age
+      - discourse of degeneration
+    - carnival atmosphere
+- Pavithra
+  - Dover Case
+  - View of Science "Darwin's theory is just a theory"
+  - first amendment. scepticism towards authority.
+* 08: God, Dice, and the Universe
+:PROPERTIES:
+:EXPORT_FILE_NAME: 08-god-dice-universe
+:END:
+** 
+#+BEGIN_QUOTE
+Speaking of the spirit that informs modern scientific investigations, I am of the opinion that all the finer speculations in the realm of science spring from a deep religious feeling, and that without such feeling they would not be fruitful. I also believe that, this kind of religiousness, which makes itself felt today in scientific investigations, is the only creative religious activity of our time.  (Einstein, 1930, in Jammer, 2002)
+#+END_QUOTE
+** Recap
+- Creationism as a specifically 20th century, and American, phenomenon
+- Its remarkable capacity to /transcend/ that context
+- Its laser-like focus on /human/ evolution and distinctness
+- evolution as a /moral/ theory first
+- Creation Science and its shortcomings
+- The Capitulation of Intelligent Design
+** The New Physics and Religion: Synopsis
+- Essentials of "Modern Physics"
+- Physics, "Religious Feeling", and Religious Tradition
+- The New Physics and Mysticism
+** What was "New Physics?"
+- a statistical universe
+- relativity
+- wave function collapse
+- indeterminacy
+*** A Statistical Universe
+- the Newtonian Billiard-ball universe
+http://media.giphy.com/media/wgdhdQJl6LywM/giphy.gif
+- Entropy and Time's Arrow
+- /probabilistic/ mathematics in Statistical Mechanics
+- (Maxwell's Daemon)
+https://www.auburn.edu/~smith01/notes/demon.gif
+*** Relativity
+- Galilean Relativity
+https://skullsinthestars.files.wordpress.com/2012/09/galileantennis.jpg
+[[file:~/RLG231/Images/galilean_relativity1.gif]]
+*** Relativity: Electricity & Magnetism
+- Maxwell's equations:
+- Moving Conductor Problem
+#+ATTR_HTML: :class paired
+http://cdnstatic.visualizeus.com/thumbs/63/e3/63e3cd45a0a5f3430f2493be8c528281_h.jpg
+#+ATTR_HTML: :class paired
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/060618_conductor_magnet.svg/450px-060618_conductor_magnet.svg.png
+*** Relativity: The Ether
+#+ATTR_HTML: :class paired
+https://upload.wikimedia.org/wikipedia/commons/7/7c/MichelsonMorleyAnimationDE.gif
+#+ATTR_HTML: :class paired
+https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/AetherWind.svg/640px-AetherWind.svg.png
+*** Einsteinian Relativity
+- Clocks and Rods
+- constant Speed of Light
+- Bam! "Relativity" of time and space
+https://upload.wikimedia.org/math/4/1/8/41898d25611a3359aa6bb3a9a7cac36a.png
+*** Consequences
+https://upload.wikimedia.org/math/4/1/8/41898d25611a3359aa6bb3a9a7cac36a.png
+- relativity of Simultaneity
+- Length Contraction
+- Time Dilation
+- Mass-Energy equivalence
+*** Length Contraction
+http://www.physicsclassroom.com/mmedia/specrel/lca.gif
+http://www.physicsclassroom.com/mmedia/specrel/lcb.gif
+http://www.physicsclassroom.com/mmedia/specrel/lcc.gif
+*** Wave/Particle Duality
+- single and two-slit experiments
+https://upload.wikimedia.org/wikipedia/commons/c/c2/Single_slit_and_double_slit2.jpg
+- similar effects for both /photons/ and /electrons/
+- /particle-like/ waves; /wave-like/ particles
+*** Schroedinger Wave-function & Superposition
+- treat quantum-scale phenomena as /wave functions which collapse/
+- these entities are /pure probabilities/
+https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schrodingers_cat.svg/504px-Schrodingers_cat.svg.png
+*** Uncertainty Principle
+#+BEGIN_QUOTE
+The more precisely the position is determined, the less precisely the momentum is known in this instant, and vice versa. (Heisenberg, 1927)
+#+END_QUOTE
+- applies to many other "quantum-linked" phenomena
+#+BEGIN_NOTES
+the part of the observer, and with arbitrarily small uncertainty. In quantum description, on the other hand, the "state of the system" cannot be observed without significant influence upon the state, as for example when an attempt is made to ascertain the orbit of an electron in an atom, or to determine the direction of propagation of photons.
+#+END_NOTES
+
+*** Complementarity 
+- Niels Bohr
+- Two vigourously "incompatible" views
+- Might one eventually triumph?
+- "Critical realism" or instrumentalism?
+#+BEGIN_NOTES
+[[file:~/Dropbox/Work/Religion/RLG231/Images/bohr-coat-arms.jpeg]]
+#+END_NOTES
+
+*** Cultural Reception
+- Complex!
+
+#+BEGIN_NOTES
+- gray science
+- Jewish science
+- sense that all moral order had retreated
+- lawlessness of nature, lawlessness of action
+- easy parallels
+#+END_NOTES
+** Interpretations of Quantum Mechanics
+- mere lack of knowledge (Einstein)
+- objective fact about measurement (early Heisenberg)
+- fundamental relationship to observer or knower (Schroedinger)
+- underlying indeterminacy of nature
+- determinism in which all possible worlds are realized (Wheeler Hypothesis)
+** Einstein's Religion
+- Science Superstar!
+- Illustrates complexities of scientists' response
+https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg
+*** Early Upbringing
+- non-religious Jewish household; Germany & Reform Judaism
+- Background both in Catholic catechism & loose Jewish religious training
+- Early religiosity replaced ~12 y.o. with unbelief (refusal of Bar Mitzvah)
+*** Einstein on the Laws of Physics
+- wide equation of "relativity" with "relativism" /never sat well/
+- "Theory of Invariance"
+- special & general relativity both /fully deterministic/ -- but /underlying categories/ of space, time, matter, energy revealed as /elments of a more fundamental invariance/
+- on the EPR Paradox
+#+BEGIN_QUOTE
+I can, if worst comes to worst, still realize that God may have created a
+world in which there are no natural laws. In short: chaos. But that
+there should be statistical laws with definite solutions, i.e., laws that
+compel God to throw dice in each individual case, I find highly disagreeable.
+#+END_QUOTE
+*** Einstein's God
+- /must/ be underlying lawfulness in Nature
+- Spinoza: God /is/ that order we apprehend in the world; is not distinct from it
+#+BEGIN_QUOTE
+I do not at all believe in human freedom in the philosophical sense. Everybody acts not only under external compulsion but also in accordance with inner necessity. Schopenhauer's saying, " A man can do what he wants, but not want what he wants," has been a real inspiration to me since my youth; it has been a continual consolation in the face of life's hardships, my own and others', and an unfailing wellspring of tolerance. (Einstein, "What I Believe", 1930; from Jammer, p.72)
+#+END_QUOTE
+*** 
+- /absolute retreat/ from a personal god;
+- Religion as /pure sentiment of wonder/
+- "Cosmic religous feeling" arises with recognition of:
+  #+BEGIN_QUOTE
+  the futility of human desires and the sublimity and marvelous order which reveals itself both in nature and in the world of thought
+  #+END_QUOTE
+#+BEGIN_NOTES
+talk vaguely about "impact" of Einstein's personal views.
+#+END_NOTES
+*** Einstein and Tagore
+- brief meeting in 1930
+#+BEGIN_QUOTE
+With the breath we draw we must always feel this truth that we are living in God. Born in this great universe full of infinite mystery, we cannot accept our existence as a momentary outburst of chance, drifting on the current of matter towards an eternal nowhere!
+#+END_QUOTE
+#+BEGIN_NOTES
+Rabindranath Tagore 1861-
+idea of a universe "permeated by an idea that reveals itself in an eternal symphony"
+#+END_NOTES
+http://www.brainpickings.org/wp-content/uploads/2012/04/einsteintagore1.jpg
+*** 
+#+ATTR_HTML: :style width:100%; font-size:14px;
+#+BEGIN_QUOTE
+TAGORE: What we call truth lies in the rational harmony between the subjective and objective aspects of reality, both of which belong to the superpersonal man.
+
+EINSTEIN: We do things with our mind, even in our everyday life, for which we are not responsible. The mind acknowledges realities outside of it, independent of it. For instance, nobody may be in this house, yet that table remains where it is.
+
+TAGORE: Yes, it remains outside the individual mind, but not the universal mind. The table is that which is perceptible by some kind of consciousness we possess.
+
+EINSTEIN: If nobody were in the house the table would exist all the same, but this is already illegitimate from your point of view, because we cannot explain what it means, that the table is there, independently of us. Our natural point of view in regard to the existence of truth apart from humanity cannot be explained or proved, but it is a belief which nobody can lack—not even primitive beings. We attribute to truth a superhuman objectivity. It is indispensable for us—this reality which is independent of our existence and our experience and our mind—though we cannot say what it means.
+
+TAGORE: In any case, if there be any truth absolutely unrelated to humanity, then for us it is absolutely non-existing.
+
+EINSTEIN: Then I am more religious than you are!
+
+TAGORE: My religion is in the reconciliation of the superpersonal man, the universal spirit, in my own individual being.
+#+END_QUOTE
+** Presentations
+*** Sarzana, QM, Etc.
+*** Ezra
+- space, mass, motion as 3 perfect di,ensions which can be explained in terms of a 4th perfect dimension, time
+- "eastern mysticism": everything is interconnected
+- Wheeler on "participatory" nature of Universe; cf. "eastern mystics" who also deny the distinction of "subject and object"
+- Feynmann:the "observer" need not be a mind. What "observation" means is /not/ what we naively imagine.
+- 
+
+* ACTION 09: Science, Nature, and Religion                         :noexport:
+:PROPERTIES:
+:END:
+
+:PROPERTIES:
+:EXPORT_FILE_NAME: 09-science-nature-religion
+:END:
+** Needs work!
+- this whole lecture feels totally incoherent. need to fix it
+- in general, flow is broken, and choices of whatt to tell and what to ignore are not well thought through. edit for coherence and narrative force.
+** Recap
+- questions opened up by new physics:
+  - nature of "law"
+  - regress of explanation
+  - indeterminacy & a place for non-physical explanation
+** Romantic Nature
+#+ATTR_HTML: :style max-height:600px; margin-left:auto; margin-right:auto;
+https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg
+** Romanticism
+- against a strict materialism
+- "anti"-scientific?
+- /reverence/ for natural objects
+** Romantic Science
+https://www.uni-potsdam.de/romanistik/hin/hin25/bilder/700/knobloch/1.jpg
+- vital forces
+- Spinozist quasi-pantheism
+** Transcendentalism in America
+- Emerson, Thoreau
+- Wordsworth
+#+BEGIN_VERSE
+I wandered lonely as a cloud
+That floats on high o'er vales and hills,
+When all at once I saw a crowd,
+A host, of golden daffodils;
+Beside the lake, beneath the trees,
+Fluttering and dancing in the breeze.
+
+(Wordworth, "Daffodils")
+#+END_VERSE
+** Thoreau
+#+ATTR_HTML: :class paired
+#+BEGIN_QUOTE
+[Katadin] was made out of Chaos and Old Night. Here was no man's garden, but the unhandseled globe.. the fresh and natural surface of the planet Earth... Man was not to be associated with it. It was Matter, vastt, terrific--not this Mother Earth that we have heard of, not for him to tread on.... Talk of Mysteries! Think of our life in nature... Contact! Contact! Who are we? Where are we?
+#+END_QUOTE
+#+ATTR_HTML: :class paired
+http://benmagrophoto.com/site2011/wp-content/uploads/2012/03/Mt-Katahdin-copy.jpg
+** Late Transcendentalism and the National Parks
+#+ATTR_HTML: :style max-width:47%; float:left;
+#+BEGIN_QUOTE
+In wildness is the preservation of the world. (Thoreau)
+#+END_QUOTE
+#+ATTR_HTML: :class paired
+http://www.yosemite.ca.us/library/matthes/images/john_muir_washington_column.jpg
+#+ATTR_HTML: :class paired
+- John Muir, Yosemite, and the /preservation/ of nature against /depredation/
+- nature /above/ human understanding
+** Science and Nature's goodness
+#+BEGIN_QUOTE
+Nature is not benevolent; Nature is just... makes no exceptions, never tempers her decrees with mercy, or winks at any infringement of her laws.  And in the end is this not best?
+
+Viewed as a whole, the universe is all good... This is not the language of the heart or of the emotions... it is the language of serene, impartial reason. (Burroughs, /Gospel of Nature/ 1905)
+#+END_QUOTE
+** Conflicts w/in Emergent Preservationism
+- science as /foe/ or /ally/
+- humans as necessary or threatening
+** The continuing revolt against reason
+- WW I (again)
+- Post-Hiroshima
+https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/1920px-Atomic_bombing_of_Japan.jpg
+** The dark side of technoscience
+- imperatives of "progress"
+- power /over/ nature
+- domination and brutality
+** The Link Between Christianity and "Science"
+#+BEGIN_QUOTE
+What did Christianity tell people about their relations with the environment?
+
+... no item in the physical creation had any purpose save to serve man's purpose. And, although man's body is made of clay, the is not simply part of nature: the is made in God's image... Christianity is the most anthropocentric religion the world has seen. (White, "Historical Roots of Our Ecological Crisis", 1967)
+#+END_QUOTE
+** Environmentalism as /Revolt/
+- /Silent Spring/
+- New Social Movements
+- Counter-cutlture
+** Alternatives to science /and/ "religion"
+- Deep Ecology
+- Neopaganism
+- "the East"
+  - principles of /ahimsa/ in Hindu & Buddhist traditions;
+- /compassion/ mobilized on behalf of the environment
+** Resurgence of Scientific Environmentalism
+- "climate Change" form nuclear winter to global warming
+- complex climate models of great abstraction
+- economic valuations of natural catastrophe
+- both a resource and a threat to a "spiritual" environmentalism
+** /Laudato Si/
+- Pope Francis's strategy:
+  seek a purely Catholic response, mostly in St. Francis
+- the two books
+- Genesis: "human life is grounded in three fundamental and closely intertwined relationships: with God, with our neighbour and with the earth itself"
+- Fraternity: "our indifference or cruelty towards fellow creatures of this world sooner or later affects the treatment we mete out to other human beings. We have only one heart, and the same wretchedness which leads us to mistreat an animal will not be long in showing itself in our relationships with other people."
+- Critique of "Technocracy": "Our freedom fades when it is handed over to the blind forces of the unconscious, of immediate needs, of self-interest, and of violence. In this sense, we stand naked and exposed in the face of our ever-increasing power, lacking the wherewithal to control it."
+- on dialogue: " Any technical solution which science claims to offer will be powerless to solve the serious problems of our world if humanity loses its compass, if we lose sight of the great motivations which make it possible for us to live in harmony, to make sacrifices and to treat others well"
+** Summing up                                                     :noexport:
+- 
+- no grand testaments!
+- enduring complexity, both /logically/ and /causally/
+- urgency of an ethical orientation; powerlessness of science to provide it;
+** Presentations
+- Alisha: Good but too long. Next time summarize more.
+- Seung Won:  very interesting stuff:
+  - 8 points, maybe we can discuss them a bit??
+  - 
+* 10: Buddhism & Science
+:PROPERTIES:
+:EXPORT_TITLE: Buddhism and Science
+:EXPORT_FILE_NAME: 10-buddhism-and-science
+:END:
+
+** Recap
+- "Nature" as object of reverence rises with Romanticism
+- conflicts /and/ alliances with science
+- from 1960's on, non-Abrahamic religions serve as /resources/ for nature-based spirituality
+** synopsis 
+?
+** Buddhisms (plural!)
+- Siddhartha Gautama, the "historical Buddha", ~5th Century BCE in India
+- Oldest surviving texts nearly 1000 years later (!)
+- Buddhism flourishes in India for ~1200-1500 years before retreating
+- spreads all over Asia, with different timescales
+** The Spread of Buddhism
+[[file:~/RLG231/Images/Buddhism-spread.jpg]]
+** The Diversity of Buddhism
+- Theravada Buddhism (Sri Lanka, Burma, Laos, Thailand
+- Mahayana Buddhism (China, Tibet, Japan)
+- Tantric Buddhism (Tibet, Nebal)
+** 
+#+ATTR_HTML: :class paired
+https://upload.wikimedia.org/wikipedia/commons/f/fc/Kyoto-Ryoan-Ji_MG_4512.jpg
+#+ATTR_HTML: :class paired
+http://www.cultural-china.com/chinaWH/images/exbig_images/9da68b9ee179f90672a543551b77f55d.jpg
+** Common Features of Buddhism
+- Life of the Buddha:
+  - first exposures to the reality of suffering
+  - experiments with ending suffering
+  - discovery of the causes of suffering ,and the path to ending suffering
+- 4 noble truths: fact of suffering; the origin of suffering; the possibility of cessation of suffering; the path to cessation
+- Centrality of /rebirh/ and especially /Law of Karma/
+  - karma as /cause and effect/
+** European "Discovery" of Buddhism
+- Slow recognition of an underlying unity
+- encounter is largely /throgh India/, where Buddhism is a /dead/ religion
+- /valorization/ of the /rational/ texts as against /irrational/ practices
+#+BEGIN_QUOTE
+At first sight it seems that of all creeds none is so full of miracle... as Buddehism, which is, indeed, the very reverse of the truth. For to the supernatural Buddhism owes nothing at all. It is in its very essence opposed to all that goes beyond what we see of earthly laws, and miracle is never used as evidence of the truth of any dogma or any doctrine. (Fielding-Hall, 1898)
+#+END_QUOTE
+#+BEGIN_NOTES
+(Lopez, ch. 4, "Science of Buddhism")
+- Marco Ppolo, noting in Sri Lanka the exisence of a mountain with the tomb of "Sagamoni Borcan", source of many Idols
+- /Encyclopedie/ 1765, "religion of Siaka" -- a "modern superstition"
+- Burneouf/Mueller, on discovering Sanskrit & Pali texts: an "original", pure, /unreligious/ Buddhism which eventually becomes corrupted, culminating in Himalayan Tantrism: "It is certainly [interesting] to see Buddhism, which in its first organization had so little of what makes a religion, end i n the most puerile practices and the most exaggerated superstitions." 
+
+#+END_NOTES
+** The "Scientific" Religion
+- Christianity as the faith of progress, reason, and science in colonialism
+- 19th Century Theravada response: Buddhism is the true religion of reason and science; the writings of the Buddha anticipate science itself
+- theosophy, science & the occult
+#+BEGIN_QUOTE
+Buddhism is a scientific religion, in as much as it earnestly enjoins thtat nothing whatever be accepted on faith. Buddha has said that nothing should be believed merely becase it is said. Buddhism is tantamount to knowledge of other sciences. (Dharamapala, 1893)
+#+END_QUOTE
+#+BEGIN_NOTES
+dharmapala iquote is from Lopez, p.191
+
+Lopez, 192:
+We thus see the claim of the Theosophist, that the most ancient is in fact the most modern, being claimed by the Buddhist, seeking to defend his religion agfainst the attacks of various enemies, both foreign and domestic. Indeed, the claim for a compatibility of Buddhism and Science offers a kind of defense against modernity, even striking out against it, by proclaiming that an ancient indian religion is a 'schience' and thus is modern.
+#+END_NOTES
+** Buddhism as Method 
+- throgh years of auto-experimentation, Buddha discovered the fundamental nature of the universe
+- in so doing, he was able to transform his own mental capacities
+- for this reason, his insights are not immediately available to us.
+- nonetheless, we can follow his progress
+** THe Rise of Mindfulness
+- science of happiness
+- appeal of mindfulness meditation
+- gaps between neurophysical and buddhist understnadings of metidative practice
+** leftovers                                                      :noexport:
+- Epistemology, nature of reality, etc
+- Science of the Mind
+- Buddhism as a "scientific" religion
+- Buddhism &^ psychodelic culture
+  - LSDNA, physics, etc  &
+
+* 11: Science, Religion, and Colonialism                           
+:PROPERTIES:
+:EXPORT_TITLE: 11: Science, Religion, and Colonialism
+:EXPORT_FILE_NAME: 11-science-religion-colonialism
+:END:
+
+** Buddhism & The Science of the Mind
+*** Recap: Buddhism as "the Scientific Religion"
+#+BEGIN_QUOTE
+A system which knows no God in the western sense; which denies a soul to man; which counts the belief in immortality a blunder and the hope of it a sin; which refuses any efficacy to prayer and sacrifice; which bids men look to nothing but their own efforts for salvation; which, in its original purity, knew nothing of vows of obedience, abhorred intolerance, and never sought the aid of the secular arm; yet spread over a considerable moiety of the Old World with marvellous rapidity, and is still, with whatever base admixture of foreign superstitions, the dominant creed of a large fraction of mankind. (Huxley, 1894)
+#+END_QUOTE
+*** Recap: Buddhism as "the Scientific Religion"
+- colonial assertion that Buddhism is mere "superstition"
+- Theravada Buddhist rebuttal in 19th Century
+- Gendun Chopel's plea for acceptance of science into Tibetan Buddhism in early c. 20
+- 14th Dalai Lama's courtship of scientific communities starting in 1950's
+#+BEGIN_NOTES
+- 
+- 1873 debate in sri Lanka btwn Gun�nanda (Society for the Propagation of buddhism) and Rev. David da Sinha (sinhalese Protestant). "victory" of buddhist monks. 
+- Reports, via Theosophist Society (esoteric eclecticism of late c. 19) rewrite Buddhism as "scientific" (along with discovery of Sanskrit manuscripts, separation of "wheat" of pure Buddhisn philosophy from "chaff" of practice, superstitious overlays from "primitive" nations.
+- Chopel 1903-1951. Dies an alcoholic wreck after imprisonment of embezzlement charges. Possibly related to reactionary Tibetan forces
+- Dalai Lama's science education initiatives in monasteries (also women's education in nunneries)
+#+END_NOTES
+*** Some Tenets of Buddhist "Wisdom" 
+- impermanence
+- dependent origination
+- no-self
+- (emptiness)
+#+BEGIN_NOTES
+- Impermanence: everything, including persons, comes into being, persists temporarily, and ceases to exist.
+- Dependent origination: all objects and events are the result of other objects and events; nothing causes itself
+- no-self: there is no strong, unitary "self" or "atman"; instead, atman is an illusion caused by the mind
+- emptiness: things have no "essences", as can be understood in part in impermanence; therefore, the heart of understanding is comprehension of no-essence, or "emptiness"
+- interestingly strong link to compassion; note apparent contradiction, w/ compassion motivated somehow by what might otherwise by pure now-centred selfishness of a utility-maximizing no-self. 
+#+END_NOTES
+*** Is there a person?
+- the problem in psychology
+- the problem in Buddhism
+#+BEGIN_NOTES
+- interestingly, John Locke's /tabula rasa/ view of the mind has some similarities,and its definition of personal identity as a mere persistence of consciousness, ends up having some similarities if you take away the strong continuity of consciousness which Locke himself asserts
+- in c. 20, the continuity of the self actually becomes an interesting empirical problem in psychology.
+- "Buddhist metaphysics privileges processes and events... what there is, all there is, is an unfolding... in which we participate. What we call and conceive as 'things' are relatively stable processes or events inside the Mother of all unfolding" (Flanagan, "Boddhisatva's Brain" 97-98)
+#+END_NOTES
+*** Meditation and the Transformation of the Mind
+- in Buddhism, a set of practices for /transforming the impermanent and changeable person/
+  - wide variety of practices
+- Western science: we also want to be able to change the person!
+  - How can we study this?
+- Widespread collaboration between Buddhists and psychologists/neuroscientists starting in 1990's and accelerating at present
+  - particular prominence of Tibetan Buddhists
+#+BEGIN_NOTES
+- Thupten Jinpa as voice for Compassion Cultivation Training program developed at Stanford
+- cultivation of moral qualities as a "scientific" project
+#+END_NOTES
+** Segue: Why is the Dalai Lama so eager about "scientific" religion?
+- hegemony of scientific reasoning
+- desperate circumstance of Tibetan culture
+- \rarr strong motivation to use Buddhism as a political tool
+- *neither science nor religion is apolitical*
+#+BEGIN_NOTES
+consider the changing dynamics of buddhist reactions to science:
+- 1873 debate
+- Execution of a monk for contact with a British agent who,among other things, showed him including cameras and magic lanterns.
+- Chopal's little-readd and idsparaged plea for a science-friendly Tibetan Buddhism
+- the Dalai Lama's promotion of scientific education.
+- odd replacement of Zen by tibetan Buddhism in Anglo-American scientific discourse
+#+END_NOTES
+** Science, Religion, and our shared Colonial History
+- View this relationship through the lens of /history of colonialism/
+*** What is Colonialism?
+- historical expansion of European hegemony across the globe
+- begins in 16th century, reaching a height in late 19th century
+- followed in c.20 by a long period of /decolonization/ which does not erase the colonial lineage
+#+BEGIN_NOTES
+say something about brutality, genocide, etc. Touching all aspects of life, including -- erhaps /especially/ including -- religious and natural philosophical upbringing. 
+#+END_NOTES
+*** European Colonialism and its End (or Transformation)
+[[file:~/RLG231/Images/animated-history-of-colonization.gif]]
+*** Religion as part of the Colonial Enterprise
+- /Evangelization & Conversion/ central justifications for Imperial expansion
+- /Study of Religion/ part of colonial administration
+- categories of (first) idolatry and (second) superstition
+*** Science as Part of the Colonial Enterprise
+- science /enabled/ by and /enabling of/ colonialism
+- scies of /race/ central and deeply pervasive force
+#+BEGIN_NOTES
+- importance of scientific medicine, e.g. immunizations, to colonial dominance
+- mapping the heavens, mapping the earth
+- Joseph Banks, spy & botanist
+- J.D. Hooker, botanist and imperial territory-grabber
+- ecology founded & expanded to meet the environmental and social needs of British settlers in Sothern Africa (p. Anker)
+- telegraphy as linchpin of EM theory; impossible without sap of South-East Asian trees
+- etc.
+#+END_NOTES
+*** Fanon: Undestanding Resistance to Science 
+#+BEGIN_QUOTE
+In all objectivity and in all humanity, it is a good thing that a technically advanced country benefits from its knowledge and the discoveries of its scientists... But the colonial situation is precisely such that it drives the colonized to appraise all the colonizer's contributions in a pejorative and absolute way. The colonized perceives the doctor, the engineer, the schoolteacher, the policeman, the rural constable, through the haze of an almost organic confusion.... The compulsory visit by the doctor to the /douar/ is preceded by the assembling of the population through the agency of the police authorities. The doctor who arrives in this atmosphere of general constraint is never a native doctor but always a doctor belonging to the dominant society and very often to the army. (121)
+
+Once the body of the nation begins to live again in a coherent and dynamic way, everything becomes possible. The notions about "native" psychology" or of the "basic personality" are shown to be in vain. The people who take their destiny into their own hands assimilate the most modern forms of technology at an extraordinary rate. (145)
+#+END_QUOTE
+#+BEGIN_NOTES
+Fanon, 19256-1961, Martinique-born, French-trained psychiatrist, living in Algeria during revolution in 1950's. take-aways here:
+
+- colonial existence as a phenomenologically distinct form of life which doesn't permit independent assessment of the colonizer's way of life
+- superstition will end when colonization ends
+- part of the psychological disruption that colonialism confers on the colonized
+- 
+#+END_NOTES
+*** Understanding Religion /as/ resistance
+- christian resistance to colonialism from early Spain onwards
+- resurgence of "tradition" as part of anti-colonial movements
+*** Anti-Colonial Science
+- Vandana Shiva, traditional farming & experimentation
+- resource sharing instead of extraction.
+- capacity-building instead of medicine exportation
+*** Anti-Colonial Religion :noexport:
+*** Science and Religion as Culture
+- Rxns to S & R are /shaped by broad cultral forces/
+- S & R are practices and sets of propositions, /but/
+  - also experienced /as/ cultural forms
+  - ... which is next week's topic
+** Science & Religion as Cultural Objects
+- collectively built structures of /meaning/
+- necessarily interact and build on each other
+** The SF Genre
+- /Phantasmagoria/ & Frankenstein
+- Optimistic Technological Visions of H. G. Wells
+- Darker Predictions of H. G. Wells
+- 1950's: "Golden Age" post-atomic SF
+- 1960's "New Wave"
+- Broadening of genre in 1970's & after
+- The impact of film & television
+** Is SF about Science?
+- technology vs. science
+- SF as "philosophical" fiction
+- The place of religion
+** Is SF the meeting place of Science & Religion? 
+- narratives of redemption and resolution
+** clips                                                           :noexport:
+- bsg 1:34:29
+- 
+* 12: Religion and Science /as/ culture                            :noexport:
+** Haeckel's Monism                                               :noexport:
+** The science fiction Genre
+#+BEGIN_NOTES
+- origins in romantic "phantasmagoria" of c. 19; notes of horror, fantasy
+- transformation ~1900: hopeful, optimistic novels of Jules Verne; darker, pessimistic visions of H. G. Wells
+- 1950's optimism, pessimism
+- inheriting the mantle of "philosophical novel"
+- as science & technology assume more weight, more and more spiritual questions are /expressed in form of questions about scientific/tehcnological capacity/
+#+END_NOTES
+** Culture Wars
+- "s" & "r" as proxies for another kind of battle.
+** Hmanistic rationalism in sf
+** Spiritualism in sf
+** the "Star Trek" model: SF as literary modernism
+** 
+** 
+maybe also Christian science, Scientology, and other "cults of science" -- monadology or whatever Haeckel's is called; St. Simonianism; Freemasonry??
+* 06 Miracles: Maybe Remove in favour of something more fun :noexport:
 ** Recap
 - Galileo's physics as a blow to the entire Aristotelian system
   - new laws of motion
@@ -1085,7 +2296,7 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait
   - abandonment of final causes w/in naturalistic explanation
 - Moment of severe rigidity w/in Catholic hierarchy
 - Reminder that conflict w/ "religion" resupposes a definition thereof
-    
+
 *** Synopsis
 - Orders of Nature
 - The Nature of Causation
@@ -1097,8 +2308,8 @@ https://upload.wikimedia.org/wikipedia/commons/d/d4/Justus_Sustermans_-_Portrait
   #+ATTR_REVEAL: :frag (appear)
   #+BEGIN_QUOTE
   Who has laid out a channel for the downpour and for the thunderstorm a path
-To bring rain to no man's land, the unpeopled wilderness; 
-To enrich the waste and desolate ground till the desert blooms with verdure? (/Job/ 38:25)
+  To bring rain to no man's land, the unpeopled wilderness;
+  To enrich the waste and desolate ground till the desert blooms with verdure? (/Job/ 38:25)
   #+END_QUOTE
   (cf. the Qu'ran:)
   #+BEGIN_QUOTE
@@ -1120,14 +2331,14 @@ The more private and common Laws of Motion [only hold until superseded by] some 
 *** Occasionalism
 - How does the world move from one state to another?
 - No /logical necessity/ between subsequent states
-- In every moment of causal efficacy, Go /acts/ or at least /concurs/
+- In every moment of causal efficacy, Gos /acts/ or at least /concurs/
 
   #+BEGIN_NOTES
-- Al-Ghazzali: /logical necessity/ is coherent, but /causal necessity/ absurd, since it assumes correlation is causation
-- Mutakallims: atomism; indivsibles of time; recreation of Universe from instnat to instant.
-- Christian occasionalism: God's providence guarantees lawlike regularity; but therefore God can suspend the action of natural Law
-- Descartes: God as "preserver of motion"
-  - \rarr God's activity so obscure, easily removed... 
+  - Al-Ghazzali: /logical necessity/ is coherent, but /causal necessity/ absurd, since it assumes correlation is causation
+  - Mutakallims: atomism; indivsibles of time; recreation of Universe from instant to instant.
+  - Christian occasionalism: God's providence guarantees lawlike regularity; but therefore God can suspend the action of natural Law
+  - Descartes: God as "preserver of motion"
+    - \rarr God's activity so obscure, easily removed...
   #+END_NOTES
 - God: active force \rarr initial impetus
 *** Revolution in Physics: Kepler
@@ -1159,9 +2370,9 @@ http://www.astronomy.ohio-state.edu/~pogge/Ast161/Unit3/Images/secondlaw.gif
 - Medieval distinction btwn /supernatural/ and /preternatural/:
   - /supernatural/: God's direct intervention (miracles: /violation/ of natural law)
   - /preternatural/: intervention of demons, angels, magicians, nature itself to produce /exceptions/ to natural order (wonders: /exceptions/ to law)
-  - one reason why /facts/ are never adequate to determine /natural law/ 
+  - one reason why /facts/ are never adequate to determine /natural law/
 #+BEGIN_NOTES
-God’s miracles violate only the lower order of causes, which exist only by God’s will, leaving the higher order of causes, which depend  on  necessity,  intact.  Miracles  are  God’s  unmediated  interventions  in  the  natural order, and hence “above nature.” (daston, "miraculous facts")
+God's miracles violate only the lower order of causes, which exist only by God's will, leaving the higher order of causes, which depend  on  necessity,  intact.  Miracles  are  God's  unmediated  interventions  in  the  natural order, and hence "above nature." (Daston, "Miraculous Facts")
 
 Hobbes: The proper domain of particulars, of facts, as they came to be called, was history, not philosophy: "The register of Knowledge of Fact is called History. Whereof there be two sorts: one called Naturall History; which is the History of such Facts, or Effects of Nature. ... The other is Civill History; which is the History of the Voluntary Actions of men in Common-wealths."47 History could contribute the raw materials and illustrations to natural philosophy-thus Aristotle's History of Animals was to prepare the way for a philosophical zoology-but by itself it was an inferior sort of knowledge, subordinated to the study of universals in philosophy or poetry.
 #+END_NOTES
@@ -1180,651 +2391,6 @@ Hobbes: The proper domain of particulars, of facts, as they came to be called, w
 #+BEGIN_NOTES
 Gesture towards Romanticism!! too late to do anything more!
 #+END_NOTES
-* 07 Darwin
-:PROPERTIES:
-:EXPORT_FILE_NAME: 07-darwin
-:END:
-** Recap
-- Rising Status of "Natural Law"
-- A retreat from final causes
-- reduction of space for God to act directly
-  - a "God of the Gaps"?
-  - /vulgarity/ of belief in wonders/miracles
-- God's omnipotence residing in /restraint/
-*** Roadmap
-- Situating Darwin
-- The /Beagle/
-- The Theory
-- God After Darwin
-*** Synopsis
-- Epochal Event in the History of Science
-- But also in the history of culture
-- Launches numerous social movements, withep resonances
-- Can =only scratch the surface
-** Design and Adaptation Before Darwin
-- Natural Theology: understanding of God attained by studying his works
-- Contemplation of Divine Order as clue to God's nature and intent
-#+BEGIN_NOTES
-- Boyle's contemplation of anatomy, and its complexity
-- eclipse of cosmology. Paley "/not/ the best medium through which to prove the agency of an intelligent Creator." Cosmology cuts of arguments from "relation, aptitude, and correspondence of /parts/"
-#+END_NOTES
-*** William Paley, 1743-1805
-#+ATTR_HTML: :class paired
-#+ATTR_HTML: :style  max-width: 45%; float: left;
-- Cambridge divine and moral philosopher
-- Abolitionist & supporter of American colonies
-- This moral philosophy required for Cambridge undergrads
-- But best known today for / Natural Theology/
-#+ATTR_HTML: :style  max-height:600px; max-width:45%; float:left;
-https://upload.wikimedia.org/wikipedia/commons/1/13/William_Paley_by_George_Romney.jpg
-  
-*** The Argument of /Natural Theology/
-#+ATTR_HTML: :class paired
-#+ATTR_HTML: :style  max-width: 45%; float: left;
-- Watch analogy
-  - Watch \rarr watchmaker
-  - adaptation to purpose \rarr design
-  - /mechanical/ analogies
-#+ATTR_HTML: :style  max-height:500px; float:left; max-width:45%; :class paired
-http://www.neilbroom.com/uploads/5/6/5/1/5651437/2244093_orig.jpg
-#+BEGIN_NOTES
-- analogy as method
-- organism as mechanism
-- I see a watch; I see a hydrawulic mechanism (for drawing water); and I know instantly it is /designed/ because of the /adaptation/ of the device to its purpose. 
-#+END_NOTES
-
-*** The Eye as Mechanism
-I know no better method of introducing so large a subject, than that of comparing a single thing with a single thing; an eye, for example, with a telescope. As far as the examination of the instrument goes, there is precisely the same proof that the eye was made for vision, as there is that the telescope was made for assisting it. They are made upon the same principles; both being adjusted to the laws by which the transmission and refraction of rays of light are regulated. I speak not of the origin of the laws themselves; but such laws being fixed, the construction, in both cases, is adapted to them. 
-#+END_QUOTE
-*** The Eye
-#+BEGIN_HTML
-<img src="http://proteviblog.typepad.com/.a/6a00d8341ef41d53ef01901f05b5bd970b-pi" />
-#+END_HTML
-
-*** Adaptation
-- the eye is /perfectly adapted/ to its task
-- the /purpose/ of the eye /explains/ its construction
-  - adaptation of the one to the other /evidences/ the Creator
-    #+ATTR_REVEAL: :frag (appear)
-    #+BEGIN_QUOTE
-    Sturmius held, that the examination of the eye was a cure for atheism. Beside that conformity to optical principles which its internal constitution displays, and which alone amounts to a manifestation of intelligence having been exerted in the structure... there is to be seen, in every thing belonging to it and about it, an extraordinary degree of care...
-
-    What does chance ever do for us? In the human body, for instance, chance, i. e.the operation of causes without design, may produce a wen, a wart, a mole, a pimple, but never an eye. Amongst inanimate substances, a clod, a pebble, a liquid drop might be; but never was a watch, a telescope, an organized body of any kind, answering a valuable purpose by a complicated mechanism, the effect of chance. In no assignable instance hath such a thing existed without intention somewhere. 
-    #+END_QUOTE
-    #+BEGIN_NOTES
-    Sturmius, Jacob Sturm, 8th c. monk
-    - impossibility of /chance/ producing /adaptation/ 
-    #+END_NOTES
-
-*** In the Human Body
-#+BEGIN_QUOTE
- Another mechanical contrivance, not unlike the last in its object, but different and original in its means, is seen in what anatomists call the fore-arm; that is, in the arm between the elbow and the wrist. Here, for the perfect use of the limb, two motions are wanted; a motion at the elbow backward and forward, which is called a reciprocal motion; and a rotatory motion, by which the palm of the hand, as occasion requires, may be turned upward. How is this managed? The forearm, it is well known, consists of two bones....
-
-A single bone in the fore-arm, with a ball and socket joint at the elbow, which admits of motion in all directions, might, in some degree, have answered the purpose of both moving the arm and turning the hand. But how much better it is accomplished by the present mechanism...
-#+END_QUOTE
-#+BEGIN_NOTES
-- Raises ADAPTATION to the star argument in the Nat. THeo. canon of arguments.
-- with impressive erudition, assembles detailed evidence from ocmparative anatomy to show the impressive array of adaptatins in nature.  
-#+END_NOTES
-*** In Sum
-- Perfect adaptation
-- Perfect Harmony
-- A Mechanical, but Divine, Universe
-- A Fixed & established Order (e.g., species)
-  #+BEGIN_QUOTE
-  And God made the beast of the earth after his kind, and cattle after their kind, and every thing that creepeth upon the earth after his kind (Genesis 1:25)
-  #+END_QUOTE
-** Challenges: A Progressive Universe
-- Thermodynamics: the Second Law
-  - Fossils: Extinct Species
-  #+BEGIN_NOTES
-  (in theology, "progressive universe" is a narrative of /fall/ leading to /final running down of things/ 
-  #+END_NOTES
-** Transformism before Darwin
-- Darwin /not/ the first evolutionist
-- Erasmus Darwin (1731-1802)
-- Jean-Baptiste Lamarck (1744-1829)
-  #+BEGIN_NOTES
-  Erasmus: free thinker, abolitionist, philanderer, black sheep; /Romantic/ Evolutinist;
-
-  Would it be too bold to imagine, that in the great length of time, since the earth began to exist, perhaps millions of ages before the commencement of the history of mankind, would it be too bold to imagine, that all warm-blooded animals have arisen from one living filament, which THE GREAT FIRST CAUSE endued with animality, with the power of acquiring new parts, attended with new propensities, directed by irritations, sensations, volitions, and associations; and thus possessing the faculty of continuing to improve by its own inherent activity, and of delivering down those improvements by generation to its posterity, world without end!
-  #+END_NOTES
-  
-*** Lamarckian Transformism
-/Zoologie Philosophique/ (1809)
-- /No Such Thing/ as "Species"
-- Species slowly transformed over time.
-- drive towards increasing complexity and perfection (“life force”)
-- constant rather than singular Creation (“spontaneous generation”)
-- Law of Use and Disuse (“inheritance of acquired characteristics”) (the Giraffe’s neck)
-
-*** Lamarck's Ladder
-#+ATTR_HTML: :style max-height: 650px;
-[[file:~/Dropbox/Work/Religion/RLG231/Images/lamarcks_ladder.jpg]]
-*** Transformism in Britain
-- Revolution! Republic! Rabble! Ruin!
-- /Vestiges of the Natural History of Creation/ (1844)
-#+BEGIN_NOTES
-- "gutter press" (pornography! Revolution! Heresy! Dissent!)
--   Vestiges: 'everything/ is transmuting (e.g., solar system (nebular hyp.), species, etc.  
-#+END_NOTES
-** Young Darwin
-#+ATTR_HTML: :class paired
-- Prosperous, Proper, Respectable Family (except Erasmus!)
-- a medical & religious education
-- a love of beetles
-- Cambridge: Paley, Malthus
-#+ATTR_HTML: :class paired
-http://static.guim.co.uk/sys-images/Guardian/About/General/2010/12/31/1293818297081/A-chalk-and-watercolour-d-007.jpg
-  #+BEGIN_NOTES
-  Edinburgh: exposure to transformism; /progressive/ view of the world at its peok there; 
-  I always think of him as Jonathan Strange!
-  - "The charles Problem"
-  - rejects Lamarckism b/c no /mechanism/
-  - Malthus: /Essay on Population; poverty inevitable, b/c  populations increased at a geometric rate, while production of food always increased at an arithmetical rate.  
--divine insitution (prevents laziness)
-  #+END_NOTES
-** Voyage on the Beagle (1831-36)
-http://www.oum.ox.ac.uk/learning/htmls/images/map.gif
-*** Darwin's role
-- hired as "gentleman's companion", but also naturalist
-- incredible opportunities to collect, observe
-- lots of time to read!
-  - A. v. Humboldt, /Kosmos/
-  - C. Lyell, /Principles of Geology/
-*** Deep Time
-- "Uniformitarianism"
-- accretion of tiny changes
-- Galápagos: terrestrial change at work
-http://upmagazine-tap.com/wp-content/uploads/2011/12/Gal%C3%A1pagos-lava-1-sullivan-bay-700x525.jpg
-*** Variation
-https://upload.wikimedia.org/wikipedia/commons/a/ae/Darwin%27s_finches_by_Gould.jpg
-*** Thin Line between human and ape
-- Fuegian Missionaries!
-** Back home -- the puzzle, and a solution
-- /Voyage of the Beagle/ -- Rise to fame.
-- returns to this substantial collection
-- But serious puzzles:
-  - God's /profligacy/ of creation?
-  - /divergence/ from common ancestor
-  - /scary/: Secret notebooks, critical colleagues, no mechanism
-    #+BEGIN_NOTES
-    takes 10 yrs to develop it: 1944 notebooks: natural selection
-    #+END_NOTES
-*** Superfecundity 
-- 1838: rereading Malthus
-- overproduction; competition; struggle for existence
-- how much greater in Nature!
-  #+BEGIN_NOTES
-  A single pair of frogs might produce thousands of offspring every year!  Why was the world not overrun with frogs? (Browne, 387-8).  To overcome this superfecundity, there must be a kind of ‘war’ within the species, a competition for survival, a struggle for existence, that allowed only the strongest to survive.
-  #+END_NOTES
-*** Descent with Modification
-- human breeders (framers, also hobbyists)
-- /divergence/ of child from parent
-- /forces/ in environment selecting
-- /death/ as creative force
-  #+BEGIN_NOTES
-  Was it possible that nature selected survivors as carefully as people selected breeders?  A natural selection analogous to artificial selection, that could account for both divergence of species and their adaptation to their environments?   Suppose 6 puppies born, he scribbled in his secret notebook:  some have longer legs than others.  in struggle for existence, maybe only two survive.  If some force in the environment favours long-legged dogs – whether natural or artificial – then in 10,000 years the long-legged breed would win out.  
-  #+END_NOTES
-*** Natural Selection and Adaptation
-- /nature itself/ selecting descendants
-- impersonal force explains adaptation
-- no need for "intelligent designer"
-#+BEGIN_NOTES
-here was an explanation of evolution far more powerful than Lamarck’s 
-– an explanation which relied on no metaphysical life force, an explanation which demanded no increasing perfection.  Species changed in the direction demanded by the environment; but that didn’t mean they got more perfect, just better-adapted.  All the theory needed was time – vast, unimaginable stretches of it.  And Lyell had already given Darwin as much time as he needed, and more.  
-#+END_NOTES
-*** The Theory, Summarized
-- *Superfecundity*    (from Malthus) combined with
-- *Descent with Modification* (from breeders) leads to a 
-- *Struggle for Existence* (Malthus again) where survival rates are dictated by
-- *Natural Selection*, by analogy to Artificial Selection (from breeders)
-- Over *vast periods of time* (from Lyell),
-- resulting in 
-- the *divergence of species* (from Galápagos bird species) 
-- and their seemingly perfect *adaptation* to their environment,
-- into the full spectacle of *diversity* we see today.
-*** Summarized again
-|            | Fixity        | Lamarck                                   | Natural Selection                                  |
-| Diversity  | Sep. Creation | Use, Disuse \rarr digressions on upwarrd path | Selection acts differently in diverse environments |
-| Adaptation | God's Design  | ANimal adapts self                        | Ruthless slection adapts organism to environment   |
-| Time Scale | short or long | long, but change /fast/                   | /immensely/ long and /slow/                        |
-
-** Theological Implications
-- God kicked out of Design! (or is he?)
-- Humans just animals (or are they?)
-- /Permanent/ force in Politics
-  - Herbert Spencer
-  - Francis Galton
-  - Ernst Haeckel
-  - H.G. Wells, Keynes, the Fabians
-  - Eugenics, Progressivism, Birth control, degeneration...
-- Agnosticism! 
-** Presentations :noexport:
-- Alexei: Geology
-  - James Ussher: 18581-1656 (Earth created Oct. 22, 4004 BC, 6:00pm
-  - James Hutton: Univermitarianism "father of modern geology.  "natural processes or the same in the past, present, and future"
-  - Darwin: intro to Neptunism & catastrophism at Edinburgh; Christ's College: Adam Sedgwick, field trips in Wales;
-    - purpose of Beagle: to map coast of South America; and find evidence of the Great Flood
-- Tatjana
-  - Darwin on God, during the period 1836-1859
-  - Church on Darwin: Church of England actually made accommodations  with this ideas
-  - Darwin on religion:
-    - compulsion to believe in a man-like creative force; sense of "sublime beauty" wanes;
-    - QUESTION: death of Darwin's daughter
-  - Fuegians: no God; but also, no clothes
-* 08 Creation and Design
-:PROPERTIES:
-:EXPORT_FILE_NAME: 08-creation-design
-:END:
-** Recap
-- Darwin's transformation of /adaptation/ argument from Nat. Theo.
-- "2^nd Act" of de-centring the Universe
-- apparent removal of God from direct acts of creation
-- Tends to make Nat. Theo. quite a bit more difficult
-- "But this is atheism" says Paley, and others agree
-** Synopsis
-- Modern Creationism: Its roots and dynamics
-- The Rise of Intelligent Design
-- Exporting american creation stories
-** Defining our Terms
-- Strict Creationism: 6 literal days of Creation ~4000 BCE
-- Progressive Creationism: 6 "epochs" of creation
-- Theistic Evolution: An Evolution guided by God (esp Human Evolution)
-
-** The Triumph of Evolution, and its Open Questions
-- 1880: sweep of academic institutions
-- can /natural selection/ account for all changes
-- 1920's-40's: "Darwinian Synthesis"
-  - Mendelian genetics
-  - Lab studies of selective pressure (Morgan, /Drosophila/)
-  - Mathematical models of mutation and "trait fixing" (Fisher, Haldane, Wright)
-- supplemented with /additional mechanisms/: drift, sexual selection, gene jumping, etc.
-  - careful to avoid fallacy of "disproof"
-
-** The American Context: Fundamentalism
-- American "Evangelical" Revivalism
-  - Its Emipirical, Baconian Bent
-- Rebirth as "Fundamentalism" after WWI
-  - "militantly anti-modernist Protestant evangelicalism" (Marsden) 
-#+BEGIN_NOTES
-"Reactionary Modernism"
-
-evangelical: family of Protestant traditions desended form English Reformaiton, basic set of religious ocnvictions: "conversionism, belief that lives need to be hcanged; activism, expression of gospel in effort; biblicism, particular regard for the bible; curicentrism, stress onthe sacrifice of Christ" Part of broader /pietism/ which survives in the US but is much less successful in Europe in the c. 20.  
-#+END_NOTES
-
-** Early Reception
-- Universal Acceptance of both deep time and Darwinian Evlution
-- many Darwinians extremely devout; no apparent contradiction
-
-** Bryan and The Scopes Trial
-- William Jennings Bryan (1860-1925)
-  - Progressive, Populist Democrat; enemy of Gold Standard; Prohibitionist; anti-militarist
-- Bryan's "evolution": from "silly idea" \rarr dangerous enemy
-  - Why? WWI
-- Darrow: Trial Lawyer, atheist or agnostic, rationalist, militant defender of labor rights
-- Confrontation of two strands that might both be called "Progressive"
-
-*** Trial as Theatre
-- Scopes's role
-- Inevitability of Outcome
-- Inconclusiveness of Appeal
-- Polarizing Effects
-
-*** Anti-Evolution arguments
-- Darwinism /not scientific/
-  #+BEGIN_QUOTE
-  The evolutionist guesses that there was a time when eyes were unknown -- that is a necessary part of the hypothesis... a piece of pigment.... appeared upo n the skin of an animal that had no eyes.  [It] converged the rays of the sun upon that spot and when the animal felt the heat... it turned the spot to the sun to get more heat.... [This] irritated the skin... and a nerve came there and out of the nerve came the eye!
-  #+END_QUOTE
-- Evolution /dangerously immoral/
-#+BEGIN_NOTES
-Arguments against Evolution as "unscientific" are particularly /Baconian/: they see science as pure observation, stripped of theoretical apparatus.  
-
-Also, beginnings of a prejudice agianst complexity. 
-
-Bryan's Admission: "no objection to evolution before man but for the fact that a concession as tothe truth of evolution up to man furnishes our opponents with an argument which they are quick to use"
-#+END_NOTES
-
-*** Outcomes
-- inconclusive \rarr textbook purging, 
-** The Rise of "Creation Science"
-- /Deluge Geology/ 1935-1945
-- Characterized by lack of scholarly apparatus, denial of fundamental tenets of contemporary geology
-- /Genesis Flood/ 1961, at least had footnotes
-- New wave of Creationist Science
-  - moderated by evangelical scientists more committed to institutional framework of Creationism
-** The "Teach the Controversy" Approach
-- /use/ American "establishment" clause to own advantage
-- just as /atheists/ not required to pray,
-- /Fundamentalists/ permitted to "express their own views" at school
-** Intelligent Design
-- "Irreducible Complexity"
-- the bacterial flagellum
-http://darwin200.christs.cam.ac.uk/imgs/content/casestudies_flagella.jpg
-*** Philosophical Problems
-- defining criteria for "intelligence"
-- defining boundaries of "science"
-- promoting /only/ difficulties, never discussing those cases that evolution explains better than creation
-** Exporting Creationism
-- Translation into many languages
-- Resurfacing of arguments e.g. in Fundamentalist Islam (evolution banned in the Islamic Caliphate)
-- Petri dish of apple-pie American conditions transcending itself:
-  - Sep. of church and state
-  - home-grown fundamentalisms
-  - scepticis
-m about centralized authorities (school borads, ministry of education)
-  - combination of /high technical prowess/ with /limited scientific education/
-** What's at stake?
-- *Human* evolution
-- reise of secular humanism 
-** Presentations :noexport:
-- Vivian: Scopes: straw man; Brian & Darrow
-  - Bryan: "Great Commoner"; Prohibition; against evolutin
-  - Darrow: agnostic; rationalist; leading membero f ACLU
-  - Bryan:
-    - "Honest Christian folk who wanted to shield their children from anti-religios ideas"
-    - Darwinism as /cause/ and /symptom/ of degeneration of human civilization
-      - W W I *important*
-      - jazz age
-      - discourse of degeneration
-    - carnival atmosphere
-- Pavithra
-  - Dover Case
-  - View of Science "Darwin's theory is just a theory"
-  - first amendment. scepticism towards authority. 
-* 09: God, Dice, and the Universe
-:PROPERTIES:
-:EXPORT_FILE_NAME: 09-god-dice-universe
-:END:
-** 
-#+BEGIN_QUOTE
-Speaking of the spirit that informs modern scientific investigations, I am of the opinion that all the finer speculations in the realm of science spring from a deep religious feeling, and that without such feeling they would not be fruitful. I also believe that, this kind of religiousness, which makes itself felt today in scientific investigations, is the only creative religious activity of our time. The art of today can hardly be looked. (Einstein, 1930, in Jammer, 2002)
-#+END_QUOTE
-** Recap
-- Creationism as a specifically 20th century, and American, phenomenon
-- Its remarkable capacity to /transcend/ that context
-- Its laser-like focus on /human/ evolution and distinctness
-- evolution as a /moral/ theory first
-- Creation Science and its shortcomings
-- The Captulation of Intelligent Design
-** The New Physics and Religion: Synopsis
-- Essentials of "Modern Physics"
-- Physics, "Religious Feeling", and Religious Tradition
-- The New Physics and Mysticism
-** What was "New Physics?"
-- a statistical universe
-- relativity
-- wave function collapse
-- indeterminacy
-*** A Statistical Universe
-- the Newtonian Billiard-ball universe
-http://media.giphy.com/media/wgdhdQJl6LywM/giphy.gif
-- Entropy and Time's Arrow
-- /probabalistic/ mathematics in Statitistical Mechanics
-- (Maxwell's Demon)
-https://www.auburn.edu/~smith01/notes/demon.gif
-*** Relativity
-Galilean Relativity:
-https://skullsinthestars.files.wordpress.com/2012/09/galileantennis.jpg
-http://www.physics.ucla.edu/demoweb/demomanual/mechanics/ballistics/galilean_relativity1.gif
-*** Relativity: Electricity & Magnetism
-- Maxwell's equations:
-- Moving Conductor Problem
-#+ATTR_HTML: :class paired
-  http://cdnstatic.visualizeus.com/thumbs/63/e3/63e3cd45a0a5f3430f2493be8c528281_h.jpg
-#+ATTR_HTML: :class paired
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/060618_conductor_magnet.svg/450px-060618_conductor_magnet.svg.png 
-*** Relativity: The Ether
-https://en.wikipedia.org/wiki/File:MichelsonMorleyAnimationDE.gif
-https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/AetherWind.svg/640px-AetherWind.svg.png
-*** Einsteinian Relativity
-- Clocks and Rods
-- constant Speed of Light
-- Bam! "Relativity" of time and space
-https://upload.wikimedia.org/math/4/1/8/41898d25611a3359aa6bb3a9a7cac36a.png
-*** Consequences
-https://upload.wikimedia.org/math/4/1/8/41898d25611a3359aa6bb3a9a7cac36a.png
-- relativity of Simultaneity
-- Length Contraction
-- Time Dilation
-- Mass-Energy equivalence
-*** Length Contraction
-http://www.physicsclassroom.com/mmedia/specrel/lca.gif
-http://www.physicsclassroom.com/mmedia/specrel/lcb.gif
-http://www.physicsclassroom.com/mmedia/specrel/lcc.gif
-*** Wave/Particle Duality
-- single and two-slit experiments
-https://en.wikipedia.org/wiki/Double-slit_experiment#/media/File:Single_slit_and_double_slit2.jpg
-- similar effects for both /photons/ and /electrons/
-- /particle-like/ waves; /wave-like/ particles
-*** Schroedinger Wave-function & Superposition
-- treat quantum-scale phenomena as /wave functins which collapse/
-- these entities are /pure probabilities/
-https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Schrodingers_cat.svg/504px-Schrodingers_cat.svg.png
-*** Uncertainty Principle
-#+BEGIN_QUOTE
-The more precisely the position is determined, the less precisely the momentum is known in this instant, and vice versa. (Heisenberg, 1927)
-#+END_QUOTE 
-- applies to many other "quantum-linked" phenomena
-#+BEGI N_NOTES
- 
-the part of the observer, and with arbitrarily small uncertainty. In quantum description, on the other hand, the "state of the system" cannot be observed without signifi cant influence upon the state, as for example when an attempt is made to ascertain the orbit of an electron in an atom, or to determine the direction of propagation of photons. 
-
-#+END_NOTES 
-
-*** Complementarity
-- Niels Bohr
-- Two vigourously "incompatible views
-- Might one eventually triumph? 
-- "Critical realism" or instrumentalism? 
-[[file:~/Dropbox/Work/Religion/RLG231/Images/bohr-coat-arms.jpeg]]
-*** Cultural Reception
-- Complex!
-
-#+BEGIN_NOTES
-- gray science
-- Jewish science
-- sense that all moral order had retreated
-- lawlessness of nature, lawlessness of action
-- easy parallels 
-#+END_NOTES
-** Interpretations of Quantum Mechanics
-- mere lack of knowledge (Einstein)
-- objective fact about measurement (early Heisenberg)
-- fundamental relationship to observer or knower (Schroedinger)
-- underlying indeterminacy of nature
-- determinism in which all possible worlds are realized (Wheeler Hypothesis)
-** Einstein's Religion
-- Science Superstar!
-- Illustrates complexities of scientists' response
-https://upload.wikimedia.org/wikipedia/commons/d/d3/Albert_Einstein_Head.jpg
-*** Early Upbringing
-- non-religious Jewish household; Germany & Reform Judaism
-- Background both in Catholic catechism & loose Jewish religious training
-- Early religiosity replaced ~12 y.o. with unbelief (refusal of Bar Mitzvah)
-*** Einstein on the Laws of Physics
-- wide equation of "relativity" with "relativism" /never sat well/
-- "Theory of Invariance"
-- special & general relativity both /fully deterministic/ -- but /underlying categories/ of space, time, matter, energy revealed as /elments of a more fundamental invariance/
-- on the EPR Paradox 
-#+BEGIN_QUOTE
-I can, if worst comes to worst, still realize that God may have created a
-world in which there are no natural laws. In short: chaos. But that
-there should be statistical laws with definite solutions, i.e., laws that
-compel God to throw dice in each individual case, I find highly dis-
-agreeable.
-#+END_QUOTE
-*** Einstein's God
-- /must/ be underlying lawfulness in Nature
-- Spinoza: God /is/ that order we apprehend in the world; is not distinct from it
-#+BEGIN_QUOTE
-I do not at all believe in human freedom in the philosophical sense. Everybody acts not only under external compulsion but also in accordance with inner necessity. Schopenhauer’s saying, “ A man can do what he wants, but not want what he wants,” has been a real inspiration to me since my youth; it has been a continual consolation in the face of life’s hardships, my own and others’, and an unfailing wellspring of tolerance. (Einstein, "What I Believe", 1930; from Jammer, p.72)
-#+END_QUOTE
-#+REVEAL_SPLIT
-- /absolute retreat/ from a personal god;
-- Religion as /pure sentiment of wonder/ 
-- "Cosmic religous feeling" arises with recognition of:
-  #+BEGIN_QUOTE
-the futility of human desires and the sublimity and marvelous order which reveals itself both in nature and in the world of thought
-  #+END_QUOTE
-#+BEGIN_NOTES
-talk vaguely about "impact" of Einstein's personal views.
-#+END_NOTES
-*** Einstein and Tagore
-- brief meeting in 1930
-#+BEGIN_QUOTE
-With the breath we draw we must always feel this truth that we are living in God. Born in this great universe full of infinite mystery, we cannot accept our existence as a momentary outburst of chance, drifting on the current of matter towards an eternal nowhere!
-#+END_QUOTE
-#+BEGIN_NOTES
-idea of a universe "mermeated by an idea that reveals itself in an eternal symphony" 
-#+END_NOTES
-http://www.brainpickings.org/wp-content/uploads/2012/04/einsteintagore1.jpg
-*** 
-#+ATTR_HTML: :style width:100%; font-size:14px;
-#+BEGIN_QUOTE
-TAGORE: What we call truth lies in the rational harmony be-
-tween the subjective and objective aspects of reality, both of
-which belong to the superpersonal man.
-
-EINSTEIN: We do things with our mind, even in our everyday
-3life, for which we are not responsible. The mind acknowledges
-realities outside of it, independent of it. For instance, nobody
-may be in this house, yet that table remains where it is.
-TAGORE: Yes, it remains outside the individual mind, but not
-the universal mind. The table is that which is perceptible by
-some kind of consciousness we possess.
-
-EINSTEIN: If nobody were in the house the table would exist all
-the same, but this is already illegitimate from your point of view,
-because we cannot explain what it means, that the table is there,
-independently of us. Our natural point of view in regard to the
-existence of truth apart from humanity cannot be explained or
-proved, but it is a belief which nobody can lack—not even prim-
-itive beings. We attribute to truth a superhuman objectivity. It
-is indispensable for us—this reality which is independent of our
-existence and our experience and our mind—though we cannot
-say what it means.
-
-TAGORE: In any case, if there be any truth absolutely unrelated
-to humanity, then for us it is absolutely non-existing.
-
-EINSTEIN: Then I am more religious than you are!
-
-TAGORE: My religion is in the reconciliation of the superper-
-sonal man, the universal spirit, in my own individual being.
-#+END_QUOTE
-
-* 10: Science, Nature, and Religion
-:PROPERTIES:
-:END:
-:PROPERTIES:
-:EXPORT_FILE_NAME: 10-science-nature-relig
-ion
-:END:
-** Recap
-- questions opened up by new physics:
-  - nature of "law"
-  - regress of explanation
-  - indeterminacy & a place for non-physical explanation
-** Romantic Nature
-#+ATTR_HTML: :style max-height:600px; margin-left:auto; margin-right:auto;
-https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg/800px-Caspar_David_Friedrich_-_Wanderer_above_the_sea_of_fog.jpg
-** Romanticism
-- against a strict materialism
-- "anti"-scientific?
-- /reverence/ for natural objects
-** romantic Science
-https://www.uni-potsdam.de/romanistik/hin/hin25/bilder/700/knobloch/1.jpg
-- vital forces
-- Spinozist quasi-pantheism
-** Transcendentalism in America
-- Emerson, Thoreau
-- Wordsworth
-#+BEGIN_VERSE
-I wandered lonely as a cloud
-That floats on high o'er vales and hills,
-When all at once I saw a crowd,
-A host, of golden daffodils;
-Beside the lake, beneath the trees,
-Fluttering and dancing in the breeze.
-
-(Wordworth, "Daffodils")
-#+END_VERSE
-** Thoreau
-#+ATTR_HTML: :class paired 
-#+BEGIN_QUOTE
-[Katadin] was made out of Chaos and Old Night. Here was no man's garden, but the unhandseled globe.. the fresh and natural surface of the planet Earth... Man was not to be associated with it. It was Matter, vastt, terrific--not this Mother Earth that we have heard of, not for him to tread on.... Talk of Mysteries! Think of our life in nature... Contact! Contact! Who are we? Where are we? 
-#+END_QUOTE
-#+ATTR_HTML: :class paired
-http://benmagrophoto.com/site2011/wp-content/uploads/2012/03/Mt-Katahdin-copy.jpg
-** Late Transcendentalism and the National Parks
-#+ATTR_HTML: :style max-width:47%; float:left;
-#+BEGIN_QUOTE
-In wildness is the preservation of the world. (Thoreau)
-#+END_QUOTE
-#+ATTR_HTML: :class paired
-http://www.yosemite.ca.us/library/matthes/images/john_muir_washington_column.jpg
-#+ATTR_HTML: :class paired
-- John Muir, Yosemite, and the /preservation/ of nature against /depredation/
-- nature /above/ human understanding
-** Science and Nature's goodness
-#+BEGIN_QUOTE
-Nature is not benevolent; Nature is just... makes no exceptions, never tempers her decrees with mercy, or winks at any infringement of her laws.  And in the end is this not best? 
-
-Viewed as a whole, the universe is all good... This is not the language of the heart or of the emotions... it is the language of serene, impartial reason. (Burroughs, /Gospel of Nature/ 1905)
-#+END_QUOTE
-** Conflicts w/in Emergent Preservationism
-- science as /foe/ or /ally/
-- humans as necessary or threatening
-** The continuing revolt against reason
-- WW I (again)
-- Post-Hiroshima
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Atomic_bombing_of_Japan.jpg/1920px-Atomic_bombing_of_Japan.jpg
-** The dark side of technoscience
-- imperatives of "progress"
-- power /over/ nature
-- domination and brutality
-** The Link Between Christianity and Science
-#+BEGIN_QUOTE
-What did Christianity tell people about their relations with the environment?
-... no item in the physical creation had any purpose save to serve man's purpose. And, although man's body is made of clay, the is not simply part of nature: the is made in God's image... Christianity is the most anthropocentric religion the world has seen. (White, "Historical Roots of Our Ecological Crisis", 1967)
-#+END_QUOTE
-** Environmentalism as /Revolt/
-- /Silent Spring/
-- New Social Movements
-- Counter-cutlture
-** Alternatives to science /and/ ":religion"
-- Deep Ecology
-- Neopaganism
-- "the East"
-  - principles of /ahimsa/ in Hindu & Buddhist traditions; 
-- /compassion/ mobilized on behalf of the environment
-** Resurgence of Scientific Environmentalism
-- "climate Change" form nuclear winter to global warming
-- complex climate models of great abstraction
-- economic valuations of natural catastrophe
-- both a resource and a threat to a "spiritual" environmentalism
-** /Laudato Si/
-- Pope Frances's response:
-  seek a purely Catholic response, mostly in St. Francis
-- the two books
-- Genesis: "human life is grounded in three fundamental and closely intertwined relationships: with God, with our neighbour and with the earth itself"
-- Fraternity: "our indifference or cruelty towards fellow creatures of this world sooner or later affects the treatment we mete out to other human beings. We have only one heart, and the same wretchedness which leads us to mistreat an animal will not be long in showing itself in our relationships with other people."
-- Critique of "Technocracy": "Our freedom fades when it is handed over to the blind forces of the unconscious, of immediate needs, of self-interest, and of violence. In this sense, we stand naked and exposed in the face of our ever-increasing power, lacking the wherewithal to control it."
-- on dialogue: " Any technical solution which science claims to offer will be powerless to solve the serious problems of our world if humanity loses its compass, if we lose sight of the great motivations which make it possible for us to live in harmony, to make sacrifices and to treat others well"
-** Summing up
-- no grand testaments!
-- enduring complexity, both /logically/ and /causally/
-- urgency of an ethical orientation; powerlessness of science to provide it; ultimately; a
-
-* Buddhism & Science
-- Epistemology, nature of reality, etc
-- Science of the Mind
-- Buddhism as a "scientific" religion
-- Buddhism &^ psychodelic culture
-- LSDNA, physics, etc  & 
-
-* Religion of Star Trek or whatever 
 * Leftovers                                                        :noexport:
 - enviornmental movement
 - trnascendentalists
@@ -1833,4 +2399,4 @@ What did Christianity tell people about their relations with the environment?
 - shamanistic religions
 - vandana Shiva
 Papal Encyclical: ch 2,3, but also \para 199,200,217218
-** 
+**
